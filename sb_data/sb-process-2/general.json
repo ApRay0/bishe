@@ -1,0 +1,4203 @@
+[
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 24-00-00, page block 301).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 24-00-00, page block 301).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, put the correct access plat-form at the door of the FACILITY_1.\n",
+        "target_txt": "general stage, put the correct access plat-form at the door of the fwd cargo compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, open the door of the FACILITY_1 (refer to amm 52-30-00, page block 201).\n",
+        "target_txt": "general stage, open the door of the fwd cargo compartment (refer to amm 52-30-00, page block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, at the rear of the FACILITY_1, remove the partition panels 131nw and 131pw at fr34.\n",
+        "target_txt": "general stage, at the rear of the fwd cargo compartment, remove the partition panels 131nw and 131pw at fr34.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "put",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, put the correct FACILITY_1 at FACILITY_2 191kb and 192kb.\n",
+        "target_txt": "general stage, put the correct access platform at access panels 191kb and 192kb.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform",
+            "FACILITY_2": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191kb and 192kb (refer to amm 53-35-13, page block 401).\n",
+        "target_txt": "general stage, remove the access panels 191kb and 192kb (refer to amm 53-35-13, page block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, position FACILITY_1.\n",
+        "target_txt": "general stage, position access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the forward DOOR_1 825 (refer to amm 52-30-00). \n",
+        "target_txt": "general stage, open the forward cargo compartment door 825 (refer to amm 52-30-00). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "avionics compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the forward DOOR_1 811 (refer to amm 52-41-00).\n",
+        "target_txt": "general stage, open the forward avionics compartment door 811 (refer to amm 52-41-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "avionics compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, to gain access to the rear electronics rack 80vu, remove: - zone 131, 132, in cargo compartment, FACILITY_1 and partition 131cw (refer to amm 25-54-00).\n",
+        "target_txt": "general stage, to gain access to the rear electronics rack 80vu, remove: - zone 131, 132, in cargo compartment, sidewall panel and partition 131cw (refer to amm 25-54-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, position FACILITY_1.\n",
+        "target_txt": "general stage, position access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 824 (refer to amm 06-41-53).\n",
+        "target_txt": "general stage, open access doors 824 (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1 191kb and 192kb.\n",
+        "target_txt": "general stage, remove access panels 191kb and 192kb.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 825 (refer to amm 52-30-00, p. block 201).\n",
+        "target_txt": "general stage, open cargo compartment door 825 (refer to amm 52-30-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, in FACILITY_1, remove panels 131bw, 131dw and 131gw (refer to amm 06-41-53).\n",
+        "target_txt": "general stage, in fwd cargo compartment, remove panels 131bw, 131dw and 131gw (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "apply",
+                "material"
+            ],
+            [
+                "general stage",
+                "seal",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, apply sealant MATERIAL_1 no. 09-005 (refer to amm 20-31-00).\n",
+        "target_txt": "general stage, apply sealant material no. 09-005 (refer to amm 20-31-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "touch-up",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "touch-up",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, touch-up FACILITY_1 (refer to amm 51-23-11) with MATERIAL_2 no. 13-002, 16-002, 16-006 (refer to amm 20-31-00).\n",
+        "target_txt": "general stage, touch-up protective finish (refer to amm 51-23-11) with material no. 13-002, 16-002, 16-006 (refer to amm 20-31-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (ret . amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (ret . amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put an FACILITY_1 at the fwd passenger/crew door.\n",
+        "target_txt": "general stage, put an access platform at the fwd passenger/crew door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put an FACILITY_1 at the aft cargo compartment.\n",
+        "target_txt": "general stage, put an access platform at the aft cargo compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191kb clh) and 192kb (rh) .\n",
+        "target_txt": "general stage, remove the access panels 191kb clh) and 192kb (rh) .\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "fairing"
+            ],
+            [
+                "general stage",
+                "retain",
+                "fastener"
+            ]
+        ],
+        "target": "STAGE_1, remove and retain the FACILITY_1 and the associated FACILITY_2.\n",
+        "target_txt": "general stage, remove and retain the fairings and the associated fasteners.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fairing",
+            "FACILITY_2": "fastener"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "apply",
+                "surface"
+            ],
+            [
+                "general stage",
+                "apply",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, apply protective treatment on blank FACILITY_1 MATERIAL_2 no. 16-001 and mat . no. 16-002 (refer to amm 20-31-00).\n",
+        "target_txt": "general stage, apply protective treatment on blank surface material no. 16-001 and mat . no. 16-002 (refer to amm 20-31-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, clean applicable FACILITY_1 with MATERIAL_2 no. 11-003 (refer to amm 20-31-00).\n",
+        "target_txt": "general stage, clean applicable surfaces with material no. 11-003 (refer to amm 20-31-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, page block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, page block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the correct FACILITY_1 at the fwd passengcr/crem door.\n",
+        "target_txt": "general stage, put the correct access platform at the fwd passengcr/crem door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the following FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag the following circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "avionics compartment door"
+            ],
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the correct FACILITY_2 at the DOOR_1 822 at the rh side.\n",
+        "target_txt": "general stage, put the correct access platform at the avionics compartment door 822 at the rh side.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "avionics compartment door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "avionics compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 822 (refer to amm 52-41-00, page block 101) .\n",
+        "target_txt": "general stage, open the avionics compartment door 822 (refer to amm 52-41-00, page block 101) .\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "avionics compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, put the correct platform at the aft DOOR_1 826.\n",
+        "target_txt": "general stage, put the correct platform at the aft cargo compartment door 826.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the aft DOOR_1 826.\n",
+        "target_txt": "general stage, open the aft cargo compartment door 826.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 162dw and 162cw.\n",
+        "target_txt": "general stage, remove the access panels 162dw and 162cw.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201)\n",
+        "target_txt": "general stage, de-energize the aircraft electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201)\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical network (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, position FACILITY_1.\n",
+        "target_txt": "general stage, position access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the forward DOOR_1 825 (refer to amm 52-30-00, p. block 201).\n",
+        "target_txt": "general stage, open the forward cargo compartment door 825 (refer to amm 52-30-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, clean working area using MATERIAL_1 no. 11-003 (refer to amm 20-31-00).\n",
+        "target_txt": "general stage, clean working area using material no. 11-003 (refer to amm 20-31-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191bb, fb, gb, hb, jb, kb, mb and 192fb, kb (refer to amm 53-35-13, p. block 401).\n",
+        "target_txt": "general stage, remove the access panels 191bb, fb, gb, hb, jb, kb, mb and 192fb, kb (refer to amm 53-35-13, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 192lb (refer to amm 53-35-11, p. block 401).\n",
+        "target_txt": "general stage, remove the access panel 192lb (refer to amm 53-35-11, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "blanking cap"
+            ],
+            [
+                "general stage",
+                "install",
+                "pipe"
+            ]
+        ],
+        "target": "STAGE_1, install FACILITY_1 on open FACILITY_2, ports and electrical connec\u0002tors.\n",
+        "target_txt": "general stage, install blanking caps on open pipes, ports and electrical connec\u0002tors.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "blanking cap",
+            "FACILITY_2": "pipe"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "bonding connection"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 in accordance with amm 20-28-00, p. block 201).\n",
+        "target_txt": "general stage, install the bonding connections in accordance with amm 20-28-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "bonding connection"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "apply",
+                "surface"
+            ],
+            [
+                "general stage",
+                "apply",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, apply wash primer MATERIAL_2 no. 16-020, polyurethane primer MATERIAL_2 no. 16-001 and top coat MATERIAL_2 no. 16-002 on blank FACILITY_1.\n",
+        "target_txt": "general stage, apply wash primer material no. 16-020, polyurethane primer material no. 16-001 and top coat material no. 16-002 on blank surfaces.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "cut",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, cut the FACILITY_1 to the required length.\n",
+        "target_txt": "general stage, cut the rivets to the required length.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, clean applicable FACILITY_1 with solvent MATERIAL_2 no. 11-003.\n",
+        "target_txt": "general stage, clean applicable surfaces with solvent material no. 11-003.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (re-f. amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (re-f. amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position below the door (824) of the rear avionics compartment.\n",
+        "target_txt": "general stage, put the access platform in position below the door (824) of the rear avionics compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 824 (refer to amm 06-41-53).\n",
+        "target_txt": "general stage, open the access door 824 (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1 :\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers :\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "seal",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to clean the FACILITY_1 that must be sealed with MATERIAL_2 no. 11-003 (refer to cml).\n",
+        "target_txt": "general stage, to clean the surfaces that must be sealed with material no. 11-003 (refer to cml).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "apply",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to apply MATERIAL_1 no. 09-005 (refer to cml) to the interfaces between the structure and the new part.\n",
+        "target_txt": "general stage, to apply material no. 09-005 (refer to cml) to the interfaces between the structure and the new part.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "shorten",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, to shorten the standard FACILITY_1 as required.\n",
+        "target_txt": "general stage, to shorten the standard rivet as required.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to renew the FACILITY_1 (refer to amm 51-23-11) with MATERIAL_2 no. 16-002, 16-006 (refer to cml).\n",
+        "target_txt": "general stage, to renew the protective finish (refer to amm 51-23-11) with material no. 16-002, 16-006 (refer to cml).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ],
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the correct FACILITY_2 at the aft DOOR_1.\n",
+        "target_txt": "general stage, put the correct access platform at the aft cargo compartment door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the aft DOOR_1.\n",
+        "target_txt": "general stage, open the aft cargo compartment door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical, circuits (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical, circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the forward DOOR_1 825 (refer to amm 52-30-00, p. block 201).\n",
+        "target_txt": "general stage, open the forward cargo compartment door 825 (refer to amm 52-30-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 12-34-24, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 24-41-00, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 12-34-24, p. block 201) and electrically ground the aircraft (refer to amm 24-41-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "clamp"
+            ],
+            [
+                "general stage",
+                "loosen",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, hake certain that the FACILITY_1 and supports which have been loosened are installed correctly on completion of this service bulletin.\n",
+        "target_txt": "general stage, hake certain that the clamps and supports which have been loosened are installed correctly on completion of this service bulletin.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "duct"
+            ],
+            [
+                "general stage",
+                "install",
+                "restrictor"
+            ]
+        ],
+        "target": "STAGE_1, blank open ends of FACILITY_1 if the replacement FACILITY_1/FACILITY_2 is not installed immediately.\n",
+        "target_txt": "general stage, blank open ends of ducts if the replacement duct/restrictor is not installed immediately.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "duct",
+            "FACILITY_2": "restrictor"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 12-34-24, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 24-41-00, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 12-34-24, p. block 201) and electrically ground the aircraft (refer to amm 24-41-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "duct"
+            ],
+            [
+                "general stage",
+                "install",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, blank open ends of FACILITY_1 if the replacement FACILITY_1 is not installed immediately.\n",
+        "target_txt": "general stage, blank open ends of ducts if the replacement duct is not installed immediately.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical, circuits (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical, circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, position FACILITY_1.\n",
+        "target_txt": "general stage, position access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 812, 824 (refer to amm 52-41-00).\n",
+        "target_txt": "general stage, open access doors 812, 824 (refer to amm 52-41-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 <refer to amm 12-34-24, p. block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft <refer to amm 12-34-24, p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position. \n",
+        "target_txt": "general stage, put the access platform in position. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191kb and 192kb (refer to amm 53-35-13,  p. block 401).\n",
+        "target_txt": "general stage, remove the access panels 191kb and 192kb (refer to amm 53-35-13,  p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (re-f. amm 24-41-00, p. block 201) and electrically ground\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (re-f. amm 24-41-00, p. block 201) and electrically ground\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platform in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 824 (refer to amm 06-41-52).\n",
+        "target_txt": "general stage, open the access door 824 (refer to amm 06-41-52).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "work area"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to clean the FACILITY_1 with MATERIAL_2 no. 11-003 (refer to cml),\n",
+        "target_txt": "general stage, to clean the work area with material no. 11-003 (refer to cml),\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "work area",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "deburr",
+                "hole"
+            ],
+            [
+                "general stage",
+                "drill",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, after the drilling, deburr the FACILITY_2 and renew the FACILITY_1 (refer to amm 51-23-11) with MATERIAL_3 no. 13-002, 16-001 and 16-002 (refer to cml).\n",
+        "target_txt": "general stage, after the drilling, deburr the holes and renew the protective finish (refer to amm 51-23-11) with materials no. 13-002, 16-001 and 16-002 (refer to cml).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "FACILITY_2": "hole",
+            "MATERIAL_3": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platform in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the avionics compartment DOOR_1 no. 824 (refer to amm 06-41-52).\n",
+        "target_txt": "general stage, open the avionics compartment access door no. 824 (refer to amm 06-41-52).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platform in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 824 (ki t a01) and 822 (ki t a02) (refer to amm 52-41-00).\n",
+        "target_txt": "general stage, open the access doors 824 (ki t a01) and 822 (ki t a02) (refer to amm 52-41-00).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1 :\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers :\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "torque",
+                "threaded component"
+            ]
+        ],
+        "target": "STAGE_1, to torque the FACILITY_1 (refer to amm 20-21-11).\n",
+        "target_txt": "general stage, to torque the threaded components (refer to amm 20-21-11).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "threaded component"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to renew the FACILITY_1 with MATERIAL_2 no. 16-020, MATERIAL_2 no. 16-001, MATERIAL_2 no. 16-002 (the internal area), MATERIAL_2 no. 16-018 (the external area) (refer to cml) .\n",
+        "target_txt": "general stage, to renew the protective finish with material no. 16-020, material no. 16-001, material no. 16-002 (the internal area), material no. 16-018 (the external area) (refer to cml) .\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "seal",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to clean the FACILITY_1 that must be sealed with MATERIAL_2 no. 11-003 (refer to cml) .\n",
+        "target_txt": "general stage, to clean the surfaces that must be sealed with material no. 11-003 (refer to cml) .\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "rivet"
+            ],
+            [
+                "general stage",
+                "apply",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to apply MATERIAL_2 no. 09-025 (refer to cml) to install the FACILITY_1.\n",
+        "target_txt": "general stage, to apply material no. 09-025 (refer to cml) to install the rivets.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "rivet",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_2 in position at the pud DOOR_1.\n",
+        "target_txt": "general stage, put the access platform in position at the pud cargo compartment door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the fwd DOOR_1 (refer to amm 52-30-00, p . block 001).\n",
+        "target_txt": "general stage, open the fwd cargo compartment door (refer to amm 52-30-00, p . block 001).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position at the fwd passenger/crew door.\n",
+        "target_txt": "general stage, put the access platform in position at the fwd passenger/crew door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in amm 21-63-00, p . block 401.\n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in amm 21-63-00, p . block 401.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 <refer to amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft <refer to amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platform in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the fwd DOOR_1 (refer to 52-30-00, p. block 201).\n",
+        "target_txt": "general stage, open the fwd cargo compartment door (refer to 52-30-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "avionics compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open forward DOOR_1 811 (refer to amm 52-41-11).\n",
+        "target_txt": "general stage, open forward avionics compartment door 811 (refer to amm 52-41-11).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "avionics compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the electrical, circuits (refer to amm 24-41-00, p. block 301) and electrically ground the AIRCRAFT_1 (refer to amm 24-00-00, p. block 301).\n",
+        "target_txt": "general stage, de-energize the electrical, circuits (refer to amm 24-41-00, p. block 301) and electrically ground the aircraft (refer to amm 24-00-00, p. block 301).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "oxygen mask"
+            ],
+            [
+                "general stage",
+                "mask",
+                "oxygen mask"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 (refer to amm 35-12-41, p. block 401).\n",
+        "target_txt": "general stage, remove the oxygen masks (refer to amm 35-12-41, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "oxygen mask"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "box"
+            ],
+            [
+                "general stage",
+                "mask",
+                "box"
+            ]
+        ],
+        "target": "STAGE_1, remove the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212 and the mask and stowage FACILITY_1 located inside.\n",
+        "target_txt": "general stage, remove the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212 and the mask and stowage boxes located inside.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "box"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "touch-up",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to do a touch-up with a protective treatment (refer to amm 51-23-11), MATERIAL_1 no. 16.001 and MATERIAL_1 no. 16.007 (refer to cml).\n",
+        "target_txt": "general stage, to do a touch-up with a protective treatment (refer to amm 51-23-11), material no. 16.001 and material no. 16.007 (refer to cml).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position at the passenger/crew door.\n",
+        "target_txt": "general stage, put the access platform in position at the passenger/crew door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in amm 21-52-41, p. block 401.\n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in amm 21-52-41, p. block 401.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position at the FACILITY_2 191kb and 192kb (refer to amm 53-35-13, p . block 401).\n",
+        "target_txt": "general stage, put the access platform in position at the access panels 191kb and 192kb (refer to amm 53-35-13, p . block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform",
+            "FACILITY_2": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ],
+            [
+                "general stage",
+                "retain",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove and retain the FACILITY_1 191kb and 192kb (refer to amm 53-35-13, p. block 401).\n",
+        "target_txt": "general stage, remove and retain the access panels 191kb and 192kb (refer to amm 53-35-13, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, position FACILITY_1.\n",
+        "target_txt": "general stage, position access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 824 (refer to amm 06-41-53).\n",
+        "target_txt": "general stage, open access doors 824 (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1 127df, 127cf, 127bf, 128cf (refer to amm 06-41-53).\n",
+        "target_txt": "general stage, remove access panels 127df, 127cf, 127bf, 128cf (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the following FACILITY_1 :\n",
+        "target_txt": "general stage, open, safety and tag the following circuit breakers :\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to clean FACILITY_1 using MATERIAL_2 no. 11-003 (refer to cml).\n",
+        "target_txt": "general stage, to clean surfaces using material no. 11-003 (refer to cml).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "apply",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to apply MATERIAL_1 no. 09-013 (refer to cml) to interfaces of structure.\n",
+        "target_txt": "general stage, to apply material no. 09-013 (refer to cml) to interfaces of structure.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "shorten",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, to shorten standard FACILITY_1 as required.\n",
+        "target_txt": "general stage, to shorten standard rivet as required.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to renew FACILITY_1 (refer to amm 51-23-11) with MATERIAL_2 no. 16-002, 16-006 (refer to cml) .\n",
+        "target_txt": "general stage, to renew protective finish (refer to amm 51-23-11) with material no. 16-002, 16-006 (refer to cml) .\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "torque",
+                "threaded component"
+            ]
+        ],
+        "target": "STAGE_1, to torque FACILITY_1 (refer to amm 20-21-11)\n",
+        "target_txt": "general stage, to torque threaded components (refer to amm 20-21-11)\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "threaded component"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, put the correct platform at the aft DOOR_1 826.\n",
+        "target_txt": "general stage, put the correct platform at the aft cargo compartment door 826.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the aft DOOR_1 826.\n",
+        "target_txt": "general stage, open the aft cargo compartment door 826.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 162dw and 162cw.\n",
+        "target_txt": "general stage, remove the access panels 162dw and 162cw.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (re-f. amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (re-f. amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position below the door (824) of the rear avionics compartment.\n",
+        "target_txt": "general stage, put the access platform in position below the door (824) of the rear avionics compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 824 (refer to amm 06-41-53).\n",
+        "target_txt": "general stage, open the access door 824 (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1 :\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers :\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "seal",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to clean the FACILITY_1 that must be sealed with MATERIAL_2 no. 11-003 (refer to cml).\n",
+        "target_txt": "general stage, to clean the surfaces that must be sealed with material no. 11-003 (refer to cml).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "apply",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to apply MATERIAL_1 no. 09-005 (refer to cml) to the interfaces between the structure and the new part.\n",
+        "target_txt": "general stage, to apply material no. 09-005 (refer to cml) to the interfaces between the structure and the new part.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "shorten",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, to shorten the standard FACILITY_1 as required.\n",
+        "target_txt": "general stage, to shorten the standard rivet as required.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to renew the FACILITY_1 (refer to amm 51-23-11) with MATERIAL_2 no. 16-002, 16-006 (refer to cml).\n",
+        "target_txt": "general stage, to renew the protective finish (refer to amm 51-23-11) with material no. 16-002, 16-006 (refer to cml).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ],
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the correct FACILITY_2 at the aft DOOR_1.\n",
+        "target_txt": "general stage, put the correct access platform at the aft cargo compartment door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the aft DOOR_1.\n",
+        "target_txt": "general stage, open the aft cargo compartment door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical, circuits (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical, circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the forward DOOR_1 825 (refer to amm 52-30-00, p. block 201)\n",
+        "target_txt": "general stage, open the forward cargo compartment door 825 (refer to amm 52-30-00, p. block 201)\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 12-34-24, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 24-41-00, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 12-34-24, p. block 201) and electrically ground the aircraft (refer to amm 24-41-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.\n",
+        "target_txt": "general stage, put the access platforms in position.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "clamp"
+            ],
+            [
+                "general stage",
+                "loosen",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, hake certain that the FACILITY_1 and supports which have been loosened are installed correctly on completion of this service bulletin.\n",
+        "target_txt": "general stage, hake certain that the clamps and supports which have been loosened are installed correctly on completion of this service bulletin.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "duct"
+            ],
+            [
+                "general stage",
+                "install",
+                "restrictor"
+            ]
+        ],
+        "target": "STAGE_1, blank open ends of FACILITY_1 if the replacement FACILITY_1/FACILITY_2 is not installed immediately.\n",
+        "target_txt": "general stage, blank open ends of ducts if the replacement duct/restrictor is not installed immediately.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "duct",
+            "FACILITY_2": "restrictor"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the fwd DOOR_1 (refer to amm 52-30-00, p. block 1) . \n",
+        "target_txt": "general stage, open the fwd cargo compartment door (refer to amm 52-30-00, p. block 1) . \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the FACILITY_1.\n",
+        "target_txt": "general stage, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the fwd cargo compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "passenger seat"
+            ],
+            [
+                "general stage",
+                "remove",
+                "floor panel"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the FACILITY_1 between fr32 and fr35, lh and remove the FACILITY_2 231yf from the outer FACILITY_2 row, lh. (refer to amm 25-21-41, p. block 401).\n",
+        "target_txt": "general stage, disconnect the passenger seats between fr32 and fr35, lh and remove the floor panel 231yf from the outer floor panel row, lh. (refer to amm 25-21-41, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "passenger seat",
+            "FACILITY_2": "floor panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put an FACILITY_1 in position at the passenger/crew door. \n",
+        "target_txt": "general stage, put an access platform in position at the passenger/crew door. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in amm 21-61-34,  p. block 401. \n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in amm 21-61-34,  p. block 401. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access door"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put an FACILITY_2 in position at the DOOR_1 811. \n",
+        "target_txt": "general stage, put an access platform in position at the access door 811. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 811.\n",
+        "target_txt": "general stage, open the access door 811.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position at the fwd passenger/crew door. \n",
+        "target_txt": "general stage, put the access platform in position at the fwd passenger/crew door. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in amm 21-63-34, p. block 401. \n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in amm 21-63-34, p. block 401. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access door"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_2 in position at the DOOR_1 811. \n",
+        "target_txt": "general stage, put the access platform in position at the access door 811. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 811.\n",
+        "target_txt": "general stage, open the access door 811.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground th\u00e9 AIRCRAFT_1 (r\u00e9f. amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, electrically ground th\u00e9 aircraft (r\u00e9f. amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191kb, 191bb, 192fb and 192kb (refer to amm 53-35-13, p. block 401).\n",
+        "target_txt": "general stage, remove the access panels 191kb, 191bb, 192fb and 192kb (refer to amm 53-35-13, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, put a FACILITY_1 in the cockpit to tell persons not to operate the air cooling system (refer to amm 21-52-00, p. block 501).\n",
+        "target_txt": "general stage, put a warning notice in the cockpit to tell persons not to operate the air cooling system (refer to amm 21-52-00, p. block 501).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, clean FACILITY_1 with solvent MATERIAL_2 no. 11-003.\n",
+        "target_txt": "general stage, clean surfaces with solvent material no. 11-003.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, install the bolts and nuts with corrosion preventive compound MATERIAL_1 no. 05-005d.\n",
+        "target_txt": "general stage, install the bolts and nuts with corrosion preventive compound material no. 05-005d.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "installation"
+            ],
+            [
+                "general stage",
+                "install",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, coat the bolts and nuts after the FACILITY_1 with anti-corrosion compound MATERIAL_2 no. 05-002.\n",
+        "target_txt": "general stage, coat the bolts and nuts after the installation with anti-corrosion compound material no. 05-002.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "installation",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "bonding connection"
+            ]
+        ],
+        "target": "STAGE_1, install FACILITY_1 in accordance with amm 20-28-00, p. block 201.\n",
+        "target_txt": "general stage, install bonding connections in accordance with amm 20-28-00, p. block 201.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "bonding connection"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put FACILITY_1 in position. \n",
+        "target_txt": "general stage, put access platforms in position. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 811. \n",
+        "target_txt": "general stage, open the access door 811. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety.and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety.and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, put a FACILITY_1 in the cockpit to tell persons not to operate the air cooling system (refer to ahm 21-52-00, p. block 501).\n",
+        "target_txt": "general stage, put a warning notice in the cockpit to tell persons not to operate the air cooling system (refer to ahm 21-52-00, p. block 501).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191kb and 192kb.\n",
+        "target_txt": "general stage, remove the access panels 191kb and 192kb.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 24-41-00,, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 24-41-00,, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 822 and 825 (refer to amm 06-41-52).\n",
+        "target_txt": "general stage, open access doors 822 and 825 (refer to amm 06-41-52).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 :\n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers :\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 822 (refer to amm 06-41-53).\n",
+        "target_txt": "general stage, open access door 822 (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, install FACILITY_1.\n",
+        "target_txt": "general stage, install access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the following FACILITY_1 :\n",
+        "target_txt": "general stage, open, safety and tag the following circuit breakers :\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p.block 2011. \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p.block 2011. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position. \n",
+        "target_txt": "general stage, put the access platforms in position. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in amm 21-51-51,  p. block 401. \n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in amm 21-51-51,  p. block 401. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, open the FACILITY_1 191kb and 192kb (refer to amm 53-35-13, p. block 401)\n",
+        "target_txt": "general stage, open the access panels 191kb and 192kb (refer to amm 53-35-13, p. block 401)\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in (refer to amm 21-63-42, p. block 401).\n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in (refer to amm 21-63-42, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24,  p. block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24,  p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p.block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p.block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, put a FACILITY_1 in the cockpit to tell persons not to oper\u0002ate the air cooling system (refer to amm 21-52-00, p.block 501). \n",
+        "target_txt": "general stage, put a warning notice in the cockpit to tell persons not to oper\u0002ate the air cooling system (refer to amm 21-52-00, p.block 501). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191iu3 and 192kb (refer to amm 53-35-13,  p.block 401).\n",
+        "target_txt": "general stage, remove the access panels 191iu3 and 192kb (refer to amm 53-35-13,  p.block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "work area"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, clean the FACILITY_1 with solvent, methylethylketone cmek)  MATERIAL_2 no. 11-003.\n",
+        "target_txt": "general stage, clean the work area with solvent, methylethylketone cmek)  material no. 11-003.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "work area",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "screw"
+            ],
+            [
+                "general stage",
+                "install",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, install FACILITY_1 with anti-corrosion compound, MATERIAL_2 no. 05-002. \n",
+        "target_txt": "general stage, install screws with anti-corrosion compound, material no. 05-002. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "screw",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "torque",
+                "threaded component"
+            ]
+        ],
+        "target": "STAGE_1, to torque FACILITY_1 refer to amm 20-21-12. \n",
+        "target_txt": "general stage, to torque threaded components refer to amm 20-21-12. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "threaded component"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, renew FACILITY_1 with wash primer, MATERIAL_2 no. 16-005, poly\u0002urethane primer, MATERIAL_2 no. 16-001 and polyrurethane top coat, MATERIAL_2 no. 16-002.\n",
+        "target_txt": "general stage, renew protective finish with wash primer, material no. 16-005, poly\u0002urethane primer, material no. 16-001 and polyrurethane top coat, material no. 16-002.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201),\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201),\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put an FACILITY_1 in position at the passenger/crew door.\n",
+        "target_txt": "general stage, put an access platform in position at the passenger/crew door.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in amm 21-61-34, p. block 401 and amm 21-51-11, p. block 401.\n",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in amm 21-61-34, p. block 401 and amm 21-51-11, p. block 401.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access door"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put an FACILITY_2 in position at the DOOR_1 811.\n",
+        "target_txt": "general stage, put an access platform in position at the access door 811.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 811 of the avionics compartment.\n",
+        "target_txt": "general stage, open the access door 811 of the avionics compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access panel"
+            ],
+            [
+                "general stage",
+                "open",
+                "box"
+            ]
+        ],
+        "target": "STAGE_1, open the FACILITY_1 191kd and 192kd on the keel beam FACILITY_2, zone 191 and 192.\n",
+        "target_txt": "general stage, open the access panels 191kd and 192kd on the keel beam box, zone 191 and 192.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel",
+            "FACILITY_2": "box"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p.  block 201)\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p.  block 201)\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p . block 201).\n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 197bb.\n",
+        "target_txt": "general stage, remove the access panel 197bb.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag this FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag this circuit breaker:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open the DOOR_1 811 at the forward avionics compartment  (refer to amm 52-41-00, p. block 001). \n",
+        "target_txt": "general stage, open the access door 811 at the forward avionics compartment  (refer to amm 52-41-00, p. block 001). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag this (these) FACILITY_1(s):\n",
+        "target_txt": "general stage, open, safety and tag this (these) circuit breaker(s):\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ],
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put FACILITY_2 at the aft DOOR_1 826 and at the outflow valve zone 172.\n",
+        "target_txt": "general stage, put access platforms at the aft cargo compartment door 826 and at the outflow valve zone 172.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the aft DOOR_1 826 <refer to amm 52-30-00, p. block 201).\n",
+        "target_txt": "general stage, open the aft cargo compartment door 826 <refer to amm 52-30-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "cargo compartment door"
+            ],
+            [
+                "general stage",
+                "attach",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, attach a yarning placard to the aft DOOR_1, to tell persons not to close the door. this prevents accidental pressurization of the .AIRCRAFT_2 when all the cabin openings are closed.\n",
+        "target_txt": "general stage, attach a yarning placard to the aft cargo compartment door, to tell persons not to close the door. this prevents accidental pressurization of the .aircraft when all the cabin openings are closed.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door",
+            "AIRCRAFT_2": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 162dv and 162cv (refer to amm 06-41-53, p. block 1) .\n",
+        "target_txt": "general stage, remove the access panels 162dv and 162cv (refer to amm 06-41-53, p. block 1) .\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24,  p. block 201). \n",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24,  p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, put a FACILITY_1 in the cockpit to tell persons not to  operate the air cooling system (refer to amm 21-52-00,  p. block 501). \n",
+        "target_txt": "general stage, put a warning notice in the cockpit to tell persons not to  operate the air cooling system (refer to amm 21-52-00,  p. block 501). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 191kb and 192kb (refer to amm 53-35-13,  p. block 401)\n",
+        "target_txt": "general stage, remove the access panels 191kb and 192kb (refer to amm 53-35-13,  p. block 401)\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, renew FACILITY_1 with wash primer, MATERIAL_2 no. 16-005,  polyurethane primer, MATERIAL_2 no. 16-001 and polyurethane top coat, t  MATERIAL_2 no. 16-002.\n",
+        "target_txt": "general stage, renew protective finish with wash primer, material no. 16-005,  polyurethane primer, material no. 16-001 and polyurethane top coat, t  material no. 16-002.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1 191kb (for 10hm), 192kb (for 11hm) (refer to amm 53-35-13, p. block 401).\n",
+        "target_txt": "general stage, remove access panel 191kb (for 10hm), 192kb (for 11hm) (refer to amm 53-35-13, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "blanking cap"
+            ]
+        ],
+        "target": "STAGE_1, put FACILITY_1 on disconnected plugs and blanking plugs on disconnected line ends.\n",
+        "target_txt": "general stage, put blanking caps on disconnected plugs and blanking plugs on disconnected line ends.\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "blanking cap"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "general stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits  (refer to amm 24-41-00, p. block 201) and electrically ground the  AIRCRAFT_1 (refer to amm 12-34-24, p. block 201). \n",
+        "target_txt": "general stage, de-energize the aircraft electrical circuits  (refer to amm 24-41-00, p. block 201) and electrically ground the  aircraft (refer to amm 12-34-24, p. block 201). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "install",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, install FACILITY_1. \n",
+        "target_txt": "general stage, install access platforms. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 831 and 841 (refer to amm 06-41-52). \n",
+        "target_txt": "general stage, open access doors 831 and 841 (refer to amm 06-41-52). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "access door"
+            ]
+        ],
+        "target": "STAGE_1, open DOOR_1 811, 812 and 822 (refer to ahm 06-41-53). \n",
+        "target_txt": "general stage, open access doors 811, 812 and 822 (refer to ahm 06-41-53). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "access door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "carpet"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 in the cockpit (refer to amr 25-13-00). \n",
+        "target_txt": "general stage, remove the carpet in the cockpit (refer to amr 25-13-00). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "carpet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "galley unit"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1 at location 1 (refer to amm 25-31-41,  p. block 401). \n",
+        "target_txt": "general stage, remove galley unit at location 1 (refer to amm 25-31-41,  p. block 401). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "galley unit"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "lavatory"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1 a (refer to amm 25-41-41, p. block 401). \n",
+        "target_txt": "general stage, remove lavatory a (refer to amm 25-41-41, p. block 401). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "lavatory"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "dome light"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1 (refer to amm 33-12-11, p. block 401). \n",
+        "target_txt": "general stage, remove dome light (refer to amm 33-12-11, p. block 401). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "dome light"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1 :\n",
+        "target_txt": "general stage, open, safety and tag these circuit breakers :\n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to clean using MATERIAL_1 no. ii-003 (refer to cml). \n",
+        "target_txt": "general stage, to clean using material no. ii-003 (refer to cml). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "torque",
+                "fastener"
+            ]
+        ],
+        "target": "STAGE_1, to torque standard threaded FACILITY_1 (refer to amm 20-21-11). \n",
+        "target_txt": "general stage, to torque standard threaded fasteners (refer to amm 20-21-11). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fastener"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "general stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to renew FACILITY_1 (refer to ahm 51-23-11) using  MATERIAL_2 no. 16-001 and 16-002 (refer to cml). \n",
+        "target_txt": "general stage, to renew protective finish (refer to ahm 51-23-11) using  material no. 16-001 and 16-002 (refer to cml). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "deburr",
+                "hole"
+            ],
+            [
+                "general stage",
+                "drill",
+                "hole"
+            ]
+        ],
+        "target": "STAGE_1, to deburr the FACILITY_1 and refer to the drilling data  (refer to srm 51-44-00). \n",
+        "target_txt": "general stage, to deburr the holes and refer to the drilling data  (refer to srm 51-44-00). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "hole"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "shorten",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, to shorten the FACILITY_1 as necessary. \n",
+        "target_txt": "general stage, to shorten the rivets as necessary. \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "apply",
+                "material"
+            ],
+            [
+                "general stage",
+                "seal",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to apply sealant MATERIAL_1 no. 09-016 (refer to cml). \n",
+        "target_txt": "general stage, to apply sealant material no. 09-016 (refer to cml). \n",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    }
+]

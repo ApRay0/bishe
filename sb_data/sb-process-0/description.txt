@@ -1,0 +1,310 @@
+Removing the hot trim duct (Y-duct) from the trim air system and replacing it with a modified hot trim duct.
+Zones 127, 128, electronics rack 80VU, modification to wiring on CIDS 1 and 2.
+Zones 121, 122, electronics rack 90VU, replace cabin pressure controLLers 11HL and 12HL.
+(1) Gain access to the working area.
+(2) Disconnect the Electric Fan.
+(3) Install the mufflers.
+(4) Install the clamps.
+(5) Connect the Electric Fan.
+(6) Close-up.
+- Remove Packcontrollers as per AMM 21-61-00 Page Block 401 
+- Accomplish LIEBHERR/ABG-SEMCA Service Bulletin 759-21-02 
+- Reinstall Pack controLLers as per AMM 21-61-00 Page Block 401 
+- Test as per AMM 21-61-00 Page Block 501.
+( 1 ) Removing the air cycle machines and the water-extractor temperature sensors.
+( 2 ) Installing a new or modified air cycle machines and water-extractor temperature sensors.
+( 3 ) Performing operational test of the air cooling system.
+- Remove Pack control Lers as per AMM 21-61-00 Page Block 401 
+- Accomplish LIEBHERR/ABG-SEMCA Service Bulletin 759-21-01 
+- Reinstall Pack sontrollers as per AMM 21-61-00 Page Block 401
+- Test as per AMM 21-61-00 Page Block 501.
+( 1 ) DriLLing 2 drain hoLes into the housing of the reheaters as detailed in LIEBHERR ABG-SEMCA Service 3uLLetin No. 755A-21-01.
+DriLLing 2 drain hoLes into the housing of the condensers as detaiLed in LIEBHERR ABG-SEMCA Service BuLLetin No. 756A-21-01.
+Removing the water extractor as per AMM 21-52-16, P . BLock 401.
+( 4 ) DriLLing a drain hole into the housing of the water extractors as detailed in LIEBHERR ABG-SEMCA Service BuLLetin No. 747A-21-01.
+( 5 ) InstaLLing the water extractors as per AMM 21-52-16, P . BLock 401.
+( a ) Removing the water extractor temperature sensors.
+( b ) InstaLLing the water extractor temperature sensors modified as per LIEBHERR ABG-SEMCA Service BuLLetin No. 744A-21-02.
+(a) Removing the air eycLe machines.
+( b ) InstaLLing the air cycLe machines modified as per LIEBHERR ABG-Semca Service BuLLetin No. 757A-21-02.
+( a ) Removing the anti-icing vaLves.
+C b ) InstaLLing the anti-icing vaLves modified as per LIEBHERR ABG-SEMCA Service BuLLetin No. 748A-21-01.
+( 9 ) Removing existing hoses and a pipe from the anti-icing vaLves and instaLL tuo hoses and tuo eLbous, as per Kit A320211007A01.
+(10 ) RepLacing the pipe assemblies specified in LIEBHERR ABG-SEMCA Service BuLLetin No . 748A-21-01.
+Removing the pack outLet pneumatic sensors.
+InstaLLing the pack outLet pneumatic sensors with reduced settings as per LIEBHERR ABG-SEMCA Service 3uLLetin No. 767A-21-01.
+(1) Remove ducts.
+(2) Add and replace diaphragms.
+(3) Install ducts.
+(1) Replacing the protection basket of the outflow valve.
+(1) Installing the protection basket of the outflow valve.
+( 1 ) Position access platforms and gain access to ram air outlets.
+( 2 ) Remove access panels.
+( 3) Remove fairing plates.
+( 4 ) Install bonding strap between ram air outlet and flap.
+( 5 ) Install fairing plates.
+( 6 ) Install access panels.
+Remove access platforms.
+< 1 ) Removing the cargo vent controLLer 10HN P/N 600615-00-501 (Refer to AMM 21-28-34, Page BLock 401) .
+(2) InstaLLing the new cargo vent controLLer 10HN P/N 600615-00-502 (Refer to AMM 21-28-34, Page BLock 401).
+(3) Performing the operational test of the ventilation of the FWD and AFT cargo compartment (Refer to AMM 21-28-34, Page BLock 401).
+Replacing one outflow valve.
+On shelf 83VU, remove all the blanking plugs on the MCU (Modular Concept Unit) related to the ELAC-1 (2CE1).
+On shelf 84VU, remove all the blanking plugs on the MCU (Modular Concept Unit) related to the ELAC-2 (2CE2).
+In zone 131 between STA1430/FR33 and STA1483/FR34, installation of a grill stopping ice particles at end of flight compartment air conditioning duct.
+(1) Gain access to the air conditioning compartment, LH and RH.
+(2) Remove the air conditioning packs, fLow controL valves and associated equipment. NOTE: The removed fLow controL vaLves can be modified to -04 standard in accordance with Liebherr/ABG-Semca Vendor Service BuLLetin No. 751A- 21-01 or returned to the Vendor where they wiL L be modified free of charge.
+(3) Remove, modify and repLace the heat shields.
+(4) Install pressure sensor support brackets on the sidewall structure of the air
+conditioning compartment and the keel beam sidewall.
+(5) Reroute cable bundLes to new pressure sensor positions.
+( 6 ) Install modified/new flow control valves and sense line hoses.
+(7) Replace air conditioning packs.
+( 8) Perform an operational test of the flow control and indicating and the pack
+temperature-control system.
+( 9 ) Close-up.
+( 1) Gaining access to the working area.
+( 2 ) Replacing the existing blowing duct by a new modified blowing duct (equipped with a check valve).
+( 3 ) Test and close-up.
+( 1 ) Removing biLge air inLet funneL.
+( 2 ) InstaLLing air inLet funneL.
+In forward cargo compartment, on left side, between frames 27 to 29.
+Removing left lateral panel 131HW.
+Removing existing basic duct.
+Installing new silenced duct.
+( 1 ) Gaining access to the air conditioning components according to the relevant Kit by freeing passenger seats to allow the removal of sidewall Linings. Removing the ceiling, sidewaLL and floor panels accordingly and the sidewaLL and partition wall panels in the FWD cargo compartment.
+( 2) Modification in the FWD cargo compartment between FR34 and FR36.
+- Replacing the recircuLation fans by modified fans.
+- Removing two distributor ducts for modification on bench and installing the modified ducts.
+- RepLacing the cross-feed ducts with new ducts.
+(3) Modification in the passenger compartment between FR43 and FR60.
+- Replacing the restrictors from the Lower end of the riser ducts between FR43 and FR60.
+- RepLacing a tube at FR51 with a new tube.
+( 4) Modification in the passenger compartment between FR60 and FR67
+- Replacing the restrictor from the Lower end of the riser ducts between FR60 and FR64.
+- Removing the restrictor froa the upper end of the riser duct at FR65.
+- Replacing the caps at the Lower air outlets at FR64 with new caps. 
+- Replacing the Lower air outlets at FR63 with new outlets.
+Modification in the passenger compartment between FR26 and FR43. 
+- Replacing the Lower air outlets at FR36 and FR42 with new air outlets. 
+- Replacing the restrictors from the Lower end of the riser ducts between FR36 and FR42 with new restrictors. 
+- Installing a new restrictor and replacing a hose at FR26. 
+- Removing a main supply duct below the floor panels between FR33 and FR42, LH for modification on bench and installing the modified duct.
+Modification in the passenger- and avionic compartment between FR21 and FR26 and the FUD cargo compartment between FR24 and FR34. 
+- Installing a new restrictor and replacing a hose at FR26 in the passenger compartment. 
+- Removing the supply ducts in the FWD cargo compartment between FR24 and FR34, LH and RH for modifcation on bench and installing the modified ducts. 
+- Removing the supply ducts below the passenger compartment floor panels between FR21 and 24, LH and RH for modification on bench and installing the modified ducts. 
+- Removing the supply duct in the avionic compartment between FR21 and FR23, LH for modification on bench and installing the modified duct.
+(7) Checking the duct connections for air leaks and performing an operational test of the air conditioning system.
+
+( 1 ) Gaining access to the air conditioning components according to the relevant Kit by freeing passenger seats to allow the removal of sidewall Linings. Removing the overhead stowage compartments, ceiling, sidewaLL and floor paneLs accordingly and the partition wall panels of the FWD cargo compartment.
+Modification in the passenger compartment at FR30, RH and LH. 
+- Replacing the riser ducts with new ducts 
+- Replacing the Lower air outlet with new outlets. 
+- Replacing the upper air outlet with new outlets.
+Modification in the passenger compartment between FR30 and FR36, LH and RH
+- Replacing the riser ducts with new ducts 
+- Replacing the Lower air outlet with new outlets.
+- Replacing the upper air outlet with new outlets.
+
+Modification in the passenger compartment between FR36 and FR47, LH and RH. 
+- Replacing the riser ducts with new ducts
+- Replacing the lower air outlet with new outlets.
+- Modification of bracket at FR40. - Replacing the adapter with new adapter.
+- Replacing the upper air outlet with new outlets.
+Modification in passenger compartment between FR36 between PR36 and FR47, LH and RH. 
+- Replacing the riser ducts with new ducts
+- Replacing the Lower air outlets with new outlets.
+- Modification of bracket at FR40.
+- Replacing the adapter with new adapter.
+Modification in the passenger compartment between FR47 and FR 64, LH and RH. 
+- Replacing the riser ducts with new ducts 
+- Replacing the Lower air outlets with new outlets.
+- Replacing the upper air outlet with new outlets.
+Modification in the passenger compartment between FR47 and FR 64, LH and RH. 
+- Replacing the riser ducts with new ducts 
+- Replacing the lower air outlets with new outlets.
+Performing a Leak test in the nodification areas.
+(1) At shelf 88VU of electronics rack 80VU replacement of Avionics Equipment Ventilation Computer (A.E.V.C.) 10HQ modified as per instruction of CROUZET Service Bulletin No. 87292325-21-001.
+(2) In zone 125, suppression of the diaphragm associated to the SKIN EXCHANGER OUTLET BY PASS valve.
+ Removing the air-cycle machines IOHMI and 11HMl. 
+(2) Removing and discarding the pipe assy. 
+(3) InstaLLing the modified air-cycle machines. 
+(4) InstaLLing the new pipe assy. 
+(5) Marking the new part numbers on the name pLates of the air conditioning  packs as detaiLed in para. 3.D.
+In zones 127 and 128, between FR20 and FR24A
+( 1 ) Removing 1 ADIRU3 1FP3 and 1 diaphragm for access.
+(2) Marking and drilling 2 holes in the Lower plate of the ADIRUs support.
+( 3) Installing the diaphragm and the ADIRU.
+(1) In avionics compartment aft of frame 20 on left side, replacement of the existing flexible duct by a longer flexible duct.
+(1) In zone 128, at shelf 88VU of electronics rack 80VU, Replacement of Avionics Equipment Ventilation Computer (A.E.V.C.) 10HQ modified as per instructions in CROUZET Service Bulletin No. 87292325-21-002
+In zone 126, between STA579/FR11 and STA605/FR12, above the right Lateral stringer. Installation of a box and a thermal insulation on the skin temperature sensor 28HQ.
+< 1 ) Identifying, with red sleeves, the connector, 14HK-A and the socket, 14HK-AA, of the TAPRV, 14HK, their Location is between FR34 and FR36.
+( 2 ) Identifying, with blue sleeves, the connector, 14HK-C and the socket, 14HK-AC, of the TAPRV, 14HK.
+( 1 ) Identifying, with a red sleeve, the socket, 14HK-AA, of the TAPRV.
+( 2) Identifying, with a blue sleeve, the socket 14HK-AC, of the TAPRV.
+(1) Installing the tube assembly for the pressure port at PR35.
+( 1 ) In flight compartment, removing the air conditioning system used for the Pilots' feet.
+( 2) Installing the new air conditioning system and its adjustment system.
+( 3 ) Installing the material-panel sassy.
+( 1 ) Modifying the air conditioning packs 10HM and 11HM in-situ from 744AOOOO-07 to 744AOOOO-07 Amdt A (Refer to LIEBHERR ABG-SEMCA Service Bulletin No. 744A-21-04).
+(2) Modifying the air cycle •machines 10HM1 and 11HM1 in-situ from 757AOOOO-07 to 757AOOOO-07 Amdt A (Refer to LIEBHERR ABG-SEMCA Service Bulletin No. 757A-21-04rev 1)
+
+In avionics compartment, zone 127-128 between FR20 and FR24
+( 1 ) Gaining access to the working area.
+( 2 ) Replacing the demister filter assembly by a new modified as per instructions given in LE BOZEC ET GAUTIER Service Bulletin No. 34800A200-2-21-01.
+( 3 ) Installing the new drain system of this filter.
+( 1 ) Replacing one outflow valve
+In avionics coMparfent, zone 127
+( 1) Gaining access to the working area.
+( 2 ) Replacing the existing blowing duct by a new modified blowing duct (equipped with a check valve).
+( 1 ) Removing biLge air inLet funneL.
+( 2 ) InstaLLing air inLet funneL.
+In forward cargo compartment, on left side, between frames 27 to 29,
+(1) Removing left lateral panel 131HW.
+(2) Removing existing basic duct.
+(3) Installing new silenced duct.
+( 1 ) Gaining access to the air conditioning components according to the relevant Kit by freeing passenger seats to allow the removal of sidewall Linings. Removing the ceiling, sidewall and floor panels accordingly and the sidewall and partition wall panels in the FWD cargo compartment. 
+(2) Modification in the FWD cargo compartment between FR34 and FR36. 
+- Replacing the recirculation fans by modified fans. 
+- Removing two distributor ducts for modification on bench and installing the modified ducts.
+ - Replacing the cross-feed ducts with new ducts.
+Modification in the passenger compartment between FR43 and FR60.
+- Replacing the restrictors from the Lower end of the riser ducts between FR43 and FR60.
+- Replacing a tube at FR51 with a new tube.
+ Modification in the passenger compartment between FR60 and FR67
+- Replacing the restrictor from the Lower end of the riser ducts between FR60 and FR64.
+- Removing the restrictor from the upper end of the riser duct at FR65. 
+- Replacing the caps at the Lower air outlets at FR64 with new caps.
+- Replacing the lower air outlets at FR63 with new outlets.
+Modification in the passenger compartment between FR33 and FR43.
+- Replacing the Lower air outlets at FR36 and FR42 with new air outlets.
+- Replacing the restrictors from the Lower end of the riser ducts between FR36 and FR42 with new restrictors.
+- Removing a main supply duct below the floor panels between FR33 and FR42, LH for modification on bench and installing the modified duct.
+( 6 ) Modification in the passenger- and avionic compartment between FR21 and FR26 and the FWD cargo compartment between FR24 and FR34.
+- Installing a new restrictor and replacing a hose at FR26 in the passenger compartment.
+- Removing the supply ducts in the FWD cargo compartment between FR24 and FR34, LH and RH for modifcation on bench and installing the modified ducts. 
+- Removing the supply ducts below the passenger compartment floor panels between FR21 and 24, LH and RH for modification on bench and installing the modified ducts.
+ - Removing the supply duct in the avionic compartment between FR21 and 23, LH for modification on bench and installing the modified duct.
+ Checking the duct connections for air Leaks and performing an operational test of the cabin recirculation fans.
+( 1 ) Gaining access to the air conditioning components according to the relevant Kit by freeing passenger seats to allow the removal of sidewall Linings. Removing the ceiling, sidewaLL and floor panels accordingly and the sidewaLL and partition wall panels in the FWD cargo compartment.
+( 2) Modification in the FWD cargo compartment between FR34 and FR36.
+- Replacing the recircuLation fans by modified fans.
+- Removing two distributor ducts for modification on bench and installing the modified ducts.
+- RepLacing the cross-feed ducts with new ducts.
+Modification in the passenger compartment between FR43 and FR60.
+- Replacing the restrictors from the Lower end of the riser ducts between FR43 and FR60.
+- RepLacing a tube at FR51 with a new tube.
+Modification in the passenger compartment between FR60 and FR67
+- Replacing the restrictor from the Lower end of the riser ducts between FR60 and FR64.
+- Removing the restrictor froa the upper end of the riser duct at FR65.
+- Replacing the caps at the Lower air outlets at FR64 with new caps.
+ - Replacing the Lower air outlets at FR63 with new outlets.
+Modification in the passenger compartment between FR26 and FR43. 
+- Replacing the Lower air outlets at FR36 and FR42 with new air outlets.
+ - Replacing the restrictors from the Lower end of the riser ducts between FR36 and FR42 with new restrictors. 
+- Installing a new restrictor and replacing a hose at FR26.
+ - Removing a main supply duct below the floor panels between FR33 and FR42, LH for modification on bench and installing the modified duct.
+Modification in the passenger- and avionic compartment between FR21 and FR26 and the FUD cargo compartment between FR24 and FR34. 
+- Installing a new restrictor and replacing a hose at FR26 in the passenger compartment. 
+- Removing the supply ducts in the FWD cargo compartment between FR24 and FR34, LH and RH for modifcation on bench and installing the modified ducts. 
+- Removing the supply ducts below the passenger compartment floor panels between FR21 and 24, LH and RH for modification on bench and installing the modified ducts. 
+- Removing the supply duct in the avionic compartment between FR21 and FR23, LH for modification on bench and installing the modified duct.
+Checking the duct connections for air leaks and performing an operational test of the air conditioning system.
+Cl) Removing the pack controller. 
+(2) Modifying the pack controller as per LIEBHERR ABG-SEMCA Service Bulletin 759-21-04. 
+(3) Installing the modified pack controller.
+Cl) Removing the temperature zone controller 775AOOOO-05 from the rack in  the avionics compartment. 
+(2) Modifying the temperature zone controller 775AOOOO-05 to temperature  zone controller 775AOOOO-06 (Refer to LIEBHERR ABG-SEMCA Service  BulLetin 775A-21-02). 
+(3) Installing the temperature zone controller 775AOOOO-06 in the rack in the avionics compartment.
+( 1 ) Per AMM 21-31-34, P . BLock 401).
+( a ) Removing thé cabin pressure controLLers.
+< b) InstaLLing thé cabin pressure controLLers modified per NORD-MICRO Service BuLLetin 15702-21-003.
+( 2 ) Doing a test of thé cabin pressure controLLer (Réf . AMM 21-31-00, P. BLock 501).
+<1> Relieving the cabin pressure control. Lers UHLand 12HL.
+( 2) Modifying the cabin pressure controLLers in accordance with NORD-MICRO Service BuLLetin 15702-21-003.
+( 3) InstaLling the Modified cabin pressure controLLers.
+( 4) Doing a test of the cabin pressure controLLer.
+( 1 ) Gaining access to the pack ram air inlets, LH and RH.
+(2) Removing the pack ram air inlets from the aircraft.
+( 3) Removing the fillers from the pack ram air inlets on bench.
+(4) Installing the pack ram air inlets in the aircraft.
+( 5) Checking the adjustment of the ram air inlet flaps.
+(6) Performing an operational test of the pack temperature control system.
+(1) Removing the Heating Controllers, IHC and IOHC. 
+(2) Installing the modified Heating Controllers, IHC and 10 HC.
+(1) Gaining access to the pack ran air inlets, LH and RH.
+(2) Checking the play of the kinematic of the ran a-ir inlets.
+(3) Disconnecting the air inlet flap actuators 8HH and 28HH.
+( 4) Connecting an external regulated AC power supply to the air inlet flap actuators and driving the actuators to the mechanical stop
+(5) Checking the gap between the intake nose and the diffuser ramp and adjusting the gap if out of tolerance.
+(6) Reconnecting the air inlet flap actuators 8HH and 28HH.
+(7) Performing an operational test of the pack temperature control system.
+( 1 ) Replacement of the 0-ring on the trim air valve identified 2HC (EQ 5010HM), zone 131.
+(1) Modify the equipment and wiring in the relay box 103VU, zone 126.
+
+(I) Removing the flow control valve. 
+(2) Installing the modified flow control valve.
+Cl) Remove the trim air check valves. 
+(2) Inspect the trim air check valves. 
+(3) Inspect the ducts in which the trim air chack valves are  installed. 
+(4) Install the trim air check valves. 
+(5) Do an operational test of the cockpit and cabin temperature  cotrol system.
+
+(1) Removing the outflow vaLve 10HL. 
+(2) Modifying the outflow valve 10HL as per Vendor Service  Bulletin No. 15703-21-003. 
+(3) Installing the outflow valve 10HL.
+(1) Gaining access to the work area. 
+(2) Removing the ram air outlet assembly, LH and/or RH from the aircraft  for disassembly and modification on bench. 
+(3) Installing a new or modified ram air outlet assembly, LH and/or RH  equipped with electrical actuator to the aircraft. 
+(4) Performing an operational test of the pack temperature control system.
+(6) Removal of the electrical actuator from the old ram air outlet assembly and installation to the new ram air outlet assembly. 
+(7) Connecting the Lever
+(8) In case of deformation at the flap: removing the flap for modification of the ram air outlet housing. 
+(9) Modifying the housing by welding of plates manufactured by the operator. 
+(IO) Installing a new lever and inserts (Refer to Service Bulletin  A320-21-1098). 
+(II) Installing a new flap and adjusting the flap.
+(13) In case of no deformation at the flap, but to reach the new standard: removing the flap for modification of the flap and the ram air  outlet housing. 
+(14) Modifying the housing by welding of plates, manufactured by the operator. 
+(15) Modifying the flap by installing new guide plates and inserts. 
+(16) Installing a new lever and inserts (Refer to Service Bulletin  A320-21-1098). 
+(17) Installing the modified flap and adjusting the flap.
+( 1 ) Removing the pack controLLers 7HH and 27HH, P/N 759AOOOO-08 from the electronics bay, rack 90VU.
+( 2 ) Modifying the pack controLLers as per LIEBHERR ABG-SEMCA Service BuLLetin No. 759A-21-05.
+( 3 ) Installing the modified pack controLLer in the eLectronics bay, rack 90VU.
+( 4) Removing the pressure sensors 9HB and 10HB, P/N 768AOOOO-03 from the keel beam box.
+( 5 ) Changing the pressure sensors as per LIEBHERR ABG-SEMCA Service BuLLetin No. 768A-21-01.
+( 6 ) Installing the new pressure sensors P/N 9104A0003-01 in the keel bean box.
+(I) Remove the cabin pressure controllers IIHL and 12HL CNORD-MICRO  P/N 9022-15702-7). 
+(2) Modify the pressure controllers as per NORD-MICRO Service Bulletin  No, 15702-21-004. 
+(3) Install the modified cabin pressure controllers IIHL and 12HL  (NORD-MICRO P/N 9022-I 5702-8).
+( 1 ) Replacing the pressure regulating valve 11HC
+(1) Modifying the Zone-controller 8HK.
+(1) Gaining access to zone 172.
+(2) Removing the outflow valve 10HL.
+(3) Blanking the surface for bonding connection.
+(4) Installing the outflow valve 10HL.
+(5) Testing and close-up.
+(I) Gaining access to the pack ram air outlets, LH and RH. 
+(21 Inspecting the fastening bolts of the outlet assembly.
+(3) Inspecting the outlet flap and outlet chamber for deformation. 
+(4) Inspecting the fastening bolt of the flap lever (both packs) for  security. 
+(5) Inspecting the four fastening bolts of the hinge shaft (both packs)  for security. 
+(6) In case of findings: 
+- Tightening the fastening bolts of the outlet assembly 
+- Accomplish the Service Bulletin A320-21-1051 or A320-21-1098, as  applicable. 
+- Adjusting the flap 
+- Doing an operational test of the pack temperature control system.
+(1) Removal/Installation of VU panels. 
+(2) Modification to the geometry and routing of the ventilation ducts 
+in the cockpit. 
+(3) Modification to the geometry and routing of the ventilakion ducts 
+in the avionics compartment. 
+(4) Relocation of the ADH bracket. 
+(5) Removal/Installation of a duct for access purposes. 
+(6) Modification of two avionics ventilation ducts. 
+(7) Modification of two ventilation ducts. 
+(8) Modification of panels 2VU and 6VU. 
+(9) Modification of ventilation outlet 20VU. 
+(101 Modification of four avionics ventilation ducts. 
+(11) Hodification to wire routing.

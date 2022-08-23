@@ -1,0 +1,287 @@
+preparation -for the test.
+make sure that the work area is clean and clear of tools and other i terns.
+put the correct access platform at the fwd passenger/crew door.
+open the fwd passenger crew door (refer to amm 52-10-00, page
+block 201) .
+make sure these circuit breakers are closed.
+energize the aircraft electical circuits (refer to amm 24-41-00,
+page block 201) .
+on the overhead panel 30vu make sure that the x-bleed selector is
+in the auto position.
+on the overhead panel 30vu push the pack 1 and 2 pushbutton switches.
+note: when the pack pushbutton switches are pushed the white off
+light goes off.
+start and operate the apu (refer to amm 49-40-00, page block 501)
+on the exam control panel 11vu: push the bleed pushbutton switch.
+on the overhead panel 30vu:  push the apu bleed pushbutton switch.
+on the trim air system: do a leak check of the y-duct connections.
+after approximately 15 minutes stop the apu (refer to amm 49-40-00, page block 501) . (or stop the ground air supply) .
+on the overhead panel 30vu:  push the apu bleed pushbutton switch.
+on the overhead panel 30vu: push the pack 1 and 2 pushbutton switches.
+remove safety clips and tags and close circuit breakers. 
+do operational test of pressure control and monitoring (refer to amm 21-31-00, p . block 501).
+do an operational test of the blower and extract fans (20hq, 18hq) (without the cfds) (refer to amm 21-26-51, p. block 501).
+remove the safety clips and tags and close the circuit breakers opened in para. 2. a . (4) .
+do an operational test of the air cooling system (refer to amm 21-52-00).
+remove the safety clips and tags and close the circuit breakers opened.
+do an operational test of the air cooling system (refer to amm 21-52-00, p . block 501) .
+oxygen storage cylinder (5750 hm) installation (refer to amm 35-11-41, p. block 401).
+leak test (refer to amm 35-11-41, p. block 401).
+remove the access platform from the aft cargo compartment.
+remove the safety clips and tags and close these circuit breakers:
+remove the access platform from the fud passenger/crew door.
+remove the safety clips and tags, and close the following circuit breakers:
+do the operational, test of the ventilation of the fwd and aft cargo compartment (refer to amm 21-28-34, page block 401) .
+do the operational test of the pressure control and the monitoring system (refer to amm 21-31-00, p. block 501).
+do an operational test of the elac system as per amm 27-93-00, p.
+block 501.
+do an operational test of the flow control and indicating system (refer to amm 21-51-00, p. block 501).
+do an operational test of the pack temperature-control system (refer to amm 21 61-00, p. block 501).
+remove the safety clips and tags and close these circuits breakers : 5hq, 6hq, 3hq, 1hq, 2hq
+do the tests of the skin air-inlet valve 15hq (refer to amm 21-26-52, p. block 401).
+perform operational, test of the avionics equipment ventilation from the multipurpose control and display unit (m.c.d.u.). (refer to amm 21-26-00, p. block 501).
+remove the safety clips and tags and close the circuit breakers opened  in para. 2.a.(4). 
+do a leak check of the pipe assy connections (refer to ann 21-52-23,  p. block 4011. 
+do an operational test of the air cooling system (refer to amm 21-52-00,  p. block 501).
+test after the removal/installation of the adirus. (refer to amm 34-12-34, p. block 401)
+close these circuit breakers :
+do the operational test of the avionics equipment ventilation -from the multipurpose control and display unit (m.c.d.u. ) (refer to amm 21-26-00, p. block 501).
+after the installation of the skin temperature sensor, do an operational test (refer to amm 21-26-13, p. block 501).
+install the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212, the mask boxes and the stowage boxes.
+install the mcdu-3 (if removed), (refer to amm 22-82-12, p. block 401).
+install the hand mike receptacles.
+install the captain and first officer seats (refer to amm 25-11-51, p. block 401).
+do the mcdu-3 operational test (refer to amm 31-32-00, p. block 501).
+do the operational test of the hand mike receptacle and the headset jack (refer to amm 23-51-00, p. block 506).
+do the operational test of the oxygen mask and the mike (refer to amm 35-12-41, p. block 501).
+remove the safety clips and tags and close the circuit breakers opened in para. 2.a.(4) .
+do a leak check of the pipe assy connections (refer to amm 21-52-23, p. block 401).
+do an operational test of the cockpit and cabin tenperature system (refer to amm 21-63-00, p. block 501).
+do an operational test of the avionics ventilation (refer to amm 21-26-00, p. block 501).
+do the operational test of the pressure control and the monitoring system (refer to amm 21-31-00, p. block 501).
+remove the safety clips and tags and close these circuits breakers : 5hq, 6hq, 3hq, 1hq, 2hq
+do the tests of the skin air-inlet valve 15hq (refer to amm 21-26-52, p. block 401).
+do an operational test of the pack controller (refer to amm 21-61-00, p. block 501).
+do an operational test of the cockpit and cabin temperature control (refer to amm 21-63-00, p. block 501).
+do an operational test of the pressure control and monitoring (refer to amm 21-31-00, p . block 501).
+do an operational test of the pressure control and monitoring system (refer to amm 21-31-00, p. block 501).
+remove the safety clips and tags and close these circuit breakers:
+do the operational test of the pack temperature control system (refer to 21-61-00, p. block 501).
+do an operational test of the cargo compartment heating system (refer to amm 21-43-00, p. block 501).
+refer to amm 21-21-00, p. block 501 (air distribution and recirculation - adjustment/test).
+do an operational test of the flow control and indicating system as given in amm 21-51-00, p. block 501.
+do an operational test of the pressure control and monitoring system  (refer to amm 21-31-00, p. block 501). 
+do an operational test of the manual pressure control and monitoring system (refer to amm 21-31-00, p. block 501).
+do electrical bonding in accordance with the amm 20-28-00, p.  block 201. 
+install screws with anti-corrosion compound, material no. 05-002. 
+to torque threaded components refer to amm 20-21-12. 
+for specification of materials (material no.) given in this service  bulletin refer to amm 20-31-00. 
+renew protective finish with wash primer, material no. 16-005, polyurethane primer, material no. 16-001 and polyrurethane top coat,  material no. 16-002.
+remove the safety clips and tags and close these circuit breakers:
+do the operational test of the pack temperature control system  (refer to amm 21-61-00, p. block 501).
+remove the safety clips and tags and close these circuit breakers:
+remove the safety clips and the tags and close the circuit breakers given in amm 21-61-34, p. block 401 and amm 21-51-11, p . block 401.
+do an operational test of the pack controller (refer to amm 21-61-00, p. block 501).
+do an operational test of the flow control and indicating (refer to amm 21-51-00,
+do an operational test of the pressure control and monitoring  system (refer to amm 21-31-00, p. block 501).
+energize the aircraft electrical circuits (refer to amm 24-41-00, p . block 201),
+remove the safety clip and tag and close this circuit breaker:
+do an operational test (refer to amm 21-43-00, p . block 501).
+remove the safety clips and the tags and close these circuit breakers: 1hl, 2hl, 3hl, 6hu and 30hn.
+do the operational test of the pressure control and monitoring system (refer to amm 21-31-00, p. block 501).
+remove the safety clips and the tags and close these circuit breakers: 1hl, 2hl, 3hl, 6hu and 30hn.
+do the operational test of the pressure control and monitoring system (refer to amm 21-31-00, p. block 501).
+do the preparation for test in accordance with the relevant amm chapter.
+do the operational test of the pack temperature control system (refer to amm 21-61-00, p. block 501).
+do the test in accordance with the amm 21-52-21, p. block 401.
+close -forward passenger/crew door 841 (refer to amm 52-10-00, p. block 201).
+remove access platforms.
+make sure that the work area is clean and clear of tools and other iterms.
+close the forward cargo compartment door 825 (refer to amm 52-30-00, p. block 201).
+disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).
+make sure that the working area is clean and clear of tools and other items of equipment.
+remove the safety clips and the tags and close these circuit breakers 1hg, 2hg, 3hg and 11hg.
+disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).
+close the forward passenger/crew door (re-f. amm 52-10-00, p. block 201).
+make certain that working areas are clean and clear of tools and miscellaneous items of equipment.
+install the access panels 162dw and 162cw.
+remove the access platform.
+make sure that the working area is clean and clear of tools and other items.
+write in the applicable aircraft record that you have done all the work in this service bulletin.
+remove the access platforms.
+make sure that the working area is clean and clear of tools and other items of equipment.
+on the exam control panel 11vu set the lower display and the upper display knobs to the off position.
+support the ducts, item 10 right side and item 11 left side and remove: 4 nuts items 12 (retain ) 4 washers items 13 (retain ) 4 bolts items 14 (retain ) and disconnect the tie-rods right side and left side, item 15 and 16.
+remove: 1 duct (right side) item 10 (retain) 1 duct (left side) item 11 (retain)
+install in the right side and in the left side of the hot trim duct (y-duct), item 21 and the removed ducts, items 10 and 11 : 4 0-rings nsa8206-145 items 18.
+clean working area.
+install the mufflers on blower fan 20hq 1 evt3454-600-01 item 1.
+install the mufflers on blower fan 20hq 4 clamps ty29m item 3.
+install the new or modified water-extractor temperature sensors 11fth and 31hh (refer to amm 21-61-13).
+install to each anti-icing valve: 1 elbom, nsa855120-6c, item 6 .
+remove the pack outlet pneumatic sensors 10hm10 (11hm10) , (refer to amm 21-61-19, p . 3lock 401) .
+remove 1 sleeve item (4) (re-used) 
+install 4 clamps item (20) (retained at removal) 
+remove 9 clamps item (18) (re-used) 
+connect on duct (5) or (6), tapping point 2103, and pressure switch : 1 duct d2121065900300 item 5.
+install anchor nut ms21047-l3, item 3, with rivets ms20426ad3-8, item 1 .
+remove the outflow valve 9023-15703-5 including the support plate from the aircraft structure.
+remove screw item 17 re-used
+remove the heat shields d2157137101400, item (70) and d2157137101200, item (71) from the studs and retain the fastening parts for re-use.
+drill 2.4 mm (0.094 in. ) rivet holes.
+retain the 2 studs, item (80), 1 stud, item (83), 2 washers, item (81), and 2 lockwashers, item (72).
+install the new and retained lockwasher din137a5st item 72
+install the new and retained stud nsa5159-25 item 84
+install the modified heat shields d2157137101800, item 70 and d2157137101600, item 71 with retained fastening parts.
+replace the flow sensor supports with retained fastening parts
+position the support brackets d9249181120000, item 91 and d2157147720400, item 92 as shown in the figure and drill and ream dia. min. 5.113 mm (0.2013 in. ) max. 5.152 mm (0.2028 in.) .
+retain the screws, item 135, washers, item 136 and nuts, item 137.
+secure the cable bundles to the structure with clamp nsa935807-06 item 102
+secure the cable bundles to the structure with screw nas1096-2-27 item 130
+on the flow control valve 11hb (rh ) install hose d2157147103000, item 51 refer to figure 10
+install the placards on the heat shields placard d2157127524200 item 21
+install the placards on the heat shields placard d2157127523800 item 23
+install the placards on the heat shields placard d2157127524600 item 20
+attach item 1 and apply the sealant. material no. 09-005 (refer to cml) between the surfaces with (retained at removal) 4 screws item 10
+install the new silenced duct
+remove the fans, item (8) (refer to amm 21-21-51, p. block 401) and ~ return to the vendor for modification.
+make sure that the work area is clean and clear of tools and other items. 
+loosen and do not remove the clamps, item 65 and 66. 
+make sure that the work area is clean and clear of tools and other items. 
+re-connect the ducts. 
+check the duct connections for air leaks.
+install the new outlet d2127107600500, item 46.
+remove and do not re-use the lh outlet at fr42, item (47).
+install the modified duct d2127101400000, item 50.
+check the duct connections for air leaks.
+retain the connecting parts.
+install all removed sidewall and partition panels in the fud cargo compartment. 
+close the avionic compartment door 824. 10 put the aircraft in pre-flight condition.
+remove the ceiling panels (refer to amm 25-23-41, p. block 401). 
+remove the upper sideuall panels (refer to amm 25-23-43, p. block 401). 
+install these new ducts, lower air outlets and upper air out- lets with the retained connecting parts:
+make sure that the areas are clean and clear of tools and other items. 
+modification in the passenger compartment between fr21 and fr30, lh and rh. 
+install the lower sidewall panels  (refer to ann 25-23-44, p. block 401). 
+install the ceiling panels (refer to amm 25-23-41, p. block 401). 
+make sure that the areas are clean and clear of tools and other items. 
+modification in the passenger compartment between fr36 and fr47, lh and rh.
+paint rivet heads with polyurethane primer material no. 16-002. 
+install the upper sidewall panels (refer to amm 25-23-43, p. block 401). 
+retain the connecting parts. 
+check the connections for air-leaks.
+put the aircraft in pre-flight condition.
+remove the lower sidewall panels (refer to amm 25-23-44, p. block 401).
+install these new ducts. lower air outlets and upper air out-lets with the retained connecting parts:
+check the connections for airleaks.
+remove the upper sidewall panels (refer to amm 25-23-43, p. block 401). 
+disconnect, remove and do not re-use the ducts (9) , (10), (32) and (34) and the lower air outlets (17), (19) and (20). retain the connecting parts.
+make sure that the areas are clean and clear of tools and other items. 
+remove : .1 a.e.v.c. (10hq) item (1)
+remove : 1 blowing duct item (2) (retained) with 1 clamp item (5) (retained) 
+cut off :3 rivets item (8) (discard) 
+trim the part of the rivet that protrudes.
+remove the air-cycle machines 10hml and 11hml (refer to amm 21-52-21,  p. block 401). 
+install the diaphragm and the adiru 1fp3
+remove the insulation blanket in the work area for access.
+after installation, seal off the two 9 mm (0.354 in. ) dia. holes with material no. 09-025 (refer to cml) .
+install on the cable bundle, item 8: the retained backshell, item 7, the retained connector, 14hk-a, item 5 as shown on lines 1, 2 and 3 of figure 2.
+identify, with blue sleeves, the connector, 14hk-c and the socket, 14hk-ac, of the taprv, 14hk.
+perform protective finish on round tube item 2 using material no. 13-002, 16-002, 16-006 (refer to cml) .
+on bracket assembly item 3, item 4, item 5, item 6 , item 7
+from the outside, on the fuselage (ret . amm 21-26-52, p. block 401) 1 skin air-inlet valve 15hq item 5 (retain), 1 0-ring item (2) (discard)
+drill to match to a dia . of 3.2 m (0.1260 in.) .
+on item 1, near the equipment concerned, install : 1 placard identified 1301vp (view on e) .
+install : 1 duct d2121097000000 item 1 2 sleeves item (3) (retained at removal) 9 clamps item (2) (retained at removal)
+from the cross-feed duct, item (1 ) remove the temperature sensor 16 hk and the overheat sensor 19hk and retain.
+remove and do not re-use the restrictors, item (19) , (20), (21) , (22) and (23) between fr43 and fr60, lh and rh.
+put the clamps, item 65 and 66 in position and install the retained screws, item 62 and washers, item 63 and tighten.
+put the aircraft in pre-flight condition.
+remove and do not re-use the lh outlet at fr36, item (45).
+check the duct conne.ctions for air leaks.
+make sure that the work area is clean and clear of tools and other items. 
+disconnect the passenger seats between fr24 and fr28, rh (refer to amm 25-21-41, p. block 401). 
+4 remove the floor panels 232pf and 232mf (refer to amm 06-41-53, p. block 1) . 
+open the fwd cargo compartment door (refer to amm 52-30-00, p. block 1) . 
+install the new hose d2101001722100, item 70 with the retained clamps, item 74.
+install the floor panel 232pf and 232mf and the removed floor covering (refer to amm 25-28-41 or 25-28-42, p. block 401). 
+install the passenger seats between fr24 and fr28 (refer to amm 25-21-41, p. block 401). 
+re-identify the duct. to d2127100600900, item 14.
+drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (106).
+install the new restrictor d2121096420400, item 109 with rivets asna2051dcj2410, item 111.
+install the new restrictor d2121096420000, item 105 with rivets asna2051dcj2410, item 111.
+if a restrictor d2121096420200, item (107) is installed, drill two holes with a dia. of 6 mm (0.236 in. ) as shown in detail e.
+re-identify the duct to d2121061400500, item 121.
+re-identify the duct to d2121020300400, item 122
+in the rack in the avionics compartment (refer to amm 21-63-34, p. block 401).
+do the modification to the cabin pressure controllers (refer to nord-micro | servicebulletin 15702-21-003).
+disconnect the water hoses from the water injectors 20hm and 21hm, item 2 (refer to amm 21-61-51, p. block 401 and 21-52-42, p. block 401).
+and the pack ram air inlet, rh d21571100004000, item 4 (refer to amm 21-61-51, p. block 401).
+make sure that the work area is clean and clear of tools and other items.
+ins&l the outflow valve iohl irefer to amm 21-31-51, p. block 401).
+remove and retain bolts, items 1 and 7 and washers, item 8 of  the ram air outlet, item (3). 
+modify the ram air outlet assembly on bench as described in  para. 2.f.(4) and (6) thru (8).
+install the assembly with retained clamp, item 5, bolts, items 1  and 7 and washers, item 8 to the aircraft. 
+install the retained actuator to the lh assy d2157109200000,  item 3 and/or to the rh assy d2157109000000, item 23  (refer to amm 21-61-52, p.block 401) but do not connect the lever at  this stage. 
+bond the profiles d2157103020200, item 65 to the flap guides with bonding compound material no. 08-010. 
+material and dimensions are given in the figure. 
+weld in sequence the weld seam 2, then weld seam 3.
+move the flap in and out and check the unlimited motion of the 
+secure the bolts, item 50 with lockwire ln9224.1.4314.9-0.8, or ams4026, item 47. 
+install the new lever d2157104600400, item 35 with bolt nsal304-8,  item 34, nut nas509-04, item 32 and lock washer nsa5355-4ca,  item 33 temporarily on the shaft, item 56. 
+replacement of the anti-icing valve (aiv) p/n 748aoooo-05 by the p/n 748aoooo-08 and the related four pipe assemblies (sense lines)
+for the replacement of pipe assemblies refer to amm 21-52-23, p. block 401.
+modify console 7oovu, item (1551), right side.
+in accordance with the required dimensions, position and drill  to match existing holes on the structure.
+in avionics compartment, remove a duct for access.
+in cockpit, modify a ventilation duct.
+put the correct access platform at access panels 191kb and 192kb.
+position access platform.
+open the forward avionics compartment door 811 (refer to amm 52-41-00).
+electrically ground the aircraft (refer to amm 12-34-24).
+open the passenger/crew door.
+put an access platform at the fwd passenger/crew door.
+apply protective treatment on blank surface material no. 16-001 and mat . no. 16-002 (refer to amm 20-31-00).
+put the correct access platform at the fwd passengcr/crem door.
+position access platform.
+open the access door 824 (refer to amm 06-41-53).
+open the aft cargo compartment door.
+open the forward cargo compartment door 825 (refer to amm 52-30-00, p. block 201).
+make certain that the damps and supports which have been loosened are installed correctly on completion of this service bulletin.
+blank open ends of ducts if the replacement duct is not installed immediately.
+open the fwd passenger/crew door.
+open the fwd cargo compartment door (refer to 52-30-00, p. block 201).
+open the forward passenger/crew door (refer to amm 52-10-00, p. block 201).
+remove the captain and first officer seats (refer to amm 25-11-51, p. block 401).
+remove the oxygen masks (refer to amm 35-12-41, p. block 401).
+remove the hand mike receptacles.
+open access doors 824 (refer to amm 06-41-53).
+put the access platform in position below the door (824) of the rear avionics compartment.
+open, safety and tag these circuit breakers :
+open the aft cargo compartment door.
+de-energize the aircraft electrical, circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).
+put the access platforms in position.
+open the forward cargo compartment door 825 (refer to amm 52-30-00, p. block 201)
+open the fwd cargo compartment door (refer to amm 52-30-00, p. block 1) . 
+electrically ground the aircraft (refer to amm 12-34-24, p. block 201). 
+electrically ground thé aircraft (réf. amm 12-34-24, p . block 201).
+electrically ground the aircraft (refer to amm 12-34-24, p. block 201).
+open access doors 822 and 825 (refer to amm 06-41-52).
+de-energize the aircraft electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).
+electrically ground the aircraft (refer to amm 12-34-24, p.block 201). 
+clean the work area with solvent, methylethylketone cmek)  material no. 11-003.
+for the station (sta) and frame (fr ) identification, refer to amm 06-31-53, p. block 001.
+electrically ground the aircraft (refer to amm 12-34-24, p.  block 201)
+open the aft cargo compartment door 826 <refer to amm 52-30-00, p. block 201).
+install access platforms. 
+remove captain and first officer seats (refer to amm 25-11-51,  p. block 401). 
+remove panels 211ac, 211bc, 211cc, 211dc, 211ec, 211fc, 211gw,  211hc, 211jc, 212ac, 212bc, 212cc, 212dc, 212ec, 212fc, 212gw  (refer to amm 25-13-41). 
+make sure that the work area is clean and clear of tools and other i terns.
+start and operate the apu (refer to amm 49-40-00, page block 501)
+do an operational test of the air cooling system (refer to amm 21-52-00, p . block 501) .
+oxygen storage cylinder (5750 hm) installation (refer to amm 35-11-41, p. block 401).
+leak test (refer to amm 35-11-41, p. block 401).
+do an operational test of the flow control and indicating system (refer to amm 21-51-00, p. block 501).
+after the installation of the skin temperature sensor, do an operational test (refer to amm 21-26-13, p. block 501).
+refer to amm 21-21-00, p. block 501 (air distribution and recirculation - adjustment/test).
+do an operational test of the pressure control and monitoring system  (refer to amm 21-31-00, p. block 501). 

@@ -1,0 +1,390 @@
+[
+    {
+        "triples": [
+            [
+                "test stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other i terns.\n",
+        "target_txt": "test stage, make sure that the work area is clean and clear of tools and other i terns.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the correct FACILITY_1 at the fwd passenger/crew door.\n",
+        "target_txt": "test stage, put the correct access platform at the fwd passenger/crew door.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove safety clips and tags and close FACILITY_1. \n",
+        "target_txt": "test stage, remove safety clips and tags and close circuit breakers. \n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "open",
+                "circuit breaker"
+            ],
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened in para. 2. a . (4) .\n",
+        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened in para. 2. a . (4) .\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "open",
+                "circuit breaker"
+            ],
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened.\n",
+        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "install",
+                "installation"
+            ]
+        ],
+        "target": "STAGE_1, oxygen storage cylinder (5750 hm) FACILITY_1 (refer to amm 35-11-41, p. block 401).\n",
+        "target_txt": "test stage, oxygen storage cylinder (5750 hm) installation (refer to amm 35-11-41, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "installation"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 from the aft cargo compartment.\n",
+        "target_txt": "test stage, remove the access platform from the aft cargo compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
+        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 from the fud passenger/crew door.\n",
+        "target_txt": "test stage, remove the access platform from the fud passenger/crew door.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "open",
+                "circuit breaker"
+            ],
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened  in para. 2.a.(4). \n",
+        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened  in para. 2.a.(4). \n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "install",
+                "removal"
+            ],
+            [
+                "test stage",
+                "install",
+                "installation"
+            ]
+        ],
+        "target": "STAGE_1, test after the FACILITY_1/FACILITY_2 of the adirus. (refer to amm 34-12-34, p. block 401)\n",
+        "target_txt": "test stage, test after the removal/installation of the adirus. (refer to amm 34-12-34, p. block 401)\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "removal",
+            "FACILITY_2": "installation"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "install",
+                "installation"
+            ]
+        ],
+        "target": "STAGE_1, after the FACILITY_1 of the skin temperature sensor, do an operational test (refer to amm 21-26-13, p. block 501).\n",
+        "target_txt": "test stage, after the installation of the skin temperature sensor, do an operational test (refer to amm 21-26-13, p. block 501).\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "installation"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "install",
+                "box"
+            ],
+            [
+                "test stage",
+                "mask",
+                "box"
+            ]
+        ],
+        "target": "STAGE_1, install the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212, the mask FACILITY_1 and the stowage FACILITY_1.\n",
+        "target_txt": "test stage, install the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212, the mask boxes and the stowage boxes.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "box"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "mask",
+                "oxygen mask"
+            ]
+        ],
+        "target": "STAGE_1, do the operational test of the FACILITY_1 and the mike (refer to amm 35-12-41, p. block 501).\n",
+        "target_txt": "test stage, do the operational test of the oxygen mask and the mike (refer to amm 35-12-41, p. block 501).\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "oxygen mask"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "open",
+                "circuit breaker"
+            ],
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened in para. 2.a.(4) .\n",
+        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened in para. 2.a.(4) .\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
+        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "install",
+                "screw"
+            ],
+            [
+                "test stage",
+                "install",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, install FACILITY_1 with anti-corrosion compound, MATERIAL_2 no. 05-002. \n",
+        "target_txt": "test stage, install screws with anti-corrosion compound, material no. 05-002. \n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "screw",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "torque",
+                "threaded component"
+            ]
+        ],
+        "target": "STAGE_1, to torque FACILITY_1 refer to amm 20-21-12. \n",
+        "target_txt": "test stage, to torque threaded components refer to amm 20-21-12. \n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "threaded component"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "renew",
+                "protective finish"
+            ],
+            [
+                "test stage",
+                "renew",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, renew FACILITY_1 with wash primer, MATERIAL_2 no. 16-005, poly\u0002urethane primer, MATERIAL_2 no. 16-001 and polyrurethane top coat,  MATERIAL_2 no. 16-002.\n",
+        "target_txt": "test stage, renew protective finish with wash primer, material no. 16-005, poly\u0002urethane primer, material no. 16-001 and polyrurethane top coat,  material no. 16-002.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "protective finish",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
+        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
+        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and the tags and close the FACILITY_1 given in amm 21-61-34, p. block 401 and amm 21-51-11, p . block 401.\n",
+        "target_txt": "test stage, remove the safety clips and the tags and close the circuit breakers given in amm 21-61-34, p. block 401 and amm 21-51-11, p . block 401.\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clip and tag and close this FACILITY_1:\n",
+        "target_txt": "test stage, remove the safety clip and tag and close this circuit breaker:\n",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    }
+]

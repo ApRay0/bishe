@@ -1,0 +1,1681 @@
+[
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear o-f tools and other i terns.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear o-f tools and other i terns.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191kb and 192kb (refer to amm 53-35-13, page block 401) .\n",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb (refer to amm 53-35-13, page block 401) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, install the partition panels 131nw and 131pw at frame 34, at the rear of the FACILITY_1.\n",
+        "target_txt": "closeup stage, install the partition panels 131nw and 131pw at frame 34, at the rear of the fwd cargo compartment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 24-00-00, page block 301).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 24-00-00, page block 301).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, install cargo compartment FACILITY_1 and partition 131cu (refer to amm 25-54-00).\n",
+        "target_txt": "closeup stage, install cargo compartment sidewall panel and partition 131cu (refer to amm 25-54-00).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "put",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, put the systems and the AIRCRAFT_1 back to the serviceable condition (refer to amm 12-34-24, p . block 201)\n",
+        "target_txt": "closeup stage, put the systems and the aircraft back to the serviceable condition (refer to amm 12-34-24, p . block 201)\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1.\n",
+        "target_txt": "closeup stage, remove access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191kb and 192kb.\n",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191kb and 192kb.\n",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1.\n",
+        "target_txt": "closeup stage, remove access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect AIRCRAFT_1 from ground (refer to amm 12-34-24, p. block 201)\n",
+        "target_txt": "closeup stage, disconnect aircraft from ground (refer to amm 12-34-24, p. block 201)\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "fairing"
+            ],
+            [
+                "closeup stage",
+                "retain",
+                "fastener"
+            ]
+        ],
+        "target": "STAGE_1, install the retained FACILITY_1 with its associated FACILITY_2.\n",
+        "target_txt": "closeup stage, install the retained fairings with its associated fasteners.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "fairing",
+            "FACILITY_2": "fastener"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191kb and 192kb.\n",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other iterms.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other iterms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the electrical ground connection of the AIRCRAFT_1 (refer to amm 12-34-24, page block 201) .\n",
+        "target_txt": "closeup stage, disconnect the electrical ground connection of the aircraft (refer to amm 12-34-24, page block 201) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 162dw and 162cw.\n",
+        "target_txt": "closeup stage, install the access panels 162dw and 162cw.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "put",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, put the systems and the AIRCRAFT_1 back to the serviceable condition.\n",
+        "target_txt": "closeup stage, put the systems and the aircraft back to the serviceable condition.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 192lb (refer to amm 53-35-11, p. block 401).\n",
+        "target_txt": "closeup stage, install the access panel 192lb (refer to amm 53-35-11, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191bb, fb, gb, hb, jb, kb, mb, and 192fb, kb (refer to amm 53-35-13, p. block 401).\n",
+        "target_txt": "closeup stage, install the access panels 191bb, fb, gb, hb, jb, kb, mb, and 192fb, kb (refer to amm 53-35-13, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 are clean and clear of tools and miscellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work areas are clean and clear of tools and miscellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "floor panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 151hf and 151jf (refer to amm 53-43-14, p . block 401) .\n",
+        "target_txt": "closeup stage, install the floor panels 151hf and 151jf (refer to amm 53-43-14, p . block 401) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "floor panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and the tags and close these FACILITY_1 1hg, 2hg, 3hg and 11hg.\n",
+        "target_txt": "closeup stage, remove the safety clips and the tags and close these circuit breakers 1hg, 2hg, 3hg and 11hg.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "open",
+                "circuit breaker"
+            ],
+            [
+                "closeup stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and the tags and close the FACILITY_1 opened in para. 2.a.(1)(c) .\n",
+        "target_txt": "closeup stage, remove the safety clips and the tags and close the circuit breakers opened in para. 2.a.(1)(c) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1.\n",
+        "target_txt": "closeup stage, remove access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items. \n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191kb and 192kb (refer to amm 53-35-13  p. block 4011. \n",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb (refer to amm 53-35-13  p. block 4011. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "access door"
+            ],
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_2 is clean and clear of tools and other items. (2) close the DOOR_1 824 (refer to amm 06-41-52).\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items. (2) close the access door 824 (refer to amm 06-41-52).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "DOOR_1": "access door",
+            "FACILITY_2": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "work area"
+            ],
+            [
+                "closeup stage",
+                "attach",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, install the insulation blanket and attach the drain hose in the FACILITY_1.\n",
+        "target_txt": "closeup stage, install the insulation blanket and attach the drain hose in the work area.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 are clean and clear of tools and miscellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work areas are clean and clear of tools and miscellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 24-00-00, p. block 301).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 24-00-00, p. block 301).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items .\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ],
+            [
+                "closeup stage",
+                "retain",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the retained FACILITY_1 191kb and 192kb (refer to amm 53-35-13, p . block 401).\n",
+        "target_txt": "closeup stage, install the retained access panels 191kb and 192kb (refer to amm 53-35-13, p . block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install FACILITY_1 1270f, 127cf, 127bf, 128cf (refer to amm 06-41-53).\n",
+        "target_txt": "closeup stage, install access panels 1270f, 127cf, 127bf, 128cf (refer to amm 06-41-53).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1.\n",
+        "target_txt": "closeup stage, remove access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 162dw and 162cw.\n",
+        "target_txt": "closeup stage, install the access panels 162dw and 162cw.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 are clean and clear of tools and miscellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work areas are clean and clear of tools and miscellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "floor panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 151hf and 151jf (refer to amm 53-43-14, p . block 401) .\n",
+        "target_txt": "closeup stage, install the floor panels 151hf and 151jf (refer to amm 53-43-14, p . block 401) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "floor panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and the tags and close these FACILITY_1 1hg, 2hg, 3hg and 11hg.\n",
+        "target_txt": "closeup stage, remove the safety clips and the tags and close these circuit breakers 1hg, 2hg, 3hg and 11hg.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "open",
+                "circuit breaker"
+            ],
+            [
+                "closeup stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and the tags and close the FACILITY_1 opened in para. 2.a.(1)(c) .\n",
+        "target_txt": "closeup stage, remove the safety clips and the tags and close the circuit breakers opened in para. 2.a.(1)(c) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and  other items. \n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and  other items. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and the tags and close the FACILITY_1  given in amm 21-61-34, p. block 401. \n",
+        "target_txt": "closeup stage, remove the safety clips and the tags and close the circuit breakers  given in amm 21-61-34, p. block 401. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other i terns. \n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other i terns. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips,and the tags and close the FACILITY_1 as given in para. 2.a.c4). \n",
+        "target_txt": "closeup stage, remove the safety clips,and the tags and close the circuit breakers as given in para. 2.a.c4). \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 from the cockpit.\n",
+        "target_txt": "closeup stage, remove the warning notice from the cockpit.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 are clean and clear of tools and miscellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work areas are clean and clear of tools and miscellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ],
+            [
+                "closeup stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits and disconnect electrical ground power unit.\n",
+        "target_txt": "closeup stage, de-energize the aircraft electrical circuits and disconnect electrical ground power unit.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection.\n",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove FACILITY_1.\n",
+        "target_txt": "closeup stage, remove access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "open",
+                "circuit breaker"
+            ],
+            [
+                "closeup stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1  which you opened in para. 2. a. (4). \n",
+        "target_txt": "closeup stage, remove the safety clips and tags and close the circuit breakers  which you opened in para. 2. a. (4). \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "warning notice"
+            ],
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_2 191kb and 192kb (refer to amm 53-35-13, p. block 401). remove the FACILITY_1. from the cockpit. \n",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb (refer to amm 53-35-13, p. block 401). remove the warning notice. from the cockpit. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "warning notice",
+            "FACILITY_2": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "warning notice"
+            ],
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_2 191kb and 192kb (refer to amm 53-35-13, p.  block 401). remove the FACILITY_1. from the cockpit. \n",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb (refer to amm 53-35-13, p.  block 401). remove the warning notice. from the cockpit. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "warning notice",
+            "FACILITY_2": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.\n",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the access platforms.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 are clean and clear of tools  and miscellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work areas are clean and clear of tools  and miscellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "de-energize",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, de-energize the AIRCRAFT_1 electrical circuits (refer to amm 24-41-00, p . block 201).\n",
+        "target_txt": "closeup stage, de-energize the aircraft electrical circuits (refer to amm 24-41-00, p . block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access panel"
+            ],
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the removed FACILITY_1 197bb.\n",
+        "target_txt": "closeup stage, install the removed access panel 197bb.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 is clean and clear of tools and mis\u0002cellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work area is clean and clear of tools and mis\u0002cellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 162dv and 162cv (refer to amm 06-41-53, p. block 1) .\n",
+        "target_txt": "closeup stage, install the access panels 162dv and 162cv (refer to amm 06-41-53, p. block 1) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the warning placard and the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the warning placard and the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the aft DOOR_1 826 (refer to amm 52-30-00, p. block 201).\n",
+        "target_txt": "closeup stage, open the aft cargo compartment door 826 (refer to amm 52-30-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 is clean and clear of tools and mis\u0002cellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work area is clean and clear of tools and mis\u0002cellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 162dv and 162cv (refer to amm 06-41-53, p. block 1) .\n",
+        "target_txt": "closeup stage, install the access panels 162dv and 162cv (refer to amm 06-41-53, p. block 1) .\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the warning placard and the FACILITY_1.\n",
+        "target_txt": "closeup stage, remove the warning placard and the access platform.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "open",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, open the aft DOOR_1 826 (refer to amm 52-30-00, p. block 201).\n",
+        "target_txt": "closeup stage, open the aft cargo compartment door 826 (refer to amm 52-30-00, p. block 201).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 from the cockpit. \n",
+        "target_txt": "closeup stage, remove the warning notice from the cockpit. \n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make certain that the FACILITY_1 is clean and clear of tools and mis\u0002cellaneous items of equipment.\n",
+        "target_txt": "closeup stage, make certain that the work area is clean and clear of tools and mis\u0002cellaneous items of equipment.\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191kb (for 10hm) 192kb (for 11hm) (refer to amm 53-35-13, p. block 401).\n",
+        "target_txt": "closeup stage, install the access panel 191kb (for 10hm) 192kb (for 11hm) (refer to amm 53-35-13, p. block 401).\n",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    }
+]

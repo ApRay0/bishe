@@ -1,0 +1,96 @@
+Preparation -for the test.
+( a ) Make sure that the work area is clean and clear of tools and other i terns.
+( b ) Put the correct access platform at the FWD passenger/crew door.
+( c ) Open the FWD passenger crew door (Refer to AMM 52-10-00, Page
+Block 201) .
+( d ) Make sure these circuit breakers are closed.
+( e) Energize the aircraft eLecticaL circuits (Refer to AMM 24-41-00,
+Page BLock 201) .
+( f) On the overhead paneL 30VU make sure that the X-BLEED selector is
+in the AUTO position.
+( g ) On the overhead panel 30VU push the pack 1 and 2 pushbutton switches.
+NOTE: When the pack pushbutton switches are pushed the white OFF
+Light goes off.
+( a ) Start and operate the APU (Refer to AMM 49-40-00, Page BLock 501)
+On the ECAM controL paneL 11VU: push the bleed pushbutton switch.
+On the overhead paneL 30VU:  push the APU BLEED pushbutton switch.
+On the trim air System: do a leak check of the y-duct connections.
+After approximateLy 15 minutes stop the APU (Refer to AMM 49-40-00, Page BLock 501) . (Or stop the ground air suppLy) .
+On the overhead paneL 30VU:  push the APU BLEED pushbutton switch.
+On the overhead paneL 30VU: push the pack 1 and 2 pushbutton switches.
+Remove safety clips and tags and close circuit breakers. 
+(2) Do operational test of pressure control and monitoring (Ref . AMM 21-31-00, P . Block 501).
+Do an operational test of the blower and extract fans (20HQ, 18HQ) (without the CFDS) (Ref. AMM 21-26-51, P. Block 501).
+( 1 ) Remove the safety clips and tags and close the circuit breakers opened in Para. 2. A . (4) .
+( 2 ) Do an operational test of the air cooling system (Refer to AMM 21-52-00).
+( 1 ) Remove the safety cLips and tags and cLose the circuit breakers opened.
+( 2 ) Do an operationaL test of the air cooLing system (Refer to AMM 21-52-00, P . BLock 501) .
+(1) Oxygen storage cylinder (5750 HM) Installation (Ref. AMM 35-11-41, P. Block 401).
+(2) Leak test (Ref. AMM 35-11-41, P. Block 401).
+( 1 ) Remove the access platform from the AFT cargo compartment.
+( 2 ) Remove the safety clips and tags and close these circuit breakers:
+(3) Remove the access platform from the FUD passenger/crew door.
+ Remove the safety cLips and tags, and close the foLLowing circuit breakers:
+Do the operational, test of the ventilation of the FWD and AFT cargo compartment (Refer to AMM 21-28-34, Page BLock 401) .
+Do the operational test of the pressure control and the monitoring system (Refer to AMM 21-31-00, P. Block 501).
+Do an operational test of the ELAC System as per AMM 27-93-00, P.
+Block 501.
+Do an operational test of the flow control and indicating system (Ref. AMM 21-51-00, P. Block 501).
+Do an operational test of the pack temperature-control system (Ref. AMM 21 61-00, P. Block 501).
+( 1 ) Remove the safety clips and tags and close these circuits breakers : 5HQ, 6HQ, 3HQ, 1HQ, 2HQ
+( 2 ) Do the tests of the skin air-inlet valve 15HQ (Ref. AMM 21-26-52, P. Block 401).
+Perform operational, test of the avionics equipment ventilation from the Multipurpose Control and Display Unit (M.C.D.U.). (Ref. AMM 21-26-00, P. Block 501).
+(1) Remove the safety clips and tags and close the circuit breakers opened  in para. 2.A.(4). 
+(2) Do a leak check of the pipe assy connections (Refer to ANN 21-52-23,  P. Block 4011. 
+(3) Do an operational test of the air cooling system (Refer to AMM 21-52-00,  P. Block 501).
+Test after the removal/installation of the ADIRUs. (Ref. AMM 34-12-34, P. Block 401)
+Close these circuit breakers :
+( 2 ) Do the operational test of the avionics equipment ventilation -from the Multipurpose Control and Display Unit (M.C.D.U. ) (Ref. AMM 21-26-00, P. Block 501).
+(3) After the installation of the skin temperature sensor, do an operational test (Ref. AMM 21-26-13, P. Block 501).
+( a ) Install the lining of the Captain and First Officer consoles 101VU and 700VU in zones 211 and 212, the mask boxes and the stowage boxes.
+( b ) Install the MCDU-3 (i f removed), (Ref. AMM 22-82-12, P. Block 401).
+( c ) Install the hand mike receptacles.
+( d ) Install the Captain and First Officer seats (Ref . AMM 25-11-51, P. Block 401).
+Do the MCDU-3 operational test (Ref. AMM 31-32-00, P. Block 501).
+Do the operational test of the hand mike receptacle and the headset jack (Ref. AMM 23-51-00, P. Block 506).
+Do the operational test of the oxygen mask and the mike (Ref. AMM 35-12-41, P. Block 501).
+( 1 ) Remove the safety clips and tags and close the circuit breakers opened in para. 2.A.(4) .
+( 2) Do a Leak check of the pipe assy connections (Refer to AMM 21-52-23, P. Block 401).
+Do an operational test of the cockpit and cabin tenperature system (Refer to AMM 21-63-00, P. Block 501).
+Do an operational test of the avionics ventilation (Ref. AMM 21-26-00, P. Block 501).
+Do the operational test of the pressure control and the monitoring system (Refer to AMM 21-31-00, P. Block 501).
+( 1 ) Remove the safety clips and tags and close these circuits breakers : 5HQ, 6HQ, 3HQ, 1HQ, 2HQ
+( 2 ) Do the tests of the skin air-inlet valve 15HQ (Ref. AMM 21-26-52, P. Block 401).
+(1) Do an operationaL test of the pack controller (Refer to AMM 21-61-00, P. BLock 501).
+ Do an operational test of the cockpit and cabin temperature control (Refer to AMM 21-63-00, P. Block 501).
+(1) Do an operationaL test of the pressure controL and monitoring (Ref. AMM 21-31-00, P . BLock 501).
+(1) Do an operational test of the pressure control and monitoring system (Ref. AMM 21-31-00, P. Block 501).
+Remove the safety clips and tags and close these circuit breakers:
+(2) Do the operational test of the pack temperature control system (Ref. 21-61-00, P. Block 501).
+ Do an operational test of the cargo compartment heating system (Ref. AMM 21-43-00, P. Block 501).
+Refer to AMM 21-21-00, P. Block 501 (AIR DISTRIBUTION AND RECIRCULATION - ADJUSTMENT/TEST).
+(1) Do an operational test of the flow control and indicating system as given in AMM 21-51-00, P. Block 501.
+Cl) Do an operational test of the pressure control and monitoring system  (Ref. AMM 21-31-00, P. Block 501). 
+(2) Do an operational test of the manual pressure control and monitoring system (Ref. AMM 21-31-00, P. BLock 501).
+(b) Do electrical bonding in accordance with the AMM 20-28-00, P.  Block 201. 
+Cc) Install screws with anti-corrosion compound, Mat. No. 05-002. 
+Cd) To torque threaded components refer to AMM 20-21-12. 
+(e) For specification of materials (Mat. No.) given in this Service  Bulletin refer to AMM 20-31-00. 
+Cf) Renew protective finish with wash primer, Mat. No. 16-005, polyurethane primer, Mat. No. 16-001 and polyrurethane top coat,  Mat. No. 16-002.
+Remove the safety clips and tags and close these circuit breakers:
+Do the operational test of the pack temperature control system  (Ref. AMM 21-61-00, P. Block 501).
+Remove the safety clips and tags and close these circuit breakers:
+( 1 ) Remove the safety clips and the tags and close the circuit breakers given in AMM 21-61-34, P. Block 401 and AMM 21-51-11, P . Block 401.
+( 2 ) Do an operational test of the pack controller (Refer to AMM 21-61-00, P. Block 501).
+( 3) Do an operational test of the flow control and indicating (Refer to AMM 21-51-00,
+(I) Do an operational test of the pressure control and monitoring  system (Refer to AMM 21-31-00, P. Block 501).
+(1) Energize the aircraft electrical circuits (Ret. AMM 24-41-00, P . Block 201),
+(2) Remove the safety clip and tag and close this circuit breaker:
+(3) Do an operational test (Ref. AMM 21-43-00, P . Block 501).
+(1) Remove the safety clips and the tags and close these circuit breakers: 1HL, 2HL, 3HL, 6HU and 30HN.
+(2) Do the operational test of the pressure control and monitoring system (Ref. AMM 21-31-00, P. Block 501).
+(1) Remove the safety clips and the tags and close these circuit breakers: 1HL, 2HL, 3HL, 6HU and 30HN.
+(2) Do the operational test of the pressure control and monitoring system (Ref. AMM 21-31-00, P. Block 501).
+( 1 ) Do the preparation for test in accordance with the relevant AMM Chapter.
+(2) Do the operational test of the pack temperature control system (Ref. AMM 21-61-00, P. Block 501).
+(3) Do the test in accordance with the AMM 21-52-21, P. Block 401.

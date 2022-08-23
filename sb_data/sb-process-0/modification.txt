@@ -1,0 +1,1185 @@
+Replacement of the Hot Trim Duct (Y-duct) in the Trim Air System.
+Remove 1 Vee cLamp item 1 (retain).
+From the right side and the Left side of the hot trim duct (Y-duct) , item (21) , remove 12 nuts items 2 (retain).
+From the right side and the Left side of the hot trim duct (Y-duct) , item (21) , remove 12 washers items 3.
+From the right side and the Left side of the hot trim duct (Y-duct) , item (21) , remove 12 blots item 4 (retain).
+From the right side duct, item 10 and the Left side duct, item 11 , remove: 2 nuts items 6 (retain ) 2 washers items 7 (retain ) 2 boLts items 8 (retain ) and disconnect bonding Leads, items 9.
+Support the ducts, item 10 right side and item 11 Le-ft side and remove: 4 nuts items 12 (retain ) 4 washers items 13 (retain ) 4 boLts items 14 (retain ) and disconnect the tie-rods right side and Le-ft side, item 15 and 16.
+Remove: 1 duct (right side) item 10 (retain) 1 duct (Left side) item 11 (retain)
+From the right side and Le-ft side of the hot trim duct (Y-duct) , item (21) , remove: 2 trim air check valves items 17 (retain )
+From the right side and the Left side of the hot trim duct (Y-duct) ,
+item (21 ) and the removed ducts, items 10 and 11 , remove: 4 0-rings items (18 ) (discard).
+At the buLkhead fLange on the hot trim duct (Y-duct) , item (21) , remove: 6 boLts items 19 (retain) 6 washers items 20 (retain)
+From the eLbou duct, item 22 and the buLkhead remove: 1 hot trim duct (Y-duct) D2167200000000 item (21 ) (discard ) 1 buLkhead seaL item 23 (retain ).
+Put in the correct position on the bulkhead: 1 bulkhead seal D2167200620000 item 23 (retained on removal) .
+InstaLL the replacement hot trim duct (Y-duct) : 1 hot trim duct (Y-duct) D2167200000200 item 21 with 6 washers AN960C416L items 20 (retained on removal) 6 bolts NAS1304-4 items 19 (retained on removal).
+InstaLL in the right side and in the Left side of the hot trim duct (Y-duct), item 21 and the removed ducts, items 10 and 11 : 4 0-rings NSA8206-145 items 18.
+At the right side and the Left side of the hot trim duct (Y-duct) instaLL: 2 trim air check valves 745AOOOO-01 items 17 (retained on removaL).
+Put in position and support: 1 duct (right side) D2157125100200 item 10 (retained on removaL) 1 duct (Left side) D2157125200200 item 11 (retained on removal).
+Position the tie-rods, right side and Left side, items 15 and 16 , at the support brackets on the ducts, items 10 and 11 and instaLL: 4 boLts NAS6704U9 items 14 (retained on removaL) 4 washers AN960C416 items 13 (retained on removaL) 4 nuts MS21043-4 items 12 (retained on removaL), but do not fully tighten them at this time.
+InstaLL on the right side and the Left side flanges of the hot trim duct (Y-duct) , item 21 and the ducts, items 10 and 11 : 2 bonding Leads E0089-10-200 items 5, 12 boLts A104-1D items 4 (retained on removaL), 12 washers AN960C10L items 3 (retained on removal), 12 nuts MS21043-3 items 2 (retained on removal), but do not fuLly tighten them at this time .
+Connect: 2 bonding Leads E0089-10-2DO items 9 with 2 boLts NAS6703U1 items 8 (retained on removal) 2 washers AN960C10L items 7 (retained on removal) 2 nuts MS21043-3 items 6 (retained on removal).
+Make sure that the trim air ducts, items 10 and 11 , are correctly Located and aligned then tighten all the nuts.
+At the bukhead, engage the elbow duct , item 22 with the hot trim duct and install : 1 Vee clamp NSA8601-09 item 1 (retained on removal) and TORQUE it to the value given on the clamp.
+Modify connection of Wires identified on Lines 1 thru 8.
+Crimp terminals and connect to corresponding equipment.
+Clean working area.
+Remove: 1 cabin pressure controller 12HL 9022-15702-4, item 1, 1 cabin pressure controller 11HL 9022-15702-4, item 1 (Ref . AMM 21-31-34, P . Block 401).
+Install: 1 cabin pressure controller 11HL 9022-15702-5, item 1, 1 cabin pressure controller 12HL 9022-15702-5, item 1 (Ref . AMM 21-31-34, P . Block 401).
+Disconnect only the plugs 20HQ-A and 18HQ-A on Electric Pan (Ref. AMM 21-26-51, P. Block 401).
+Install the mufflers On blower fan 20HQ 1 EVT3454-600-01 Item 1.
+Install the mufflers On blower fan 20HQ 4 clamps TY29M Item 3.
+On extract fan 18HQ 1 EVT3454-600-02 Item 2.
+On extract fan 18HQ 4 clamps TY29M Item 3.
+Connect the plugs 18HQ-A and 20HQ-A on electric fan (Ref. AMM 21-26-51, P. Block 401).
+( 1 ) Remove the air cycle machines 10HM1 and 11HM1 (Refer to AMM 21-52-21)
+( 2 ) Remove the water-extractor temperature sensors 11HH and 31HH (Refer to AMM 21-61-13).
+C3) InstaLL the new or modified air cycle machines 10HM1 AND •11HM1 (Refer to AMM 21-52-61).
+( 4) Install the new or modified water-extractor temperature sensors 11FTH and 31HH (Refer to AMM 21-61-13).
+( 5 ) Add the Letter A to the amendment pLate of each air conditioning pack.
+( 1 ) DriLL the two 2 mm (0.079 in. ) dia . drain holes in the housing of the reheaters 10HM/3 (11HM/3) as shown in the LIEBHERR ABG-SEMCA Service BuLLetin No . 755A-21-01.
+( 2 ) DriLL the two 2 mm (0.079 in. ) dia . drain hoLes in the housing of the condensers as shown in the LIEBHERR ABG-SEMCA Service BuLLetin No. 756A-21-01.
+( 3 ) Remove the water extractors 10HM8 (11HM8) (Refer to AMM 21-52-16, P . BLock 401).
+( 4 ) DriLL a 1 mm (0.0393 in. ) dia. drain hoLe in the housing of the water extractors 10HM8 (11HM8) as shown in the LIEBHERR ABG-SEMCA Service BuLLetin No. 747A-21-01.
+( 5 ) InstaLL the water extractors 10HM8 (11HM8) (Refer to AMM 21-52-16, P . BLock 401).
+( 6 ) Remove the water extractor temperature sensors 11HH (31HH) , (Refer to AMM 21-61-13, P . BLock 401) .
+(75 Ins':aL L the Mater extractor temoerature sensors "11H H (31HH) modified as '•efsrrsd to -in the L1E3HERR ABG-SEMCA Service 3uLLetin No . 74AA-21-02 (Refer to AMM 21-6i-i3,  3 . 3Lock 401) .
+( 3 ) Remove the a-ir cycLe .Tiacn-ines 10HM1 (11HM1 ) (Refer to AMM 21-52-21, P . 3L3Ck 401) .
+( 9 ) InstaLL the air cycle Bacnines 10HM1 (11HM1 ) modified as referred to • i n the LIE3HERR ABG-SEMCA Service 3uLLet-in No . 757A-21-02 (Refer to AMM 21-52-21, P . 3Lock 401) .
+(10 ) Remove the anti-icing vaLves 17HH (37HH) (Refer to AMM 21-61-^1, P . 3Lock 401) .
+(11 ) InstaLL the anti-i c'ing vaLves 17HH (37HH) modified as referred to in
+the LIE3HERR ABG-SEMCA Service 3uLLetin No . 743A-21-01. (Refer to AMM 21-41-61, P . BLock 401) .
+(12 ) Remove hoses and pipe items (1) , (2 ) and (3 ) betueen the anti-icing vaLves LH and RH and existing pipes (Refer to Figure 1) .
+( a ) Remove the cLamps, items 7 and (5 ) from hoses, item (2 ) and (3 ) and pipe , item (1) .
+(a1 ) Retain the hardware and the cLamps, item 4, discard the cLamp, item (5 ) .
+( b ) Remove and discard foLLowing parts: 2 hoses, item (2 ) and (3 ) 1 pipe, item (1 )
+(13 ) RepLace pipe assembLies which are specified in the LIEBHERR A8G-SEMCA Service 3uLLetin No . 748A-21-01.
+(14 ) InstaLL hoses items, 7 and 8 and eLbows, item 6 , to the amt-icing vaLves LH and RH and to the existing pipes.
+(a) InstaLL to each anti-icing vaLve: 1 eLboM, NSA855120-6C, item 6 .
+( b ) InstaLL to the eLbow, item 6 of the RH anti-icing vaLve and to the existing pipe : 1 hose D215714370340Q, item 7.
+( c ) InsTaLL to elbow, item 6 of the LH anti-icing vaLve and to the
+existing pine : 1 hose D21571437Q3200, item 8.
+( d ) InstaLL the -stained cLamps, item 4, and 1 new cLamp NSA5516-13NJ, item 5, to the new instaLLed hoses, use the retained hardware.
+(15 ) Remove the pack outlet pneumatic sensors 10HM10 (11HM10) , (Refer to AMM 21-61-19, P . 3Lock 401) .
+(16 ) InstaLL the pack outLet pneumatic sensors 10HM10 (11HM10) , which have a "educed setting as refer-ed to in the LIE3HERR ABG-SEMCA Service BuLLetin No . 767A-21-01 . (Refer to AMM 21-61-19, P . BLock 401).
+(17 ) Reidentify air conditioning pack as per Para. 3.C .
+Remove  8 CLamps Item (16) (re-used) 
+Remove 2 SLeeves Item (2) (re-used) 
+Remove 18 Crews Item (15) (re-used) 
+Remove 18 Washers Item (14) (re-used) 
+Remove 1 Duct Item (10) (re-used and re-identified) 
+Remove 1 CLamp Item (17) (re-used) 
+Remove 1 Duct Item (9) (re-used) 
+Remove 1 Duct Item (13) (re-used) 
+Remove 8 CLamps Item (20) (re-used) 
+Remove 1 SLeeve Item (4) (re-used) 
+Remove 1 Duct Item (8) (re-used) 
+Remove 1 CLamp Item (21) (re-used) 
+Remove 1 SLeeve Item (1) (re-used) 
+Remove 1 Duct Item (7) (re-used and re-identified)
+Remove 1 Diaphragm Item (12) (not re-used)
+Install 1 Diaphragm D2121033421000 Item 3 with 3 rivet L21217024008DCJ Item 11
+Re-identify duct D2121019800300 becomes D2121019800400
+InstaLL using bonding compound Mat. No. 09-005 (Ref. AMM 20-31-00).
+InstaLL 1 Duct Item (8) (retained at removal.).
+InstaLL 8 Screws Item (15) (retained at removal). 
+InstaLL 8 Washers Item (14) (retained at removal).
+InstaLL 1 SLeeve Item (4) (retained at removaL) 
+InstaLL 4 CLamps Item (20) (retained at removaL) 
+InstaLL 1 CLamp Item (21) (retained at renovaL) 
+InstaLL 1 SLeeve Item (1) (retained at removaL) 
+InstaLL 4 CLamps Item (20) (retained at removaL) 
+InstaLL 1 Duct Item (13) (retained at removaL)
+InstaLL 1 Diaphragm D2121054520200 Item 4 with 3 Rivets L21217024008DCJ Item 11
+Re-identify duct D2121022700000 becomes D2121022700200
+InstaLL 1 Duct Item (10) (re-used and
+re-identi tied) 
+InstaLL 10 Screws Item (15) (retained at removaL) 
+InstaLL 10 Washers Item (14) (retained at removaL)
+InstaLL 1 Duct Item (9) (retained at removaL) with 2 SLeeves Item (2) (retained at removaL) 8 CLamps Item (16) (retained at removaL) 1 CLamp Item (17) (retained at removaL).
+Remove 9 CLamps Item (18) (re-used) 
+Remove 2 SLeeves Item (3) (re-used) 
+Remove 1 CLamp Item (19) (re-used) 
+Remove 1 Duct Item (5) (rs-used and re-identified) 
+Remove 1 Duct Item (6) (re-used and re-identified)
+Remove 1 Diaphragm Item (11 ) (not re-used)
+InstaLL 1 Diaphragm D2121033121000 Item 2 with 3 Rivet L21217024008DCJ Item 11
+InstaLL 1 Diaphragm D2121033120800 Item 1 With 3 Rivet L21217024008DCJ Item 11
+Re-identify ducts D2121017600000 becomes D2121017600400
+Re-identify ducts D2121017600200 becomes D2121017600500
+InstaLL 1 Duct Item (5) or (6) (re-used and re-identified) with 2 Sleeves Item (3) (retained at removal) 9 Clamps Item (18) (retained at removal) 1 Clamp Item (19) (retained at removal)
+Remove form tapping point 2103 : 1 Blanking plug Item (22) (not re-used)
+Remove form tapping point 2103 : 1 0-ring Item (23) (not re-used)
+Install on tapping point 2103 : 1 Coupling MS21902D4 Item 9
+Install on tapping point 2103 : 1 0-ring NSA8202-5 Item 8
+Remove between tapping point 2104 and pressure switch : 1 Duct Item (24) (not re-used)
+Blank off tapping point 2104 with : 1 Seal NSA8202-4 Item 7 1 Blanking plug MS21913D4 Item 10.
+Connect on duct (5) or (6), tapping point 2103, and pressure switch : 1 Duct D2121065900300 Item 5.
+( 1 ) Remove the access panel 162DW.
+Replacement of the protection basket of the outflow valve.
+(a) Remove the protection basket P/N D2137100400200 as given in the Airbus Industrie Drawing.
+(b) Install the protection basket P/N D2137100400600 as given in the Airbus Industrie Drawing.
+InstaLLation of the protection basket of the outflow vaLve.
+InstaLL the protection basket P/N D2137100400600 as given in the Airbus Industrie Drawing.
+( 1 ) Drill and debur a hole dia . 5.2 mm (0.205 in. ) and two rivet holes dia . 2.4 mm (0.094 in. ) for the anchor nut attachment on ram air outlet to dimensions as given on Sheet 1 of 2.
+( 2 ) Install anchor nut MS21047-L3, item 3, with rivets MS20426AD3-8, item 1 .
+( 3) Provide a blank surface dia . 13 mm (0.512 in. ) for bonding connection (Ref . AMM 20-28-11, P. Block 201).
+( 4 ) Install one end of bonding strap ABS0394C-125, item 2, to the ram air outlet with bolt NAS6703U4, item 8 and washer AN960C10L, item 5 .
+( 5 ) Cut and remove the Lockwire from bearing of movable flap.
+( 6 ) Remove and retain the screw, item 4.
+( 7) Provide a blank surface dia. 13 mm (0.512 in. ) for bonding connection (Ref . AMM 20-28-11, P. Block 201).
+( 8) Install the other end of bonding strap, item 2 to the bearing of movable flap with the retained bolt NAS6703HU1, item 4 and a new washer AN960C10K, item 5.
+( 9 ) Secure with the new Lockwire MS20995C32, item 6 , as given on Sheet 2 of 2.
+(10 ) Apply protective coat with Lacquer Nycote 7-11 and coLor powder Nycote blue to boLts and rivet heads and cover the remaining blank area of the bonding connection with sealant Mat. No. 09-015 or Mat. No. 09-013 (Ref . AMM 20-31-00).
+(11 ) Re-identify ram air outlets as per Para. 3.D .
+( 1 ) Remove the cargo vent controLLer 10HN P/N 600615-00-501 (Refer to AMM 21-28-34, Page BLock 401) .
+( 2 ) InstaLL the new cargo vent controLLer 10HN P/N 600615-00-502 (Refer to AMM 21-28-34, Page BLock 401) .
+( 1 ) Replace the outflow valve 10HL (Refer to AMM 21-31-51).
+(a) Remove the outflow valve 9023-15703-5 including the support plate from the aircraft structure.
+(b) Return the outflow valve 9023-15703-5 to the equipment supplier NORD Micro for the modification to the standard -4.
+( c ) Install the outflow valve 9023-15703-4.
+On shelf 83VU : remove ELAC-1 (2CE1) on shelf 83VU and remove ELAC-2 (2CE2)
+On shelf 84VU : Remove all the blanking plugs on the MCU (Modular Concept Unit) related to the ELAC-1 (2CE1)
+install ELAC-1 (2CE1) on shelf 83VU and install ELAC-2 (2CE2) on shelf 84VU.
+Remove clamps and flexible sleeves between ducts Items G) and (4).
+Install grill on duct Item (3).
+On ducts Items (3) and (4), instaLL clamps and flexible sleeves retained during removal.
+Part Number of Modified Item D2121031500000 becomes D2121031500200
+Install sidewall Panels 131MW, 131PW (Ref. AMM 06-41-53).
+Remove the air conditioning packs 10HM (LH) and 11HM (RH ) in accordance with AMM 21-52-41, P. Block 401.
+Disconnect the electrical connections from the sensors and remove the clamp, item (106) and associated hardware as shown in figure 1 1 . Do not re-use the fastening parts.
+( d ) Remove and retain the sensors, item 3, 6, 9 and 12 with fastening parts.
+( e ) Disconnect the hose, item (40) from the tie-rod by removing nut, item 15, washer, item 16, screw, item 30 and two clamps, item 38 and 42.
+( f ) Disconnect the hose, item (40) from the flow control valve LH and RH, item (1 ) and (8) . Do not re-use the hose.
+( g ) Remove the flow control valves 8HB (LH) , item (1 ) and 11HB (RH) , item (8) in accordance with AMM 21-51-51, P. Block 401. Retain the ducts.
+Remove and do not re-use the placards, item (4) , (5) , (10) , (11) , (20), (21) , (22) and (23).
+Remove hose item (2 ) not re-used
+Remove hose item (7) not re-used
+Remove screw item 14 re-used
+Remove nut item 15 re-used
+Remove washer item 16 re-used
+Remove screw item 17 re-used
+Remove bonding strap item (18) not re-used
+Remove bonding strap item 18 re-used
+Remove clipnut item (19 ) not re-used
+Remove clamp item 19 re-used
+Disconnect and remove hose item (32), (33),
+Disconnect and remove (34), (35) not re-used
+Disconnect and remove pipe item (36) , (37) not re-used
+Disconnect and remove nut item 15 re-used
+Disconnect and remove washer item 16 re-used
+Disconnect and remove screw item 30 re-used
+Disconnect and remove cLamp item (31) not re-used
+Disconnect and remove cLamp item (38) not re-used
+( a ) Remove the overheat detection Loops A and B from the heat shieLds in accordance with AMM 36-22-18, P. BLock 401.
+( b) Remove the hot air trim Lines in the areas of the heat shieLds.
+( c ) Remove the fLow sensor supports and retain with the fastening parts for re-use.
+( d ) Loosen the wire harnesses from the heat shieLds. Retain the fastening parts for re-use.
+( e ) Remove the heat shieLds D2157137101400, item (70) and D2157137101200, item (71) from the studs and retain the fastening parts for re-use.
+( f ) PLace the heat shieLds on a bench and modify as foLLows:
+(f1 ) Mark the instaLLation positions of the supports, item 76 on the heat shieLds, item (70) and (71) .
+(f2) DriLL 2.4 mm (0.094 in. ) rivet hoLes.
+(f3) Position the supports D3627002600000, item 76 on the heat shieLds and instaLL with washers ASNA53114-24ADL, item 77 and rivets MS20470AD3-6, item 78.
+(f4) Re-identify the heat shieLds in accordance with Para. 3.D .
+( g ) At the Locations given in figure 5 remove the studs, item (80), (83) and (87), washers, item (81) and Lockwashers, item (72).
+( h ) Retain the 2 studs, item (80), 1 stud, item (83), 2 washers, item (81), and 2 Lockwashers, item (72).
+install the new and retained stud NSA5159-33 item 75
+install the new and retained lockwasher DIN137A5ST item 72
+install the new and retained washer AN960C10L item 16
+install the new and retained stud NSA5159-25 item 84
+install the new and retained stud NSA5159-32 item 83
+install the new and retained washer AN960KD10 item 81
+install the new and retained lockwasher DIN137A5ST item 72
+install the new and retained washer AN960C10L item 16
+install the new and retained screw NAS1096-3-10 item 85
+install the new and retained stud NSA5159-23 item 80
+install the new and retained stud NSA5159-25 item 84
+install the new and retained stud NSA5159-32 item 83
+install the new and retained washer AN960KD10 item 81
+install the new and retained Lockwasher DIN137A5ST item 72
+install the new and retained washer AN960C10L item 16
+install the new and retained screw NAS1096-3-10 item 85
+ Install the modified heat shields D2157137101800, item 70 and D2157137101600, item 71 with retained fastening parts.
+( n) Additionally fasten the heat shield, item 70 with new washers AN960C10L, item 16 and nuts MS21042-3, item 74 as shown in figure 4, section A-A.
+Replace the flow sensor supports with retained fastening parts
+ Replace the hot air trim Lines in the heat shield areas.
+(q) Replace the overheat detection Loops A and B on the heat shields in accordance with AMM 36-22-18, P. Block 401.
+On the Longeron assy, RH at FR37, put in position the sensorsupport brackets, item 60 and 61, pLug-support brackets, item 62 and wire harness-support brackets, item 63 as shown in the figure.
+(b) DrilL dia . 3.2 mm (0.126 in. ) rivet hoLes for the support brackets item 63 and dia. 4.0 mm (0.157 in. ) for the support brackets item 60, 61 and 62.
+(c) InstaLL the support brackets D9249178620000, item 63 with rivets MS20470AD4-6, item 64. Use sealant Mat. No. 09-013.
+(d) InstaLL the support brackets D2157047600000, item 60, D2157047600100, item 61 and D9249181020000, item 62 with rivets MS20470D5-6, item 65. Use sealant Mat. No. 09-013.  DriL L out and remove the support brackets, item (91) (front and rear face) and seal the rivet hoLes with rivets MS20470AD4-12, item 96.
+(f) DriL L out and remove the support bracket, item (90) and seal the rivet hoLes with rivets MS20470AD4-12, item 96.
+(g) DriL L out rivets accordingLy, where the new support brackets, item 90, 91 and 92 have to be positioned.
+(h) Put the bonding strap support bracket D5337067700200, item 90 in position as shown in the figure and driL L dia. 4.8 mm (0.189 in. ) rivet holes.  Install the support bracket, item 90 with rivets MS20470D6-10,
+item 93. Use sealant Hat. No. 09-013.
+( k ) Position the support brackets D9249181120000, item 91 and D2157147720400, item 92 as shown in the figure and drill and ream dia. min. 5.113 mm (0.2013 in. ) max. 5.152 mm (0.2028 in.) .
+( L ) Install the support brackets, item 91 and 92 with Hi-lok fasteners HL110VF-6-5, item 94 and collars HL79, item 95. Use sealant Mat. No. 09-013.
+ Install the new bonding straps E0089-10-200, item 54 with screws NAS6703U1, item 17, washers AN960C10L, item 16 and nuts MS21043-3, item 15.
+Install the retained sensors 763AOOOO-03
+Install the retained sensors 763AOOOO-03
+Install the placards adjacent to the sensors
+Removal of electrical items and rerouting of cable bundle.
+ Remove and do not re-use clamps, item (106), (110), (111) , (112) and (124) with fastening parts.
+ Remove the receptacles 7558VC and 7559VC from the brackets.
+Retain the screws, item 135, washers, item 136 and nuts, item 137.
+Modify the cable fastening and remove and install washers item (115) not re-used
+Modify the cable fastening and remove and install clamp item (116) not re-used
+Modify the cable fastening and remove and install spacer item (117) not re-used
+Modify the cable fastening and remove and install screw item (118) not re-used
+Modify the cable fastening and remove and install spacer item (124) not re-used
+Modify the cable fastening and remove and install clamp NSA935807-06 item 113 re-used
+Modify the cable fastening and remove and install washer NSA935808C03 item 114 re-used
+Modify the cable fastening and remove and install bolt NAS1096-2-10 item 118 new
+Modify the cable fastening and remove and install screw NAS1096-2-14 item 119 re-used
+Modify the cable fastening and remove and install washer PIN960C8L item 120 re-used
+Modify the cable fastening and remove and install spacer NSA5527-03-06D item 121 re-used
+Modify the cable fastening and remove and install clamp NSA5516-07NV item 122 re-used
+Modify the cable fastening and remove and install spacer NAS1096-2-33 item 123 re-used
+Install the placards, item 150 for receptacles 7558VC and 7559VC which are delivered with the electrical equipment D9299221000000.
+Secure the cable bundles to the structure with clamp NSA935807-06 item 102
+Secure the cable bundles to the structure with washer NSA935808-01 item 103
+Secure the cable bundles to the structure with screw NAS1096-2-27 item 130
+Secure the cable bundles to the structure with clamp NSA935807-12 item 131
+Secure the cable bundles to the structure with spacer NSA5527-03-02D item 132
+Secure the cable bundles to the structure with spacer NSA5527-03-03D item 133
+Secure the cable bundles to the structure with nut NSA5066-08-2 item 134
+Install the modified/new flow control valves 8KB (LH) and 11HB (RH) 751AOOOO-04, item 1 and 8 and the retained ducts in accordance with ANN 21-51-51, P. Block 401.
+On the -flow controL vaLve 8HB (LH) instaLL hose D2157147102800, item 40 ref. figure 8
+On the -flow controL vaLve 8HB (LH) instaLL hose D2157143703200, item 32 ref. figure 9
+On the -flow controL vaLve 8HB (LH) instaLL hose D2157147103200, item 2 ref. figure 10
+On the -flow controL vaLve 8HB (LH) instaLL hose D2157147103400, item 7 ref. figure 10
+Connect the hose, item 32 to the pipe
+Connect the hose D2157143703000, item 33 to the pipe
+On the flow control valve 11HB (RH ) install hose D2157147102800, item 40 ref. figure 8
+On the flow control valve 11HB (RH ) install hose D2157143702200, item 35 ref. figure 9
+On the flow control valve 11HB (RH ) install hose D2157147102600, item 50 ref. figure 10
+On the flow control valve 11HB (RH ) install hose D2157147103000, item 51 ref. figure 10
+Connect the hose, item 35 to the pipe
+ Connect the hose D2157143703400, item 34 to the pipe
+Install the air conditioning packs 10HM (LH) and 11HM (RH ) in accordance with AMM 21-52-41, P. Block 401.
+Install the placards on the heat shields placard D2157127524200 item 21
+Install the placards on the heat shields placard D2157127523800 item 23
+Install the placards on the heat shields placard D2157127524600 item 20
+Install the placards on the heat shields placard D2157127523200 item 22
+ Connect the hose, item 40, LH and RH to the compressor outlet of the air conditioning pack
+ Install the hoses, item 33 and 34 with elbow fittings NSA855120-6C, item 39.
+Remove From the outside, on the fuselage (Ret . AMM 21-26-52, P. Block 401) 1 skin air-inlet valve 15HQ Iten 5 (retain) 
+Remove From the outside, on the fuselage (Ret . AMM 21-26-52, P. Block 401) 1 0-ring item (2) (discard)
+Remove From the inside 1 demister air inlet 2080HM Item 6 (retain) (Ref. AMM 21-26-43, P. Block 401)
+Remove From the inside 1 nut item 7 (retain) 
+Remove From the inside 2 couplings Item 8 (retain) 
+Remove From the inside 1 bulkhead connector Item 9 (retain)
+Remove From the inside 4 screws Item 10 (retain) 
+Remove From the inside 1 plate Hen 11 (retain) 10 rivets item (3) (discard) 
+Remove From the inside 1 blowing duct item (1) (discard)
+Drill to Match to a dia . of 3.2 m (0.1260 in.) .
+Put in position and attach with the screws Item 4 : 1 blowing duct assy D5391268600295 Her 1 (equipped with a check valve CT141)
+Attach Item 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with 10 rivets 
+Attach Item 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with ASNA2051DCJ3210 Item 3
+Attach Item 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with 1 plate Iten 11
+Attach Item 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with (retained at removal) 4 screws Item 10
+Attach Item 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with (retained at removal) 1 bulkhead connector lien 9
+Attach Item 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with (retained at removal) 2 couplings Item 8 (retained at removal)
+Attach Item 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with 1 nut  item 7 (retained at removal)
+Renew the protective finish with Materials No. 16-002 and 16-006 (Ref. CML) .
+1 demister air inlet 2080HM Item 6 (retained at removal) (Ref. AMM 21-26-43, P. Block 401)
+On Item 1, near the equipment concerned, install 1 placard identified 1301VP.
+Froa the outside, on the fuselage 1 skin air-inlet valve 15HQ Item 5(retained at removal)
+ Froa the outside, on the fuselage 1 0-ring NSA8205-171 Item 2 (Ref. AMM 21-26-52, P. Block 401.)
+Removal of the Inlet Funnel, item (1 )
+Remove from the area between FR55 and FR56 4 screws item (4) (discard) 
+Remove from the area between FR55 and FR56 4 washers item (3) (discard) 
+Remove from the area between FR55 and FR56 2 washers item (9) (discard)。
+ Remove from the tube, item 10 1 clamp item 5 (retain) .
+Remove from the brackets, item 6 2 clamps item 5 (retain) .
+Remove the inlet funnel, item (1 ) (discard)
+Remove from the support strut between FR56 and the floor structure 3 screws item (4 ) (discard)
+Remove from the support strut between FR56 and the floor structure 3 washers item (3 ) (discard)
+Remove from the support strut between FR56 and the floor structure 1 bracket item (6) (discard)
+InstaLL the inLet funneL D212725370000, item 2, on the tube, item 10, with the retained cLamp, item 5 .
+ InstaLL the inLet funneL, item 2, on the brackets, items 6 and 7, with the 2 retained cLamps, item 5 .
+InstaLL on the support strut between FR55 and the floor structure 1 retained bracket, item 6 ,
+InstaLL on the support strut between FR55 and the floor structure 1 bracket D2127349720000, item 7
+InstaLL on the support strut between FR55 and the floor structure  3 screws NAS1096-3-8, item 8
+InstaLL on the support strut between FR55 and the floor structure  3 retained washers, item 3
+Remove from the support strut between FR55 and the floor structure  3 screws item (4 ) (discard)
+Remove from the support strut between FR55 and the floor structure  3 washers item 3 (retain)
+Remove from the support strut between FR55 and the floor structure 1 bracket item 6 (retain)
+InstaLL on the support strut between FR55 and the floor structure 3 retained washers, item 3
+InstaLL on the support strut between FR55 and the floor structure 3 screws NAS1096-3-8, item 8
+InstaLL on the support strut between FR55 and the floor structure  1 bracket D2127349720000, item 7
+InstaLL on the support strut between FR55 and the floor structure  1 retained bracket, item 6
+In the forward cargo compartment, on the Left side, between the frames 27 to 29
+Remove the left lateral panel 131HW between the frames 27 to 30 (re-used)
+(2) Remove the basic air conditioning duct that is in the aircraft
+Remove 9 clamps Item (2) (retain) 
+Remove 2 sleeves Item (3) (retain) 
+Remove 1 duct Item (1 ) (Ref. NOTE)
+Install the new silenced duct
+Install 1 duct D2121097000000 Item 1
+Install 2 sleeves Item (3) (retained at removal) 
+Install 9 clamps Item (2) (retained at removal)
+Install the left Lateral panel 131HW between the frames 27 to 30 (retained at removal).
+1 Open the FWD cargo compartment door (Ref. AMM 52-30-00, P. Block 1) . 
+2 Remove the partition panels 131NW, 131PW and 132PW from the aft partition wall in the FWD cargo compartment.
+3 Disconnect the passenger seats between FR32 and FR35, LH and remove the floor panel 231YF from the outer floor panel row, LH. (Ref. AMM 25-21-41, P. Block 401).
+1from the cross-feed duct, item (1 ) remove the temperature sensor 16 HK and the overheat sensor 19HK and retain.
+2 Remove and do not re-use the cross-feed ducts, item (1) , (3) , ( 6 ) and (7) . Retain the connecting parts.
+3 Disconnect and remove the distribution ducts, item (14) and
+(15) for modification on bench and modify in accordance with Para. F. (1 ) and (2) . Retain the connecting parts.
+4 Remove the fans, item (8) (Ref. AMM 21-21-51, P. Block 401) and ~ return to the vendor for modification.
+5 Install the modified fans VD3900-03, item 8 (Ref. AMM 21-21-51, P. Block 401). 
+6 Install the modified distribution ducts D2127100600900, item 14 and 02127100600800, item 15 with the retained connecting parts.
+7 Install the retained temperature sensor 16HK and the overheat sensor 19HK on the new cross-feed duct D2127100000800, item 1.
+ Install these new cross-feed ducts with the retained connecting parts:
+Do an operational test of the Cabin Recirculation Fans 14HG and 15HG (Ref. AMM 21-21-00, P. Block 501) and at the same time check the duct connections for air Leaks.
+Make sure that the work area is clean and clear of tools and other items. 
+2 Install the partition panels 131NW, 131PW and 132PW of the aft partition wall in the FWD cargo compartment.
+3 Close the FWD cargo compartment door (Ref. AMM 52-30-00, P. Block 1) . 
+4 Install the floor panel 231YF (Ref. AMM 53-32-12, P. Block 401) and replace the passenger seats (Ref. AMM 25-21-41, P. Block 401).
+Put the aircraft in pre-flight condition.
+Modification in the FWD cargo compartment between FR34 and FR36.
+Modification in the passenger compartment between FR43 and FR60.
+1 Remove the ceiling panel 251CC between FR51 and FR53 (Ref. AMM 25-23-41, P. Block 401).
+2 Disconnect the passenger seats between FR43 and FR60, LH and RH to get access to the Lower sidewalL panels and the outer row of floor panels (Ref. AMM 25-21-41, P. Block 401). 
+3 Remove the Lower sidewall panels between FR43 and FR60, LH and RH (Ref. AMM 25-23-44, P. Block 401). 
+4 Remove the outer row of floor panels, LH and RH between FR43 and FR60 (Ref. AMM 53-23-12, P. Block 401).
+Remove and do not re-use the restrictors, item (19) , (20), (21) , (22) and (23) between FR43 and FR60, LH and RH.
+Install these new restrictors with Silicon Compound
+3 Remove and retain the screws, item 62 and the washers, item 63. 
+4 Loosen and do not remove the clamps, item 65 and 66. 
+5_ Remove and do not re-use the tube, item (61) . 
+6 Remove and retain the clamps, item 64 from the tube.
+7 Put the retained clamps, item 64 on the new tube D2127503000200, item 61. 
+8 Install the tube 02127503000200, item 61 and tighten the clamps, item 65 and item 66.
+Put the clamps, iten 65 and 66 in position and instaLl the retained screws, item 62 and washers, item 63 and tighten.
+Check the duct connections for air Leaks.
+Make sure that the work area is cLean and cLear of tooLs and other items. 
+2 InstaLL the outer row of fLoor paneLs, LH and RH (Ref. AMM 53-32-12, P. BLock 401). 
+3 InstaLL the Lower sidewaLL paneLs (Ref. AMM 25-23-44, P. BLock 401). 
+4 InstaLL the ceiLing paneL 251CC (Ref. AMM 25-23-41, P. BLock 401). 
+5 InstaLL the passenger seats (Ref. AMM 25-21-41, P. BLock 401). 
+6 Put the aircraft in pre-fLight condition.
+Modification in the passenger compartment between FR60 and FR67.
+1 Remove the Light cover paneLs 251CX (252CX) between FR63 and FR64. 
+2 Remove the upper sidewaLL paneLs 251BX (252BX) (Ref. AMM 25-23-43, P. BLock 401). 
+3 Disconnect the passenger seats between FR60 and FR64, LH and RH to get access to the Lower sidewaLL paneLs (Ref. AMM 25-21-31, P. BLock 401). 
+4 Remove the outer row of fLoor paneLs, LH and RH between FR60 and FR64 (Ref. AMM 53-32-12, P. BLock 401). 
+5 Remove the Lower sidewaLL paneLs, LH and RH between FR60 and FR64 (Ref. AMM 25-23-44, P. BLock 401). 
+6 Remove the AFT Lavatory, LH and RH (Ref. AMM 25-43-43, P. BLock 401).
+1 Remove and do not re-use the LH outlet at FR64, item (47). 
+2 Install the new outlet D2127107901000, item 47. 
+3 Remove and do not re-use the RH outlet at FR64, item (48). 
+4 Install the new outlet D2127107901100, item 48.
+5_ Remove and do not re-use the caps, item (52) . 
+6 Install the new caps A2157031121200, item 52 with the existing clamps as shown in detail D. 
+1_ Remove and do not re-use the restrictors, item (17) , (23) and (24) between FR60 and FR64, LH and RH. 
+8 Install these new restrictors with Silicon Compound, Mat. No. 08-004A as shown in Section A-A:
+9 Disconnect the ducts as shown in detail E and remove and do not re-use the restrictors, item (53) . 
+Remove the exisiting restrictor D2127111320000, item 41 from the Lower riser duct at FR65 and replace the restrictor with Silicon Compound, Mat. No. 08-004A.
+ Re-connect the ducts. 
+( c ) Check the duct connections for air Leaks.
+\ Make sure that the work area is clean and clear of tools and other items.
+2 Install the outer row of floor panels, LH and RH (Ref. AMM 53-32-12, P. Block 401). 
+3 Install the light cover panels 251CX (252CX).
+4 Install the AFT lavatory, LH and RH (Ref. AMM 25-43-43, P. Block 401). 
+5 Install the upper sidewaLL panels 251BX (252BX)
+(Ref. AMM 25-23-43, P. Block 401). 
+6 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+1_ Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+8 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR26 and FR43.
+\ Remove the Light cover panels from above the upper sidewall panels between FR34 and FR43. 
+2 Remove the upper sidewall. panels 231YW (232YW) and 241PW (242PW) between FR34 and FR43 (Ref. AMM 25-23-43, P. Block 401). 
+3 Disconnect the passenger seats between FR36 and FR43, LH and RH ~ and on the LH side to FR47 to get access to the lower sidewaLL panels and the outer floor panel row, LH and RH (Ref. AMM 25-21-41, P. BLock 401). 
+4 Remove the Lower sidewaLL panels, between FR36 and FR43, LH and RH (Ref. AMM 25-23-44, P. BLock 401). 
+^ Remove the outer row of floor panels, LH and RH between FR35 and FR42 and on the LH side to FR47 (Ref. AMM 53-32-12, P. Block 401). 
+\ Remove and do not re-use the LH outlet at FR36, item (45). 
+2 InstaLL the new out Let D2127107600400, item 45.
+3 Remove and do not re-use the RH outlet at FR36, item (46) . 
+4 Install the new outlet D2127107600500, item 46.
+5 Remove and do not re-use the LH outlet at FR42, item (47).
+6 Install the new outlet D2127107901000, item 47.
+~l_ Remove and do not re-use the RH outlet at FR42, item (48). 
+8 Install the new outlet D2127107901100, item 48.
+9 Remove and do not re-use the restrictors, item (17) , (18) and
+(20) between FR36 and FR43, LH and RH.
+Install these new restrictors with Silicon Compound, Mat . No. 08-004A as shown in Section A-A:
+11 Remove the duct, item (50) for modification on bench and modify in accordance with Para. F.(3) . 
+^2 Install the modified duct D2127101400000, item 50.
+Check the duct connections for air Leaks.
+\ Make sure that the work area is clean and clear of tools and other items. 
+2 Install the outer row of floor panels, LH and RH (Ref. AMM 53-32-12, P. Block 401) 
+3 Install the Lower sidewaLL panels (Ref. AMM 25-23-44, P. BLock 401). 
+4 Install the upper sidewaLL panels (Ref. AMM 25-23-43, P. BLock 401). 
+5 Install the Light cover panels above the removed upper sidewaLL panels. 
+6 InstaLL the passenger seats (Ref. AMM 25-21-41, P. BLock 401). 7 Put the aircraft in  pre-fLight condition.
+Modification in the passenger- and avionic compartment between FR21 and FR26 and the FWD cargo compartment between FR24 and FR34.
+1^ Remove the ceiling panel between FR26 and FR28 (Ref. AMM 25-23-41, P. Block 401). 
+2 Disconnect the passenger seats between FR24 and FR28, RH (Ref. AMM 25-21-41, P. Block 401). 
+3 Remove the floor covering between FR24 and FR28, RH (Ref. AMM 25-28-41 or 25-28-42, P. Block 401). 
+4 Remove the floor panels 232PF and 232MF (Ref. AMM 06-41-53, P. Block 1) . 
+5 Open the FWD cargo compartment door (Ref. AMM 52-30-00, P. Block 1) . 
+6 Remove the sidewall panels 131MW, 131HW, 131GW, 131PW, 131BW, 131DW, 132MW,. 132KW, 132JW, 132PW, 132BW and 132EW (Ref. AMM 06-41-53, P. Block 1) in the cargo compartment. 
+7 Remove the partition panels 131BW, 131DW, 132BW and 132EW (Ref. AMM 06-41-53, P. Block 1) . 
+8 Open the avionic compartment door 824 (Ref. AMM 06-41-53, P. Block 201). 
+9 De-pressurize the Yellow hydraulic system (Ref. AMM 29-10-00, P. Block 201).
+ De-pressurize the hydraulic reservoir (Ref. AMM 29-14-00, P. Block 201).
+1_1^ Remove the FWD cargo compartment door actuators (Ref. AMM 52-36-18, P. Block 401).
+12 Remove the ceiling moulds underneath the door actuators.
+1 Remove and retain the clamps, item 74.
+2 Remove and do not re-use the hose, item (70).
+3 With abrasive paper, strip off the end of duct, item (72) over a Length of 15 mm (0.590 in. ) without removal of the duct. 
+4 Affix the new restrictor D2121113520000, item 73 with adhesive Mat. No. 08-001. 
+5 Identify the modified duct to D2121090700100, item 72 (Ref. Para. 3.D.) . 
+6 Install the new hose D2101001722100, item 70 with the retained clamps, item 74.
+7 Disconnect and remove the distribution ducts, RH, item (112) , (113) , (114) and (115 ) for modification on bench and modify in accordance with Para.F.(4 ) thru (7) . Retain the connecting parts. 
+8 Diconnect and remove the distribution ducts, LH, item (116) , (117) , (118) , (119 ) and (120) for modification on bench and modify in accordance with Para.F.(8 ) thru (12) . Retain the connecting parts. 
+9 Install the modified distribution ducts with the retained connecting parts:
+Remove the distribution ducts, item (121) and (122) for modification on bench and modify in accordance with Para.F.(13) and (14) . 
+Retain the connecting parts.
+From the avionic compartment, remove the distribution duct, item (123) for modification on bench and modify in accordance with Para.F.(15) . 
+Retain the connecting parts.
+^ Install the modified distribution ducts with the retained connecting parts.
+Check the duct connections for air leaks
+1 Make sure that the work areas are clean and clear of tools and other items. 
+2 Install the ceiling panel  between FR26 and FR28 (Ref. AMM 25-23-41, P. Block 401). 
+3 Install the floor panel 232PF and 232MF and the removed floor covering (Ref. AMM 25-28-41 or 25-28-42, P. Block 401). 
+4 Install the passenger seats between FR24 and FR28 (Ref. AMM 25-21-41, P. Block 401). 
+5 Install all removed sidewall and partition panels in the FUD cargo compartment. 
+6 Install the ceiling moulds underneath the FWD cargo compartment door actuator?. 
+7 Install the FWD cargo compartment door actuators (Ref. AMM 52-36-18, P. Block 401). 
+8 Close the FWD cargo compartment door (Ref. AMM 52-30-00, P. Block 1) . 
+9 Close the avionic compartment door 824. 10 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR21 and FR30, LH and RH.
+\ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) ~ and protect the floor covering.
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sideuall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Remove the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+\ Disconnect, remove and do not re-use the ducts (1) , (2) , (3) and (4) , the lower air outlets (5) and (6 ) and the upper air outlets (7) and (8) .
+ Retain the connecting parts.
+2 Install these new ducts, lower air outlets and upper air out- lets with the retained connecting parts:
+( c ) Check the connections for air-Leaks.
+1 Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+6 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR21 and FR30, LH and RH. 
+\ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Remove the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+^ Disconnect, remove and do not re-use the ducts (2), (3) and  (4), the lower air outlets (5) and (6) and the upper air outlets (7) and (8). 
+Retain the connecting parts.
+Install these new ducts, Lower air outlets and upper air outlets with the retained connecting parts:
+Check the connections for airleak.
+\ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels  (Ref. ANN 25-23-44, P. BLock 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+6 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR21 and FR30, LH and RH.
+\ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401).
+ 4 Remove the Lower sidewaLL panels (Ref. AMM 25-23-44, P. Block 401).
+ Disconnect, remove and do not re-use the ducts (1) , (3) and (4) , the Lower air outlets (5 ) and (6 ) and the upper air outlets (7) and (8) . Retain the connecting parts. 
+2 Install these new ducts, Lower air outlets and upper air outlets with the retained connecting parts:
+Check the connections for airleaks
+1^ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the ceiling panels (Ret. AMM 25-23-41, P. Block 401). 
+5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+6 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR21 and FR30, LH and RH.
+^ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering.
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401).
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401).
+ 4 Remove the lower sidewaLL panels (Ref. AMM 25-23-44, P. Block 401).
+Disconnect, remove and do not re-use the ducts (3) and (4) , the
+ lower air outlets (5) and (6 ) and the upper air outlets (7) and (8) . 
+Retain the connecting parts.
+2 Install these new ducts, Lower air outlets and upper air outlets with the retained connecting parts:
+Check the connections for air-leaks.
+\ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewaLL panels (Ref. AMM 25-23-44, P. BLock 401). 
+3 InstaLL the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+6 Put the aircraft in pro-flight condition.
+Modification in the passenger compartment between FR30 and FR36, LH and RH.
+1^ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Remove the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+1^ Disconnect, remove and do not re-use the ducts (3) and (4), the lower air outlets (5) and (6) and the upper air outlets (7) and
+(8). Retain the connecting parts.
+2 Install these new ducts, Lower air outlets and upper air outlets with the retained connecting parts:
+Check the connections for airleaks.
+^ Make sure that the areas are clean and clear of tools and other items. 
+2 InstaLL the Lower sidewaLL paneLs (Ref. AMM 25-23-44, P. BLock 401). 
+3 InstaLL the upper sidewaLL panels (Ref. AMM 25-23-43, P. BLock 401). 
+4 InstaLL the ceiling paneLs (Ref. AMM 25-23-41, P. BLock 401). 
+5 InstaLL the passenger seats (Ref. AMM 25-21-41, P. BLock 401).
+6 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR36 and FR47, LH and RH.
+\ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering.
+ 2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Remove the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+Disconnect, remove and do not re-use the ducts (9), (10), (13) and (14), the lower air outlets (17), (18), (19) and (20) and the upper air outlets (11) and (12).
+ Retain the connecting parts.
+Modify the adapter section between FR39 and FR41 as follows: Refer to Figure 8
+- Remove and do not re-use the screws (21), (24) and (26), the washers (22) and the spacers (23) and (25). 
+- Remove and do not re-use the adapter (15) and (16).
+- On FR40 drill out the rivets and remove and do not re use the bracket (27). 
+- Seal the rivet holes with rivets NAS1097DD5-6 and NAS1097DD5-7.
+- Paint rivets with poLyurethane primer. Mat. No. 16-001 and polyurethane top coat. Mat. No. 16-002. 
+- Put the bracket D2127245500000, item 28 in position at FR40 to dimensions as given in section A-A. 
+- Drill out rivet holes and install the bracket, item 28 with rivets LN9198-401OCF and LN9198-4012CF.
+ - Paint rivet heads with polyurethane primer Mat. No. 16-002.
+ - Install the new adapter D2127112100000, item 15 and D2127112100100, item 16 at bracket 28 with washer ASNA0113-48ADL, item 29 and screw, item 30.
+Install these new ducts. Lower air outlets and upper air outlets with the retained connecting parts;
+Check the connections for air-leaks.
+1^ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+6 Put the aircraft in pro-flight condition.
+Modification in the passenger compartment between FR36 and FR47, LH and RH.
+^ Remove the passenger seats (Ret. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+3 Remove the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+1^ Disconnect, remove and do not re-use the ducts (9) , (10) , (13) and (14) , the lower air outlets (17) , (18) , (19 ) and (20). 
+Retain the connecting parts.
+Modify the adapter section between FR39 and FR41 as follows:
+- Remove and do not re-use the screws (21) , (24) and (26) , the washers (22) and the spacers (23) and (25) . - Remove and do not re-use the adapter (15) and (16) . 
+- On FR40 drill out the rivets and remove and do not re-use the bracket (27).
+ - Seal the rivet holes with rivets NAS1097DD5-6 and NAS1097DD5-7. 
+- Paint rivets with polyurethane primer. Mat. No. 16-001 and polyurethane top coat. Mat. No. 16-002.
+- Put the bracket D2127245500000, item 28 in position at FR40 to dimensions as given in section A-A. 
+- DriLL out rivet holes and install the bracket, item 28 with rivets LN9198-401OCF and LN9198-4012CF. 
+- Paint rivet heads with polyurethane primer Mat. No. 16-002. 
+- Install the new adapter D2127112100000, item 15 and D2127112100100, item 16 at bracket 28 with washer ASNA0113- 48ADL, item 29 and screw, item 30.
+Install these new ducts. Lower air outlets and upper air outlets with the retained connecting parts:
+ Check the connections for airleaks.
+1^ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+5 Put the aircraft in pro-flight condition.
+Modification in the passenger compartment between FR36 and FR47 and FR55, LH and RH.
+\ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Remove the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+1^ Disconnect, remove and do not re-use the ducts (9 ) and (10) , lower air outlets (19 ) and (20) and upper air outlets (11 ) and (12) . 
+Retain the connecting parts. 
+2 Install these new ducts. Lower air outlets and the upper air outlets with the retained connecting parts:
+ Check the connections for air-Leaks.
+1^ Make sure that the areas are clean and clear of tools and other items.
+2 Install the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401).
+4 Install the ceiling panels (Ref. AMM 25-23-41, P. Block 401).
+ 5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401).
+6 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR47 and FR55, LH and RH.
+^ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401).
+ 3 Remove the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+
+^ Disconnect, remove and do not re-use the ducts (9) and (10) and the Lower air outlets (19) and (20). 
+Retain the connecting parts.
+Install these new ducts, lower air outlets and upper air outlets with the retained connecting parts:
+Check the connections for airleaks.
+\ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+5 Put the aircraft in pre-flight condition.
+Modification in the passenger compartment between FR55 and FR64, LH and RH.
+^ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Remove the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+Disconnect, remove and do not re-use the ducts (9) and (10), (31), (32), (33) and (34), the lower air outlets (17), (18), (19) and (20) and the upper air outlets (11) and (12). 
+Retain the connecting parts.
+Install these new ducts, lower air outlets and upper air out-lets with the retained connecting parts:
+Check the connections for air-Leaks.
+'\_ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+6 Put the aircraft in pro-flight condition.
+Modification in the passenger compartment between FR55 and FR64, LH and RH.
+1^ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the ceiling panels (Ref. AMM 25-23-41, P. Block 401). 
+3 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Remove the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+Disconnect, remove and do not re-use the ducts (9) , (10) , (31) , (32) and (33), the lower air outlets (18) , (19 ) and (20) and the upper air outlets (11 ) and (12) . 
+Retain the connecting parts.
+Install these new ducts, Lower air outlets and upper air outlets with the retained connecting parts:
+Check the connections for airleaks.
+^ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+^ InstaLL the ceiLing panels (Ref. AMM 25-23-41, P. Block 401). 
+5 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+6 Put the aircraft in pre-flight condition.
+ Modification in the passenger compartment between FR55 and FR64, LH and RH.
+\ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+3 Remove the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+^ Disconnect, remove and do not re-use the ducts (9), (10), (31), (32), (33) and (34) and the lower air outlets (17), (18), (19) and (20). Retain the connecting parts.
+Install these new ducts. Lower air outlets and upper air out-lets with the retained connecting parts:
+Check the connections for airleaks.
+1 Make sure that the areas are clean and clear of tools and other items. 
+2 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+5_ Put the aircraft in pre-fLight condition.
+Modification in the passenger compartment between FR55 and FR64, LH and RH.
+ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+3 Remove the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+Disconnect, remove and do not re-use the ducts (9), (10), (31), (32), (33) and the lower air outlets (18), (19) and (20). Retain the connecting parts.
+Install these new ducts, lower air outlets and upper air out-lets with the retained connecting parts:
+Check the connections for airLeaks.
+^ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+4 Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+ Put the aircraft in pre-flight condition.
+ Modification in the passenger compartment between FR55 and FR64, LH and RH.
+\ Remove the passenger seats (Ref. AMM 25-21-41, P. Block 401) and protect the floor covering. 
+2 Remove the upper sidewall panels (Ref. AMM 25-23-43, P. Block 401). 
+3 Remove the lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+1 Disconnect, remove and do not re-use the ducts (9) , (10), (32) and (34) and the lower air outlets (17), (19) and (20). Retain the connecting parts.
+Install these new ducts, Lower air outlets and upper air outlets with the retained connecting parts:
+ Check the connections for air-Leaks.
+\ Make sure that the areas are clean and clear of tools and other items. 
+2 Install the lower sidewaLL panels (Ref. AMM 25-23-44, P. Block 401). 
+3 Install the upper sidewaLL panels (Ref. AMM 25-23-43, P. Block 401). 
+4^ Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+5_ Put the aircraft in pre-flight condition.
+(1) At sheLf 88VU of electronics rack 8QVU replacement of Avionics Equipment VentiLation Computer (A.E.V.C.) 10HQ. Refer to AMM 21-26-34, P. BLock 401
+Remove : .1 A.E.V.C. (10HQ) Item (1)
+InstaLL : 1 A.E.V.C. (10HQ) 87292325V03 Item 1 modified as per instructions of CROUZET Service Bulletin No. 87292325-21-001.
+In avionics compartment, zone 125, modification of blowing duct Refer to Figure 1 Sheet 1 of 2
+Remove : 1 Blowing Duct Item (2) (retained) with 2 sleeves Item (3) (retained) 
+Remove : 1 Blowing Duct Item (2) (retained) with 3 Clamps Item (4) (retained) 
+Remove : 1 Blowing Duct Item (2) (retained) with 1 Clamp Item (5) (retained) 
+Remove : 1 Blowing Duct Item (2) (retained) with 1 Clamp Item (6) (retained)
+Cut off :3 Rivets Item (8) (discard) 
+Remove : 1 diaphragm Item (7) (discard)
+(d) Trim the part of the rivet that protrudes.
+(e) Identify the modified items : D2191017900000 becomes 02191017900200
+
+InstaLL : 1 modified Slowing Duct D2191017900200 Item 2 with 2 SLeeves Item (3) (retained at removal.)
+InstaLL : 1 modified Slowing Duct D2191017900200 Item 2 with 8 CLamps Item (4) (retained at removal.)
+InstaLL : 1 modified Slowing Duct D2191017900200 Item 2 with 1 CLamp Item (5) (retained at removal.)
+InstaLL : 1 modified Slowing Duct D2191017900200 Item 2 with 1 CLamp Item (6) (retained at removal)
+(1) Remove the air-cycle machines 10HMl and 11HMl (Refer to AMM 21-52-21,  P. BLock 401). 
+(2) Remove and discard the pipe assy 778A2800-01 from the air conditioning  packs 1 and 2. 
+(3) Install the modified air-cycle machines 10HMl and llHM1 (Refer to AMM  21-52-21, P. Block 401). 
+(a) Get access to the sealing element. 
+Check with your hand that the sealing element is correctly installed. 
+Check that the two bellows retaining straps are correctly
+(4) Install the new pipe assy 778A2800-02 to the air conditioning  packs 1 and 2. 
+(5) Write the new part  conditioning packs  number 744AOOOO-08 on the-name plate of the air  as given in para. 3. D.
+In zones 127 and 128, between FR20 and FR24A, Drill 2 drainage holes in the Lower plate of the ADIRUs support.
+Remove the ADIRU 1FP3 and the diaphragm for access
+ Remove : 1 ADIRU3 1FP3 Item (1) (retained) (Ref. AMM 34-12-34, P. Block 401)
+Remove : 1 diaphragm Item (2) (retained)
+DriLL 2 holes in the Lower plate.
+(a) Mark and drill 2 holes 10 mm (0.39 in.) dia.
+(b) Clean the work area with Material No. 11-003 (Ref. CLM).
+(c) After the drilling, deburr the holes and renew the protective finish (Ref. AMM 51-23-11) with Materials No. 13-002, 16-001 and 16-002 (Ref. CML).
+Identify the modified items : D9241000620000 becomes D9241000620200, D9241000000000 becomes D9241000000100.
+Install the diaphragm and the ADIRU 1FP3
+Install : 1 diaphragm Item (2) (retained at removal) with the hardware retained at removal.
+Install : 1 ADIRU3 1FP3 Item (1) (retained at removal) (Ref. AMM 34-12-34, P. Block 401)
+In avionics compartment, aft of frame 20 on left side :
+Remove : 1 Flexible duct Item 0 (discard)
+Install the new flexible duct D2101001720100 Item 0 with the hardware retained at the removal.
+In zone 128,
+At the sheL-f 88VU of the eLectronics rack 80VU, replace the Avionics Equipment Ventilation Computer (A.E.V.C. ) 10HQ (Re-f. AMM 21-26-34, P. Block 401)
+ Remove : 1 A.E.V.C . (10HQ) Item (1 )
+Install : 1 modified A.E.V.C . (10HQ) 87292325V04 Item 1 (Ref. the instructions in CROUZET Service Bulletin No. 87292325-21-002).
+In zone 126, between STA579/FR11 and STA605/FR12 above the right lateral stringer.
+Install a box and a thermal insulation on the temperature sensor 28HQ.
+( a ) Unfasten temporarily the drain hose in the work area for access (only to release the tension of this hose but do not disconnect it) .
+( b ) Remove the insulation blanket in the work area for access.
+( c ) Remove the temperature sensor (28HQ) (Ref. AMM 21-26-13), P. Block 401).
+( d ) Position the half box D5391461900000 Item 4. At level of half box/rivet line interference, locate and remove 3 rivets Item 6 (discard) from fuselage.
+( e ) On half box Item 4, mask and drill two 9 mm (0.354 in. ) dia. holes ensuring the passage of rivet heads.
+( f ) On half box Item 4, drill 3 holes with a : minimum dia. of 4.05 mm (0.160 in. ) maximum dia. of 4.20 mm (0.16 5 in. ) to match existing holes on fuselage.
+After up half box Item 4. Position with respect to right lateral stringer STA 605/FR12 and existing flange.
+Drill 4 holes with a : minimum dia. of 4.05 mm (0.16 0 in. ) maximum dia. of 4.20 mm (0.16 5 in. ) in accordance with the half box Item 4.
+On Item 4 and on the fuselage, countersink and deburr (Ref . SRM 51-46-00).
+Apply the Material No. 09-016 (Ref . CML) between the surfaces and attach Item 4 with : 7 washers ASNA0113-40CA Item 5, 7 rivets ASNA2051DEJ4018 Item 6.
+After installation, seal off the two 9 mm (0.354 in. ) dia. holes with Material No. 09-025 (Ref . CML) .
+Install the temperature sensor (28HQ) (Ref. AMM 21-26-13, P. Block 401).
+ Lockwire with the lockwire MS20995C41.
+Install the compressed blanket : 1 blanket D2121121700000 Item 3
+On the half box Item 4, install : 1 half box D2121121600000 Item 2 with : 6 screws NAS1096-3-8 Item 8
+On the half box Item 4, install : 1 half box D2121121600000 Item 2 with : 6 washers ASN-A2397-10L Item 7
+ Identify, with red sleeves, the connector, 14HK-A, and the socket, 14HK-AA, of the TAPRV, 14HK, their Location is between FR34 and FR36.
+Disconnect from the socket, 14HK-AA, item 6: 1 connector, 14HK-A, item 5.
+( b ) Cut the red thermofit sleeve, NSA937211-008D, item 1, to a Length of 8 mm ±1 mm (0.31 in. ±0.04 in.) .
+Attach to the socket, 14HK-AA, item 6: 1 red thermofit sleeve, item 1.
+( d ) Heat shrink the red thermofit sleeve, item 1 .
+( e ) Remove and retain from the cable bundle, item 8: 1 connector 14HK-A, item 5, 1 backshell, item 7.
+< f) Attach to the cable bundle, item 8: 1 red sleeve, NSA937201MA1001, item 3, with 2 cable ties, NSA935401-03, item 9 .
+( g ) Install on the cable bundle, item 8: the retained backshell, item 7, the retained connector, 14HK-A, item 5 as shown on Lines 1, 2 and 3 of Figure 2.
+< h) Connect to the socket, 14HK-AA, item 6: 1 connector, 14HK-A, item 5.
+( 2) Identify, with blue sleeves, the connector, 14HK-C and the socket, 14HK-AC, of the TAPRV, 14HK.
+( a ) Disconnect from the socket, 14HK-AC, item 12: 1 connector, 14HK-C, item 11.
+(b) Cut the blue thermofit sleeve, NSA 937211-008H, item 2, to a Length of 8 mm ±1 mm (0.31 in. ±0.04 in.) .
+( c ) Attach to the socket, 14HK-AC, item 12: 1 blue thermofit sleeve, item 2.
+(d ) Heat shrink the blue thermofit sleeve, item 2.
+( 1 ) Install the tube assembly for the pressure port at FR35.
+( a ) Remove and retain the pressure port D2127412800000, item 1 .
+( b ) Install the new tube assembly D2127413500000, item 2, as shown.
+( c ) Install the retained pressure port, item 1, on the tube assembly, item 2, as shown.
+Remove the duct of the supply system in the flight compartment, zones 211, 212.
+In zone 211, on L side, remove : 1 duct Item (1 ) (discard) 1 duct Item (4) (discard) 1 sleeve Item (26) (discard) 4 clamps Item (24) (discard).
+In zone 211, on L side, remove : 1 clamp Item 25 (retain), 1 clamp Item 20 (retain), 1 clamp Item 22 (retain), 
+1 clamp Item (23) (discard)
+On the console 1VU, remove : 1 side panel assy Item (6 ) (discard) 1 -front web assy Item (8 ) (discard) 12 rivets Item (12 ) (discard) 3 screws Item 27 (retain) 3 washers Item 28 (retain).
+Install the new duct of the air conditioning system in the flight compartment and the adjustment system.
+Install the new duct of the air conditioning system in the flight compartment and the adjustment system, zones 211, 212.
+Install the material-panel assy.
+( 1 ) Do the Modification to the air conditioning packs 10HM and 11HM 744AOOOO-07 as given in the LIEBHERR ABG-SEMCA Service Bulletin No. 744A-21-04.
+( 2) Do the modification to the air cycle Machines 10HM1 and 11HM1 757AOOOO-07 as given in the LIEBHERR ABG-SEMCA Service Bulletin No. 757A-21-04 rev 1.
+Removal of demister filter assembly (2080HM) with its drain system
+Remove (Ref . AMM 21-2^-43, P. Block 401) : 1 demister filter assembly (2080HM) Item (13 )
+On rod Item 15 of demister filter assembly, remove : 1 placard identified 2080HM filter demister (View G) .
+In avionics compartment, in zone 127-128 at frame 21
+Installation of new demister filter assembly with its drain
+ On hoses Item 23 and Item 24, install : 1 round tube ASNA30951636 Item 2
+Attach with : 2 clamps Item 20
+ Perform protective finish on round tube Item 2 using Mat. No. 13-002, 16-002, 16-006 (Ref . CML) .
+Install (Ref . AMM 21-26-43, P. Block 401) : 1 demister filter 34800A200-2 Item 13 1 tube assembly SF0090 Item 14
+Installation of the new drain system on new demister filter assembly
+Respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 nm (0.130 in. ) max. in accordance with : 1 bracket assembly D5391542900000 Item 3.
+Clean drilled area.
+On web of stringer 39A, Ref. Fig. 2, Sheets 1 of 4 and 2 (Section D.D )
+Respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 mm (0.130 in. ) max. in accordance with : 1 bracket assembly D5391543000000 Item 4
+Clean drilled area.
+Apply Mat. No. 09-013 (Ref. CML) and secure bracket assembly Item 4 with : 2 rivets ASNA2050DCJ3212 Item 12
+Renew protective finish using Mat. No. 16-002, 16-006 (Ref. CML) . 
+3 On web of stringer 41, Ref. Fig. 2, Sheets 1 of 4 and 3 (Section E.E )
+Respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 mm (0.130 in. ) max . in accordance with : 1 bracket assembly D5391543000000 Item 4
+Clean drilled area.
+Apply Mat. No. 09-013 (Ref. CML) and secure bracket assembly Item 4 with : 2 rivets ASNA2050DCJ3212 Item 12
+Renew protective finish using Mat. No. 16-002, 16-006 (Ref. CHL). 
+4 On web of stringer 41A, Ref. Fig. 2, Sheets 1 of 4 and 3 (Section F.F )
+Respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 •• (0.130 in. ) max. in accordance with : 1 bracket assembly D5391543000100 Item
+Clean driLLed area.
+Apply Mat. No. 09-013 (Ref . CML) and secure bracket assembly Item 5 with : 2 rivets ASNA2050DCJ3212 Item 12
+Renew protective finish using Mat. No. 16-002, 16-006 (Re-f. CML) .
+5. On center line, Ref. Fig. 2, Sheets 1 of 4 and 4 At frame 23 (Section 6.6 )
+Respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 mm (0.130 in. ) max. in accordance with : 1 bracket assembly D5391543000100 Item 5
+On center line (Section H.H )
+Respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 mm (0.130 in. ) max. in accordance with : 1 bracket assembly D5391543200000 Item 7
+On web of center line between FR23 to FR24 (View I )
+Respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 mm
+(0.130 in. ) max. in accordance with : 1 bracket assembly D5391543100000 Item 6
+Clean drilled areas.
+Apply Mat. No. 09-013 (Ref. CML) and secure brackets assembly Item 5, Item 6 , Item 7 with : 2 rivets ASNA2050DCJ3212 Item 12
+Renew protective finish using Mat. No. 16-002, 16-006 (Ref. CML).
+6 On bracket assembly Item 3, Item 4, Item 5, Item 6 , Item 7
+Refer to Figure 2, Sheets 1 o-f 4, 2, 3, 4
+Install : 1 clamp NSA5515-17 Item 9 1 washer MS2397-10L Item 10 1 screw NAS1096-3-10 Item 11
+Attach : 1 hose D2121069821900 Item 1
+Connect the hose Item 1 with the tube assembly LE BOZEC ET 6AUTIER, Item 14. 
+Refer to Figure 2, Sheet 1 of 4, View J
+Attach with : 1 clamp ASNA0033036 Item 8
+( 1 ) Replace the outflow valve 10HL (Refer to AMM 21-31-51).
+(a) Remove the outflow valve 9023-15703-5 including the support plate from the aircraft structure.
+(b) Return the outflow valve 9023-15703-5 to the equipment supplier NORD Micro for the modification to the standard -4.
+( c ) Install the outflow valve 9023-15703-4.
+In the avionics coapartnent, zone 127, replace the blowing duct.
+From the outside, on the fuselage (Ret . AMM 21-26-52, P. Block 401) 1 skin air-inlet valve 15HQ Iten 5 (retain), 1 0-ring Iter (2) (discard)
+From the inside 1 denister air inlet 2080HM Item 6 (retain) (Ref. AMM 21-26-43, P. Block 401), 1 nut Iten 7 (retain), 2 couplings Item 8 (retain), 1 bulkhead connector Item 9 (retain), 4 screws Ite> 10 (retain), 1 plate Hen 11 (retain), 10 rivets Iter (3) (discard), 1 blowing duct Iten (1) (discard)
+ Put in position and attach with the screws Item 4 : 1 blowing duct assy D5391268600295 Her 1 (equipped with a check valve CT141)
+Drill to Match to a dia . of 3.2 m (0.1260 in.) .
+Attach Itea 1 and apply the sealant. Material No. 09-005 (Ref. CML) between the surfaces with : 10 rivets ASNA2051DCJ3210 Iten 3, 1 plate Iten 11 (retained at removal), 4 screws Ite« 10 (retained at removal), 1 bulkhead connector lien 9 (retained at renoval), 2 couplings Ite« 8 (retained at reioval), 1 nut I tea 7 (retained at reioval).
+Renew the protective finish with Materials No. 16-002 and 16-006 (Ref. CML) .
+On Item 1, near the equipment concerned, install : 1 placard identified 1301VP (View on E) .
+From the outside, on the fuselage 1 skin air-inlet valve 15HQ Item 5 (retained at removal), 1 0-ring NSA8205-171 Item 2 (Ref. AMM 21-26-52, P. Block 401.)
+Remove from the area between FR55 and FR56 : 4 screws item (4) (discard) , 4 washers item (3) (discard) , 2 washers item (9) (discard) .
+Remove from the tube, item 10: 1 clamp item 5 (retain) .
+( c) Remove from the brackets, item 6: 2 clamps item 5 (retain) .
+( d ) Remove the inlet funnel, item (1 ) (discard) .
+Remove from the support strut between FR56 and the floor structure:  3 screws item (4 ) (discard) ,  3 washers item (3 ) (discard) ,  1 bracket item (6) (discard) , as shown in detail C .
+Remove from the support strut between FR55 and the floor structure 3 screws item (4 ) (discard) , 3 washers item 3 (retain) , - 1 bracket item 6 (retain) , as shown in detail B .
+InstaLL on the support strut between FR55 and the floor structure: - 1 retained bracket, item 6 , - 1 bracket D2127349720000, item 7, - 3 retained washers, item 3, - 3 screws NAS1096-3-8, item 8, as shown in detail D .
+( 4 ) InstaLL the inLet funneL D212725370000, item 2, on the tube, item 10, with the retained cLamp, item 5 .
+( 5 ) InstaLL the inLet funneL, item 2, on the brackets, items 6 and 7, with the 2 retained cLamps, item 5 .
+In the forward cargo compartment, on the Left side, between the frames 27 to 29
+( 1 ) Remove the left lateral panel 131HW between the frames 27 to 30 (re-used)
+(2) Remove the basic air conditioning duct that is in the aircraft
+Remove : 9 clamps Item (2) (retain) 2 sleeves Item (3) (retain) 1 duct Item (1 ) (Ref. NOTE)
+Install the new silenced duct
+Install : 1 duct D2121097000000 Item 1 2 sleeves Item (3) (retained at removal) 9 clamps Item (2) (retained at removal)
+Install the left Lateral panel 131HW between the frames 27 to 30 (retained at removal).
+MAKE SURE THAT NO AIR IS SUPPLIED TO THE AIR CONDITIONING SYSTEM FROM THE MAIN ENGINE, THE APU OR GROUND SOURCE.
+^ from the cross-feed duct, item (1 ) remove the temperature sensor 16 HK and the overheat sensor 19HK and retain.
+2 Remove and do not re-use the cross-feed ducts, item (1) , (3) , ( 6 ) and (7) . Retain the connecting parts. 
+3 Disconnect and remove the distribution ducts, item (14) and
+(15) for modification on bench and modify in accordance with Para. F. (1 ) and (2) . Retain the connecting parts.
+4 Remove the fans, item (8) (Ref. AMM 21-21-51, P. Block 401) and ~ return to the vendor for modification.
+5 Install the modified fans VD3900-03, item 8 (Ref. AMM 21-21-51, P. Block 401). 
+6 Install the modified distribution ducts D2127100600900, item 14 and 02127100600800, item 15 with the retained connecting parts.
+7 Install the retained temperature sensor 16HK and the overheat sensor 19HK on the new cross-feed duct D2127100000800, item 1.
+ Install these new cross-feed ducts with the retained connecting parts:
+Do an operational test of the Cabin Recirculation Fans 14HG and 15HG (Ref. AMM 21-21-00, P. Block 501) and at the same time check the duct connections for air Leaks.
+1^ Make sure that the work area is clean and clear of tools and other items. 
+2 Install the partition panels 131NW, 131PW and 132PW of the aft partition wall in the FWD cargo compartment.
+3 Close the FWD cargo compartment door (Ref. AMM 52-30-00, P. Block 1) . 4 Install the floor panel 231YF (Ref. AMM 53-32-12, P. Block 401) and replace the passenger seats (Ref. AMM 25-21-41, P. Block 401).
+5^ Put the aircraft in pre-flight condition.
+1^ Remove the ceiling panel 251CC between FR51 and FR53 (Ref. AMM 25-23-41, P. Block 401).
+2 Disconnect the passenger seats between FR43 and FR60, LH and RH to get access to the Lower sidewalL panels and the outer row of floor panels (Ref. AMM 25-21-41, P. Block 401). 
+3 Remove the Lower sidewall panels between FR43 and FR60, LH and RH (Ref. AMM 25-23-44, P. Block 401). 
+4 Remove the outer row of floor panels, LH and RH between FR43 and FR60 (Ref. AMM 53-23-12, P. Block 401).
+1 Remove and do not re-use the restrictors, item (19) , (20), (21) , (22) and (23) between FR43 and FR60, LH and RH.
+Install these new restrictors with Silicon Compound, Mat. No. 08-004A as shown in Section A-A:
+3 Remove and retain the screws, item 62 and the washers, item 63. 
+4 Loosen and do not remove the clamps, item 65 and 66. 
+5_ Remove and do not re-use the tube, item (61) . 
+6 Remove and retain the clamps, item 64 from the tube. 
+7 Put the retained clamps, item 64 on the new tube D2127503000200, item 61. 
+8 Install the tube 02127503000200, item 61 and tighten the clamps, item 65 and item 66.
+9 Put the clamps, iten 65 and 66 in position and instaLl the retained screws, item 62 and washers, item 63 and tighten.
+( c ) Check the duct connections for air Leaks.
+\ Make sure that the work area is cLean and cLear of tooLs and other items. 
+2 InstaLL the outer row of fLoor paneLs, LH and RH (Ref. AMM 53-32-12, P. BLock 401). 
+3 InstaLL the Lower sidewaLL paneLs (Ref. AMM 25-23-44, P. BLock 401). 
+4 InstaLL the ceiLing paneL 251CC (Ref. AMM 25-23-41, P. BLock 401). 
+5 InstaLL the passenger seats (Ref. AMM 25-21-41, P. BLock 401). 
+6 Put the aircraft in pre-fLight condition
+1 Remove the Light cover paneLs 251CX (252CX) between FR63 and FR64. 
+2 Remove the upper sidewaLL paneLs 251BX (252BX) (Ref. AMM 25-23-43, P. BLock 401). 
+3 Disconnect the passenger seats between FR60 and FR64, LH and RH to get access to the Lower sidewaLL paneLs (Ref. AMM 25-21-31, P. BLock 401). 
+4 Remove the outer row of fLoor paneLs, LH and RH between FR60 and FR64 (Ref. AMM 53-32-12, P. BLock 401). 
+5 Remove the Lower sidewaLL paneLs, LH and RH between FR60 and FR64 (Ref. AMM 25-23-44, P. BLock 401).
+6 Remove the AFT Lavatory, LH and RH (Ref. AMM 25-43-43, P. BLock 401).
+
+1 Remove and do not re-use the LH outlet at FR64, item (47). 
+2 Install the new outlet D2127107901000, item 47. 
+3 Remove and do not re-use the RH outlet at FR64, item (48). 
+4 Install the new outlet D2127107901100, item 48.
+5_ Remove and do not re-use the caps, item (52) . 
+6 Install the new caps A2157031121200, item 52 with the existing clamps as shown in detail D.
+1_ Remove and do not re-use the restrictors, item (17) , (23) and (24) between FR60 and FR64, LH and RH. 
+8 Install these new restrictors with Silicon Compound, Mat. No. 08-004A as shown in Section A-A:
+9 Disconnect the ducts as shown in detail E and remove and do not re-use the restrictors, item (53) . 
+ Remove the exisiting restrictor D2127111320000, item 41 from the Lower riser duct at FR65 and replace the restrictor with Silicon Compound, Mat. No. 08-004A.
+ Re-connect the ducts.
+ Check the duct connections for air Leaks.
+\ Make sure that the work area is clean and clear of tools and other items. 
+2 Install the outer row of floor panels, LH and RH (Ref. AMM 53-32-12, P. Block 401).
+3 Install the light cover panels 251CX (252CX).
+4 Install the AFT lavatory, LH and RH (Ref. AMM 25-43-43, P. Block 401). 
+5 Install the upper sidewaLL panels 251BX (252BX) (Ref. AMM 25-23-43, P. Block 401). 
+6 Install the Lower sidewall panels (Ref. AMM 25-23-44, P. Block 401).
+1_ Install the passenger seats (Ref. AMM 25-21-41, P. Block 401). 
+8 Put the aircraft in pre-flight condition.
+\ Remove the Light cover panels from above the upper sidewall panels between FR34 and FR43. 
+2 Remove the upper sidewall. panels 231YW (232YW) and 241PW (242PW) between FR34 and FR43 (Ref. AMM 25-23-43, P. Block 401). 
+3 Disconnect the passenger seats between FR36 and FR43, LH and RH ~ and on the LH side to FR47 to get access to the lower sidewaLL panels and the outer floor panel row, LH and RH (Ref. AMM 25-21-41, P. BLock 401).
+ 4 Remove the Lower sidewaLL panels, between FR36 and FR43, LH and RH (Ref. AMM 25-23-44, P. BLock 401). ^ Remove the outer row of floor panels, LH and RH between FR35 and FR42 and on the LH side to FR47 (Ref. AMM 53-32-12, P. Block 401).
+\ Remove and do not re-use the LH outlet at FR36, item (45).
+ 2 InstaLL the new out Let D2127107600400, item 45.
+3 Remove and do not re-use the RH outlet at FR36, item (46) . 
+4 Install the new outlet D2127107600500, item 46.
+5 Remove and do not re-use the LH outlet at FR42, item (47).
+6 Install the new outlet D2127107901000, item 47.
+ Remove and do not re-use the RH outlet at FR42, item (48). 
+8 Install the new outlet D2127107901100, item 48.
+9 Remove and do not re-use the restrictors, item (17) , (18) and (20) between FR36 and FR43, LH and RH. W 
+Install these new restrictors with Silicon Compound, Mat . No. 08-004A as shown in Section A-A:
+11 Remove the duct, item (50) for modification on bench and modify in accordance with Para. F.(3) . 
+^2 Install the modified duct D2127101400000, item 50.
+Check the duct conne.ctions for air Leaks.
+\ Make sure that the work area is clean and clear of tools and other items. 
+2 Install the outer row of floor panels, LH and RH (Ref. AMM 53-32-12, P. Block 401) 
+3 Install the Lower sidewaLL panels (Ref. AMM 25-23-44, P. BLock 401).
+ 4 Install the upper sidewaLL panels (Ref. AMM 25-23-43, P. BLock 401).
+ 5 Install the Light cover panels above the removed upper sidewaLL panels. 
+6 InstaLL the passenger seats (Ref. AMM 25-21-41, P. BLock 401). 
+7 Put the aircraft in pre-fLight condition
+1^ Remove the ceiling panel between FR26 and FR28 (Ref. AMM 25-23-41, P. Block 401). 
+2 Disconnect the passenger seats between FR24 and FR28, RH (Ref. AMM 25-21-41, P. Block 401). 
+3 Remove the floor covering between FR24 and FR28, RH (Ref. AMM 25-28-41 or 25-28-42, P. Block 401).
+ 4 Remove the floor panels 232PF and 232MF (Ref. AMM 06-41-53, P. Block 1) . 
+5 Open the FWD cargo compartment door (Ref. AMM 52-30-00, P. Block 1) . 
+6 Remove the sidewall panels 131MW, 131HW, 131GW, 131PW, 131BW, 131DW, 132MW,. 132KW, 132JW, 132PW, 132BW and 132EW (Ref. AMM 06-41-53, P. Block 1) in the cargo compartment. 7 Remove the partition panels 131BW, 131DW, 132BW and 132EW (Ref. AMM 06-41-53, P. Block 1) . 
+8 Open the avionic compartment door 824 (Ref. AMM 06-41-53, P. Block 201). 
+9 De-pressurize the Yellow hydraulic system (Ref. AMM 29-10-00, P. Block 201). 
+ De-pressurize the hydraulic reservoir (Ref. AMM 29-14-00, P. Block 201).
+1_1^ Remove the FWD cargo compartment door actuators (Ref. AMM 52-36-18, P. Block 401).
+12 Remove the ceiling moulds underneath the door actuators.
+1 Remove and retain the clamps, item 74.
+2 Remove and do not re-use the hose, item (70).
+3 With abrasive paper, strip off the end of duct, item (72) over a Length of 15 mm (0.590 in. ) without removal of the duct. 
+4 Affix the new restrictor D2121113520000, item 73 with adhesive Mat. No. 08-001.
+ 5 Identify the modified duct to D2121090700100, item 72 (Ref. Para. 3.D.) . 
+6 Install the new hose D2101001722100, item 70 with the retained clamps, item 74.
+7 Disconnect and remove the distribution ducts, RH, item (112) , (113) , (114) and (115 ) for modification on bench and modify in accordance with Para.F.(4 ) thru (7) .
+Retain the connecting parts. 
+8 Disonnect and remove the distribution ducts, LH, item (116) , (117) , (118) , (119 ) and (120) for modification on bench and modify in accordance with Para.F.(8 ) thru (12) . 
+Retain the connecting parts. 
+9 Install the modified distribution ducts with the retained connecting parts:
+Remove the distribution ducts, item (121) and (122) for modification on bench and modify in accordance with Para.F.(13) and (14) . Retain the connecting parts. 
+1_[ From the avionic compartment, remove the distribution duct, item (123) for modification on bench and modify in accordance with Para.F.(15) . Retain the connecting parts.
+^ Install the modified distribution ducts with the retained connecting parts.
+Check the duct connections for air leaks
+1 Make sure that the work areas are clean and clear of tools and other items. 
+2 Install the ceiling panel between FR26 and FR28 (Ref. AMM 25-23-41, P. Block 401). 
+3 Install the floor panel 232PF and 232MF and the removed floor covering (Ref. AMM 25-28-41 or 25-28-42, P. Block 401). 
+4 Install the passenger seats between FR24 and FR28 (Ref. AMM 25-21-41, P. Block 401). 
+5 Install all removed sidewall and partition panels in the FUD cargo compartment. 
+6 Install the ceiling moulds underneath the FWD cargo compartment door actuator?.
+ 7 Install the FWD cargo compartment door actuators (Ref. AMM 52-36-18, P. Block 401).
+ 8 Close the FWD cargo compartment door (Ref. AMM 52-30-00, P. Block 1) .
+ 9 Close the avionic compartment door 824. 10 Put the aircraft in pre-flight condition.
+( a ) Drill out the rivets and remove and do not re-use the restrictor, item (2) .
+( b ) Seal the rivet holes with rivets MS20470AD3, item 16.
+( c ) Remove and do not re-use the restrictor, item (11) .
+( d ) Remove the remaining sealant from the installation area.
+( e ) Install the new restrictor D2127111322400, item 12 with Silicon Compound, Mat. No. 08-004A.
+( f ) Re-identify the duct. to D2127100600900, item 14.
+( a ) Drill out the rivets and remove and do not re-use the restrictor, item (5) .
+( b ) Seal the rivet holes with rivets MS20470AD3, item 16.
+( c ) Remove and do not re-use the restrictor, item (13) .
+( d ) Remove the remaining sealant from the installation area.
+( e ) Install the new restrictor D2127111322400, item 12 with Silicon compound. Hat. No. 08-004A.
+( f ) Re-identify the duct to D2127100600800, item 15
+( a ) Drill out the rivets and renove and do not re-use the restrictor, item (51) .
+( b) Seal the rivet holes with rivets MS20470AD3, item 16.
+( c ) Re-identify the duct to D2127101400000 item 50.
+( a ) DriLL out the rivets, item (111 ) and remove and do not re-use the restrictor, item (106) .
+( b ) Install the new restrictors D2121096420200, item 107 and D2121096420400, item 109 with rivets ASNA2051DCJ2410, item 111.
+( c ) Re-identify the duct to D2121030900500, item 112.
+( a ) Drill two holes with a dia. of 6 mm (0.236 in. ) in the restrictor, item (125) as shown in detail D and re-identify the restrictor to D2121096420100, item 106.
+( b ) Re-identify the duct to D2121031200600, item 113.
+( a ) Drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (106).
+( b ) Install the new restrictor D2121096420300, item 108 with rivets ASNA2051DCJ2410, item 111.
+( c ) Re-identify the duct to D2121031200500, item 114.
+( a ) Drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (107).
+( b) Install the new restrictor D2121096420100, item 106 with rivets ASNA2051DCJ2410, item 111.
+( c ) Re-identify the duct to D2121032400600, item 115.
+( a ) Drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (106) .
+( b ) Install the new restrictor D2121096420400, item 109 with rivets ASNA2051DCJ2410, item 111.
+( c ) Re-identify the duct to D2121032400700, item 116.
+( a ) Drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (107).
+( b ) Install the new restrictor D2121096420000, item 105 with rivets ASNA2051DCJ2410, item 111.
+( c ) Re-identify the duct to D2121030500300, item 117.
+( a ) If a restrictor D2121096420400, item (106) is installed, drill out rivets, item (111 ) and remove and do not re-use the restrictor.
+( b ) Install the new restrictor D2121096420300, item 108 with rivets ASNA2051DCJ2410, item 111.
+( c ) If a restrictor D2121096420200, item (107) is installed, drill two holes with a dia. of 6 mm (0.236 in. ) as shown in Detail E.
+( d ) Re-identify the modified restrictor to D2121096420300, item 108.
+( e ) Re-identify the duct to D2121030600400, item 118.
+( a ) Drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (108).
+( b ) Install the new restrictor D2121096420400, item 109 with rivets ASNA2051DCJ2410, item 111.
+( c ) Re-identify the duct to D2121030800300, item 119.
+( a ) DriLL two holes with a dia. of 6 mm (0.236 in. ) in the restrictor, item (107) as shown in detail E and re-identify the restrictor to D2121096420300, item 108.
+( b ) Re-identify the duct to D2121030600400, item 120.
+( a ) Drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (106) .
+( b ) Install the new restrictor D2121096420400, item 109 with rivets ASNA2051DCJ2410, item 111.
+( c ) Re-identify the duct to D2121061400500, item 121.
+( a ) Drill one hole with a dia. of 6 mm (0.236 in. ) in the restrictor, item (108) as shown in detail F and re-identify the restrictor to D2121107620100, item 110.
+( b ) Re-identify the duct to D2121020300400, item 122
+( a ) Enlarge the existing hole in the restrictor, item (124) to a dia. of 90 mm (3.543 in. ) as shown in detail G, debur and re-identify the restrictor to D2121087220400, item 124.
+( b ) Re-identify the duct to D2121067800200, item 123.
+Cl) Remove the pack controLLer 7HH and 27HH (Refer to AMM 21-61-34,  P. BLock 401). 
+(2) Do the modification to the pack controLLer as given in LIEBHERR ABC-SEMCA  Service BuLLetin 759-24-04. 
+(3) InstaLL the modified pack controLLer 7HH and 27HH (Refer to AMM 21-61-34,  P. Block 401).
+(1) Disconnect and remove the temperature zone controller 8HK 775AOOOO-05 from the rack in the avionics compartment (Refer to’AMM 21-63-34, P. Block 401). 
+(2) Do the modification to the temperature zone controller 775AOOOO-05 as given in the LIEBHERR ABG-SEMCA Service Bulletin 775A-21-02. 
+(3) Install and connect the temperature zone controller 8HK 775AOOOO-6 
+in the rack in the avionics compartment (Refer to AMM 21-63-34, P. Block 401).
+(1) Remove the cabin pressure controLLers (Ref. AMM 21-31-34,P . BLock 401). 
+(2) Do the modification to the cabin pressure controLLers (Ref. NORD-MICRO | ServiceBuLLetin 15702-21-003).
+(1) Remove the cabin pressure controLLers 11HL and 12HL (Ref. AMM 21-31-34, P . Block 401).
+(2) Do the modification to the cabin pressure controLLers (Ref. NORD-MICRO Service BuLLetin 15702-21-003).
+(3) InstaLL the cabin pressure controLLers (Ref. AMM 21-31-34, P. Block 401).
+(a) Disconnect the water hoses from the water injectors 20HM and 21HM, item 2 (Ref. AMM 21-61-51, P. Block 401 and 21-52-42, P. Block 401).
+( b ) Electrically disconnect the air inlet flap actuators 8HH and 28HH, item 1 (Ref. AMM 21-61-51, P. Block 401).
+(c) Remove the pack ram air inlets, item (3) and (4) (Ref. AMM 21- 61-51, P. Block 401) from the aircraft for modification on bench.
+( d ) Install the modified pack ram air inlet, LH D21571101008000, item
+3 and the pack ram air inlet, RH D21571100004000, item 4 (Ref. AMM 21-61-51, P. Block 401).
+(e) Electrically re-connect the air inlet flap actuators 8HH and 28HH, item 1 (Ref. AMM 21-61-51, P. Block 401).
+( f ) Re-connect the water hoses to the water injectors 20HM and 21HM,
+item 2 (Ref. AMM 21-61-51, P. Block 401 and 21-52-42, P. Block 401).
+(g) Check the adjustment of the ram air inlet flaps (Ref. AMM 21- 61-51, P. Block 401).
+( h ) Make sure that the work area is clean and clear of tools and other items.
+Removal and InstaLLation of the pack ram air inlets.
+Cl) Remove the.heating controllers, 1HC and 1OHC,  Part No. 600611~00-504 (Ref. AMM 21-43-34, P. Block 401) and  modify as per BAT Service Bulletin No. 600611-21-002. 
+(2) Install the modified controllers 1HC and 1OHC,  Part No. 600611-00-505 <Ref. AMM 21-43-34, P. Block 401).
+Inspection of the ram air inlet kinematic for play.
+( a) Inspect all connections of the ram air inlet kinematic for correct play.
+Replacement of the 0-ring on the trio air valve identified 2HC (EQ 5010HM), zone 131 (Ref. AMM 21-43-53, P. Block 401).
+( a ) Reaove the 0-ring between the trir air duct and the venturi.
+( b ) Install the new 0-ring NSA8206-225.
+Modify the equipment and wiring in relay box 103VU, zone 126.
+( a ) Open the relay box door.
+( b ) Remove from the mounting rail of terminal block 1156VT :
+( d ) Remove the wires shown on lines 14 thru 19 of Figure 2 and Line 4 of Figure 3.
+( e ) Modify the connection of wires shown on lines 1 thru 12 of Figure 2 and Lines 1 and 2 of Figure 3.
+( f ) Install the wires shown on lines 20 thru 25 of Figure 2 and Line 5 of Figure 3, D9000095007996, route them with wires that are in the aircraft.
+( g ) Cut the wires to the necessary Length, crimp the terminals and connect them.
+ Do a continuity test of the new wires.
+( j ) Clean the relay box and close the door.
+Remove the flow control valves 8HB and 1lHB (Ref. AMM 21-51-51,  P. Block 401).
+Install the modified flow control valves 8HB and 11HB  (Ref. AMM 21-51-51, P. Block 401).
+(I) Remove the trim-air check, valves 18HM and 19HM (Refer to  AMM 21-63-42, P. Block 401)
+Remove any unwanted or too much welding material by filing or grinding
+Install the trim-air check valves 18HM and 19HM (Refer to AMM 21-63-42, P. Block 4011
+Cl) Remove the outflow vaLve IOHL (Ref. AMM 21-31-51, P. Block 401). 
+(2) Do the modification of the outflow valve 10HL (Ref. Vendor Service  .Bulletin No. 15703-21-003). 
+(3) Ins&l the outflow valve IOHL iRef. AMM 21-31-51, P. Block 401).
+(a) Clean the work area with solvent, Methylethylketone CMEK)  Mat. No. 11-003. Removal of the ram air outlet assembly
+(a) Disconnect the electrical connector 9HH-A CLH assy) and/or 29HH-A  CRH assy). 
+Cb) Remove and retain bolts, items 1 and 7 and washers, item 8 of  the ram air outlet, item (3). 
+Cc) Loosen the clamp, item 5. 
+Cd) Disconnect the ram air outlet assy, item (3) from the rod, item 6.  Retain the fastening parts for Later re-installation. 
+Ce) Remove the ram air outlet assy, item (3) from the bellows, item 9  and retain the clamp, item 5.
+Modify the ram air outlet assembly on bench as described in  Para. 2.F.(4) and (6) thru (8).
+Modify the ram air outlet assembly on bench as described in  Para. 2.F.(4) thru (8).
+Installation of the equipped new or modified ram air outlet assembly.
+(a) Install the assembly with retained clamp, item 5, bolts, items 1  and 7 and washers, item 8 to the aircraft. 
+Cb) Put the clamp, item 5 in position and connect the assembly to the  bellows, item 9. 
+Cc) Connect the rod, item 6 at the assembly. 
+Cd) Connect the electrical connector 9HH-A CLH assy) and/or ZBHH-A  CRH assy). 
+Ce) Make sure that the work area is clean and clear of tools and  other items. Removal of the ram air outlet assembly
+(a) Disconnect the electrical connector 9HH-A CLH assy) and/or 29HH-A  CRH assy). 
+Cb) Remove and retain bolts, items 1 and 7 and washers, item 8 of  the ram air outlet, item (3). 
+Cc) Loosen the clamp, item 5. 
+Cd) Disconnect the ram air outlet assy, item (3) from the rod, item 6.  Retain the fastening parts for Later re-installation. 
+Ce) Remove the ram air outlet assy, item (3) from the bellows, item 9  and retain the clamp, item 5.
+(2) Modify the new ram air out  Para. 2. F.(2) and (3).
+(3) Modify the ram air outlet assembly on bench as described in  Para. 2.F.(4) and (6) thru (8).
+(4) Modify the ram air outlet assembly on bench as described in  Para. 2.F.(4) thru (8).
+Installation of the equipped new or modified ram air outlet assembly.
+(a) Install the assembly with retained clamp, item 5, bolts, items 1  and 7 and washers, item 8 to the aircraft. 
+Cb) Put the clamp, item 5 in position and connect the assembly to the  bellows, item 9. 
+Cc) Connect the rod, item 6 at the assembly. 
+Cd) Connect the electrical connector 9HH-A CLH assy) and/or ZBHH-A  CRH assy). 
+Ce) Make sure that the work area is clean and clear of tools and  other items.
+(a) Disconnect the bonding Lead, item IO from the electrical actuator. 
+Cb> Remove the electrical actuator 9HH or (29HH) in accordance with  the AMM 21-61-52, P. Block 401; retain the electrical actuator and  the fastening parts, item 11. 
+Cc> Do not re-use the LH or RH ram air outlet assembly, item (3).
+Disassembly of the old ram air outlet assembly.
+Equipping of the new ram air outlet assembly with the electrical  actuator
+(a) Install the retained actuator to the LH assy D2157109200000,  item 3 and/or to the RH assy D2157109000000, item 23  (Ref. AMM 21-61-52, P.BLock 401) but do not connect the lever at  this stage. 
+(b) Connect the bonding Lead, item 10 at the electrical actuator 9HH  (29HH). 
+Cc> Connect the Lever to the electrical actuator with the retained  fastening parts, item 16.
+Do the procedure as described in 2.F.C8).
+Disassembly of the ram air outlet
+(a) Disconnect the bonding lead, item 10 from the electrical actuator 9HH (29HH). 
+(b> Remove the electrical actuator 9HH (29HH) in accordance with the AMM 21-62-52, P. Block 401; retain the electrical actuator and the fastening parts, items 36 thru 38 for later re-installation. 
+Cc) Remove and discard the lever, item (35) with fastening parts, items 30 thru 34 and retain the fastening parts, items 30 and 31. 
+Cd) Remove the cover plates, items 46 and 49 and retain with fastening parts. 
+(e) Remove and discard the Lockwire, item (47). 
+(f) Remove the flap, item (40) with shafts, items 56 and 55 and  fastening parts, items 50, 30 and 31. Retain both shafts and fastening parts.
+(a) Remove and discard rivets, items (71) thru (75) and both flap guide plates, item (66). 
+Cb) Drill additional rivet holes and install new flap guide plates D2157103520800, item 66 with rivets, items 71 thru 78 and sealant Mat. No. 09-023. 
+<c> Bond the profiles D2157103020200, item 65 to the flap guides with bonding compound Mat. No. 08-010. 
+Cd) Renew the protective finish. 
+(e) Re-identify the flaps as per Para. 3.D.
+(a) Manufacture two parts each of items 61 and 62; shown on sheet 2. 
+Material and dimensions are given in the figure. 
+(b> Cut the flap guide channels on both sides (cut line 1). Dimensions are given on sheet 'l. 
+(c) Open both flap guide channels at the cut line 2 for later reworking of the inside of channels. 
+(d) Remove the protection finish at and near the later weld seams 1 thru 3 (inside and outside of the housing). 
+(e) Weld the items 61 and 62 first to the flap guide channels at the lines named weld seam I. 
+(f) Rework the weld seams 1 on the inside of the channels until the  surfaces are smooth.
+Weld in sequence the weld seam 2, then weld seam 3.
+Temporarily install the flap as described in Para. 2.F.C7) to  check the unlimited motion as follows:
+- Move the flap in and out and check the unlimited motion of the 
+flap thru the fully closed position ('mechanical stop'), refer 
+to figure 1, section A-A. 
+- Motion should be unrestricted and these should be no signs of  abrasion marks at the flap, otherwise the outlet chamber (weld  seam 3) has to be reworked. 
+Ci) Renew the protective finish. 
+Cj) Re-identify the outlet housing as p
+Reassembly of the ram air outlet
+(a> Install the new or modified flap D2157103000200, item 40 with retained shafts, items 55 and 56 and the retained fastening parts. 
+Cb) Torque tighten the bolts, item 50 to 0.6 m.daN (53.09 Lb.in.1. 
+Cc) Secure the bolts, item 50 with lockwire LN9224.1.4314.9-0.8, or AMS4026, item 47. 
+Cd) Install the electrical actuator 9HH (29HH) with retained fastening  parts, items 36 thru 38 and in accordance with the AMM 21-62-52,  P. Block 401. 
+Ce) Install the new lever D2157104600400, item 35 with bolt NSAl304-8,  item 34, nut NAS509-04, item 32 and lock washer NSA5355-4CA,  item 33 temporarily on the shaft, item 56. 
+Connect the lever, item (35) with the retained fastening parts and  bushes, items 36 thru 38, at the electrical actuator.
+(8) Check/adjustment of the ram air outlet flap 
+(a) Do the adjustment of the ram air outlet flap in accordance with the AMM 21-61-52, P. Block 501. 
+
+(a) Torque-tighten all fastening parts. 
+Cb) Identify the equipped ram air outlet assemblies as D2157100001600 (LH) and D2157108002000 CRH) (Ref. Para. 3.D.).
+( 1 ) Remove the pack controllers 7HH and 27HH, P/N 759AOOOO-08 from the electronics bay, rack 90VU (Refer to AMM 21-61-34, P. Block 401).
+( 2 ) Do the modification to the pack controller as given in LIEBHERR ABG-SEMCA Service Bulletin No. 759A-21-05.
+( 3) Install the modified pack controllers 7HH and 27HH, P/N 759AOOOO-09 in the electronics bay, rack 90VU (Refer to AMM 21-61-34, P. Block 401).
+( 4) Remove the pressure sensors 9HB and 10HB, P/N 768AOOOO-03 from the
+keel beam box in the area between FR37 and FR38 (Refer to AMM 21-51-11, P. Block 401).
+( 5 ) Change the pressure sensors as given in LIEBHERR ABG-SEMCA Service Bulletin No. 768A-21-01.
+( 6 ) Install the new pressure sensors 9HB and 10HB, P/N 9104A0003-01 in the keel beam box in the area between FR37 and FR38 (Refer to AMM 21-51-11, P. Block 401).
+(I) Remove the cabin pressure controllers 11HL and 12HL (Refer to AMM  21-31-34, P. Block 401). 
+(2) Do the modification of the cabin pressure controllers IIHL and  12HL as detailed in the NORD-MICRO Service Bulletin No.  15702-21-004. 
+(3) Install the cabin pressure controllers IIHL and 12H L(Refer to  AMM 21-31-34, P. Block 401).
+(1) Replace the pressure regulating valve 11HC.
+(a) Remove and send to stores the pressure regulating valve B17CA1041, and install the new pressure regulating valve B17CA1042 (Ret. AMM 21-43-52).
+Remove the Zone-controller 8HK, item 1. (Ref. AMM 21-63-34,  P. Block 401). 
+Cb) Do the modification to the Zone-controller 8HK, item 1, as given 
+in the LIEBHERR ABG-SEMCA Service-Bulletin No. 775A-21-04.  I AppLicabLe to DLH A/C onLY: 
+Cb) Do the modification to the Zone - controller 8HK, item 1, as given 
+in the LIEBHERR ABG-SEMCA Service Bulletin No. 7758-21-01.  Applicable to all A/C: 
+Cc) Change the part number of the Zone-controller 8HK, item 1, as given  in Para. 3.C. 
+Cd) Install the modified Zone-controller 8HK, item 1, (Ref. AMM 21-63-34,  P. Block 401).
+( a) Remove the outflow valve 10HL in accordance with the AMM 21-31-51, P. Block 401.
+( b) Blank the surface in for the bonding connection in accordance with AMM 20-28-00, P. Block 201 and to dimension as given in figure.
+( c) Install the outflow valve 10HL in accordance with the AMM 21-31-51, P. Block 401.
+ Gaining access.
+(2) Modification of air conditioning packs as per LIEBHERR ABG SEMCA Service Bulletin No. 744A-21-06.
+(a) Replacement of the air cycle machine P/N 757AOOOO-08 by the P/N 757AOOOO-09 (Refer to SB 757A-21-05).
+(b) Replacement of the anti-icing valve (AIV) P/N 748AOOOO-05 by the P/N 748AOOOO-08 and the related four pipe assemblies (sense lines)
+connected to AIV P/N 748AOOOO-05 by new pipe assemblies for the AIV P/N 748AOOOO-08 (Refer to SB 748A-21-02).
+(c) Replacement of the pipe assembly P/N 778A0200-02 or 778A0200-03 or 778A4100-01 by the new pipe assembly 778A0200-03 Amdt A having an improved strength (Refer to SIL/A320/043).
+(d) Deletion of the two gaskets Located between the main heat exchanger the primary heat exchanger and the plenum.
+( a ) For the replacement of the air cycle machine refer to AMM 21-52-21, P. Block 401 and Service Bulletin A320-21-1064.
+( b) For removal of the gaskets refer to AMM 21-52-25, P. Block 401 and AMM 21-52-26, P. Block 401.
+( c ) For the replacement of pipe assemblies refer to AMM 21-52-23, P. Block 401.
+( d ) For the replacement of anti-icing valve refer to AMM 21-61-41, P. Block 401 and Service Bulletin A320-21-1065.
+In cockpit, removal of VU panels for access
+In cockpit, removal and modification of consoles
+Modify console lOlVU, Item (1531), left side.
+Modify console 7OOVU, Item (1551), right side.
+Re-identify modified consoles lOlVU, Item (153) and 7OOVU,  Item (155).
+In cockpit, modification of the panels 2VU and 6VU
+In cockpit, modify geometry and routing of ventilation ducts.
+Apply Mat. No. 09-016 (Ref. CML) and install (Detail c I) :
+In accordance with the required dimensions, position and drill  to match existing holes on the structure.
+Removal/Installation of hydraulic pipe, L side (ONLY FOR  KIT AOZ).
+In accordance with the required dimensions, position and drill  to match existing holes on the structure.
+Apply Mat. No. 09-016 (Ref. CML) and install (Details K and Q,  after) :
+Install and cut to length
+Put in position Item 57 and drill to match existing holes.
+ Apply Mat. No. 09-016 (Ref. CML) and install (Detail L and  Section RR, after) :
+In accordance with the required dimensions, position and drill  to match existing holes on the structure
+In avionics compartment, modify geometry of ventilation ducts.
+In accordance to the required dimensions, position and drill to  match existing holes on the structure.
+Apply Mat. No. 09-016 (Ref. CML) and re-identify the following  component :
+Blank off the 6 attachment holes of the bracket Itek (52) and  1 attachment hole of the bracket Item 161 with :
+ In accordance with the required dimensions, position and drill  to match the existing holes on the structure.
+In avionics compartment, remove a duct for access.
+In avionics compartment, modify the two avionics ventilation ducts.  Refer to Figure 7, Sheet 1 of 2
+In cockpit, modify a ventilation duct.
+In cockpit, modify a ventilation duct.
+Re-identify the following component :
