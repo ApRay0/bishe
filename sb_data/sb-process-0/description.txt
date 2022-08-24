@@ -308,3 +308,44 @@ in the avionics compartment.
 (9) Modification of ventilation outlet 20VU. 
 (101 Modification of four avionics ventilation ducts. 
 (11) Hodification to wire routing.
+(1) Opening the FWD passenger/crew door. 
+(2) Opening of the AFT cargo compartment door. 
+(3) Removing of the passenger seats. 
+(4) Removing of the Lower sidewall panels. 
+(5) Removing of the floor covering 
+(6) Removing of the cabin floor panels. 
+(7) Removing of the cargo compartment sidewall panels. 
+(81 Removing of the air conditioning ducts for modification on bench. 
+(9) Installing of the air conditioning ducts. 
+(IO> Installing of the cargo compartment sidewall panels. 
+(II> Installing of the cabin floor panels. 
+(12) Installing of the floor covering. 
+(131 Installing of the Lower sidewall panels. 
+(141 Installing of the passenger seats. 
+(15) Closing of the AFT cargo compartment door. 
+(16) Closing of the FWD passenger/crew door.
+( 1 ) Change location of thé skin température sensor.
+(2) Drill one hole in thé skin air inlet valve.
+(1) Get access to the ram-air outlets, LH and RH. 
+(2) Remove the ram-air outlet flaps, LH and RH. 
+(3) Modify the ram-air outlet flaps, LH and RH. 
+(4) Install the ram-air outlet flaps, LH and RH 
+(5) Test the pack temperature control-system. 
+(6) Install the belly fairing-access panels.
+(1) Modify the routing of the vacuum cleaner between FR20 and FR21. 
+(21 Install a drip pan between FR23 and FR24 on the cabin ceiling. 
+(31 Provide a drain hole on the L furnishings harness conduit at the cabin floor.
+(1) Install modified FIN placards adjacent to the Outflow valves.
+(1) Remove the cabin pressure controllers IIHL and IZHL. 
+(2) Modify the pressure controllers as per NORD-MICRO Service Bulletin 15702-21-005. 
+(3) Install the modified cabin pressure controllers IIHL and 12HL.
+(a) Remove floor panels. 
+(b) Install brackets for electrical re-routing. 
+(c) Reroute the electrical wires and cable bundles. 
+(d> Install support brackets for the heating ducts. 
+(e) Install heat insulation mats. 
+(f) Install heating ducts. 
+(g) Install floor panels.
+Cl) Modify the wiring between zones 120 and 210. 
+(2) Modify the wiring between zones 210 and 223. 
+(3) Modify the circuit breaker panel 2000VU.

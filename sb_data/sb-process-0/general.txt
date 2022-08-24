@@ -200,7 +200,7 @@ Cl) ELectricaLLy ground the aircraft (Refer to AMM 12-34-24, P. Block 201).
 (4) Open, safety and tag the circuit breakers as given in AMM 21-63-34, P. Block 401. 
 (5) Put the access platform in position at the access door 811. 
 (6) Open the access door 811.
-(1) ELectricaLLy ground thé aircraft (Réf. AMM 12-34-24, P . BLock 201).
+(1) ELectricaLLy ground the aircraft (Réf. AMM 12-34-24, P . BLock 201).
 (1) ELectricaLLy ground the aircraft (Ref. AMM 12-34-24, P . Block 201).
 (a) Remove the access panels 191KB, 191BB, 192FB and 192KB (Ref. AMM 53-35-13, P. Block 401).
 ( b) Put a warning notice in the cockpit to tell persons not to operate the air cooling system (Ref. AMM 21-52-00, P. Block 501).
@@ -296,3 +296,85 @@ Cj) Remove panels 211AW, ZllBW, 21182, ZllCW, 211DW, 211EW, 211FW,  211GW, 211LC
 (e) To shorten the rivets as necessary. 
 (f) To apply sealant Mat. No. 09-016 (Ref. CML). 
 (g) To do electrical bonding using Mat. No. 04-012 and 07-001  (Ref. CML).
+Cb> Put the access platform in position. 
+Open the FWD passenger/crew door (Ref. AMM 52-10-00, P. Block 201). 
+cc> Open the AFT cargo compartment door (Ref. AMM 52-30-00, P. Block 201). 
+Cd> Open, safety and tag these circuit breakers:
+Remove and retain the passenger seats as necessary  (Ref. AMM 25-21-41, P. BLock 401). 
+Cf> Remove and retain the Lower sidewall panels (Ref. AMM 25-23-44,  P. Block 401). 
+(c.9 Remove and retain the floor covering (Ref. AMN 25-28-41,  P. Block 401). 
+(h) Remove and retain the cabin floor panels (Ref. AMM 25-32-12,  P. Block 4011. 
+Ci> Remove and retain the cargo compartment sidewall panels  (Ref. AMM 25-55-11, P. Btock 401).
+(a) Clean the area(s) with cleaning agent Mat. No. II-002 where you apply sealant or bond identification placards. 
+Cb) Tag all retained parts during the removal to make the installation  easier.
+(a) De-energize the aircraft electrical circuits (Refer to AMM 24-41-00, P. Block 201).
+(b) Electrically ground the aircraft (Refer to AMM 12-34-24, P. Block 201).
+(c) Open the passenger/crew door(s) 831 (Refer to AMM 52-11-00, P. Block 1).
+(d) Open the access doors 822 and 824 (Refer to AMM 52-40-00, P. Block 1).
+(e) Put the access platform(s) in position.
+(f) Open, safety and tag this (these) circuit breaker(s)
+(a) For the specification of the material numbers (Mat. No.), refer to the CML.
+(b) For rivet hole and drill data (Refer to SRM 51-44-00).
+(c) Clean the reworked area with Methyl-Ethyl-Ketone (Mat. No. 11-003).
+(d) After drilling, apply Wash Primer (Mat. No. 16-020),
+Polyurethane Primer (Mat. No. 16-001) and Polyurethane Topcoatgrey (For Internai Applic.) (Mat. No. 16-002) to the affected areas.
+(e) Shorten the solid rivets to the required length.
+( f ) Before installation of rivets and structural items, apply Polysulphide Sealant Dichromate Cured (Mat. No. 09-016) on ail mating surfaces (Refer to SRM 51-24-00).
+( g) Before installation of access provisions, make sure that the work area is clean and clear of tools and other items.
+( h) After disconnections, put blanking caps on the disconnected electrical connectors.
+( i) Before connections, remove the blanking caps and make sure that the electrical connectors are serviceable.
+(a) Make sure that the aircraft is electrically grounded (Refer to  AMM 12-34-24, P. Block 201). 
+Cb) Put the access platform in position. 
+Cc) Open the FWD passenger/crew door (Refer to AMM 52-10-00,  P. Block 201). 
+Cd) Open, safety and tag these circuit breakers for connector 9HH:
+Put a warning notice in the cockpit to tell the persons not  to operate the air cooling system. 
+Remove and retain the belly-fairing access panels 191KB, 192KB 195AB and 196AB (Refer to AMMO&41-53, P. Block I) and (Refer  to AMM 53-35-13, P. Block 401).
+Put blanking caps on open duct ends. 
+Ci) Put blanking caps on disconnected line ends. 
+Cj) For threaded insert installation modify the tool PERMA THREAD 1037-IF 10-32, item (I)
+(a) Refer to the CML for the specification of the material  numbers. 
+Cb) Clean the work area with cleaning agent, Mat. No. 11-016. 
+G-3 Do electrical bonding in accordance with the AMM 20-28-00,  P. Block 201. 
+Cd) Install screws with anti-corrosion compound, Mat. No. 05-002. 
+Ce) To torque threaded components refer to drawing D21571037000.
+(a) Detenergize the aircraft electrical circuits 
+(Refer to AMM 24-41-00, P. BLock 201) and electrically ground the aircraft (Refer to AMM 12-34-24, P. BLock 201). 
+lb) Put the access pLatforms in position at the access doors 824 and 841
+Cc) Open the forward passenger/crew door 841 (Refer to AMM 52-10-00, P. Block 201). 
+(d) Open the access door 822 (Refer to ARM 06-41-53). 
+(e) Open, safety and tag thiscthese). circuit breaker(s) :
+Cf) In the forward passenger compartment, remove the ceiling panel 231BC (Refer to AMM 25-23-41; P- Block 401). 
+(g) In the forward passenger compartment, remove the R door frame Linings 232AW and 232BW (Refer to AMM 25-23-45, P. Block 401).
+To torque the standard threaded fasteners  (Refer to AMM 20-21-11).
+To cLean the surfaces to be sealed with Mat. No. 11-003. 
+Cd) To renew the protective finish (Refer to AMM 51-23-00) with Mati No. 16-002 and No. 16-006. 
+(e) To driLL and deburr the holes (Refer to SRM 51-40-00). 
+(f) To shorten the rivets as required. 
+(g) It is recommended to tag the retained parts and note the . Location to help Later installation. 
+Electrically ground the aircraft <Ref. AMM 12-34-24, P. Block 341). 
+Put an access platform in position at the AFT cargo-compartment door. 
+Cc) Open the AFT cargo-compartment door <Ref. AMM 52-30-0O;P. Block 201). 
+(d) De-energite the aircraft eLectricaL circuits (Ref. AMY 24-41-00, P. Block 201).
+1 CLean the areas with the cleaning agent (Mat. No. ll-003A) where you must instaLl the pLacards. 
+2 Bond the pLacard to the aircraft structure with the adhesive (Mat. No. 08-051). 
+3 Seal the pLacard with the varnish (Mat. No. 16,-021A)
+(a) Electrically ground the aircraft (Refer to AMM 12-34-24, P. Block 201). 
+(b) Put the access-platforms in position. 
+(c) Open the passenger/crew door (841) (Refer to AMM 52-10-00, P. Block 201). 
+(d) Open the forward avionics compartment door 811 (Refer to AMM 06-41-53, P. Block 001). 
+(e) Open, safety and tag the applicable circuit breakers (Refer to AMM 21-31-34, P. Block 401)-
+Electrically ground the aircraft (Ref.AMM 12-34-24, P. Block 201). 
+Put the access platforms in position at the AFT and Bulk cargo compartment doors, 
+Open the AFT cargo compartment door (Ref. AMM 52-32-00, P. Block 201) 
+Open the Bulk cargo compartment door (Ref. AMM 52-33-00, P. Block 20113 
+In the AFT cargo compartment, remove and retain the left sidewall panels between FR48 and FR55 (Ref. AMM 25-55-11, P. Block 401) 
+Between FR47 and FR50, remove and retain the access panel 19788 (Ref. AMM 53-35-13, P. Block 401). 
+Open, safety and tag these circuit breakers :
+1 Make marks for the holes with a soft-Lead pencil and do a check of the edge clearances before you drill the holes. 
+2 Transfer-drill the existing holes with a pilot drill and drill bush. 
+3 For the correct fastener hole diameters, refer to the SRM 51-44-11. 
+4 Deburr the holes after you have drilled them.
+5 Clean the work area with cleaning agent (Mat. No. 11-004). 
+6 Cut the rivets to the correct Length as necessary. 
+1 Apply polyurethane primer (Mat. No. 16-001) and polyurethane top coat (Mat. No. 16-002) after you have installed the rivets,
+For electrical bonding of installed brackets, refer to the AMM 20-28-00, P. Block 201.

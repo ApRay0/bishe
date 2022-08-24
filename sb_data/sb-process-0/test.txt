@@ -94,3 +94,34 @@ Remove the safety clips and tags and close these circuit breakers:
 ( 1 ) Do the preparation for test in accordance with the relevant AMM Chapter.
 (2) Do the operational test of the pack temperature control system (Ref. AMM 21-61-00, P. Block 501).
 (3) Do the test in accordance with the AMM 21-52-21, P. Block 401.
+Do an operational test of the flow control and indicating system as given in AMM 21-51-00, P. Block 501.
+Do an operational test of thé ventilation System of thé avionics equipment (Refer to AMM 21-26-00, P. Block 501) . 
+As an alternative procédure, you can do this operational test wihout thé CFDS (Refer to AMM 21-26-13, P . Block 501).
+Cl) Remove the safety clips and tags and close the circuit breakers  IHH, 2HH, 3HH, 4HH, 21HH, 22HH, 23HH and 24HH. 
+(2) Energize the aircraft electrical circuits (Refer to AMM 24-41-00,  P. Block 201). 
+(3) Do the operational test of the pack temperature control-system  (Refer to AMM 21-61-00, P. Block 501).
+(1) Energize the aircraft electrical circuits (Refer to AMM 24-41-00, P. Block 201). 
+(2) Remove the safety clips and tags and close the circuit breakers mentioned in Para. 2,A.(l)(e). 
+(3) Test of the opening/closing of the right aft cabin door and the right aft emergency exit. 
+(a) Do the EIS start procedure (Refer to AMM 31-60-00, P. Block 201). 
+(b) On the ECAM control panel, push the DOOR key (On the lower ECAM DU the DOOR/OXY page comes into view). 
+(c) Open and close the right aft cabin door and the right aft emergency exit. 
+(d) On the DOOR/OXY page, make sure that : the door open and closed indications are correct, the escape slide arming indications are correct. 
+(e) Do the EIS stop procedure (Refer to AMM 31-60-00, P. Block 201). 
+(4) Do the following test only for the right doors : operational test of the warning system related to the emergency exits (Refer to AMM 52-73-00, P. Block 501). 
+(5) Do the BITE test of the CIDS (Refer to AMM 23-73-00, P. Block 501). 
+(6) Do the prerecorded announcement operation of the Prerecorded Announcement and boarding Music (PRAM) Reproducer (Refer to AMM 23-32-00, P. Block 501). 
+(7) Do the test of the passenger entertainment (Music) (Refer to AMM 23-33-00, P. Block 5011.
+(8) Do the BITE test of the CIDS (Refer to AMM 23-73-00, P. Block 501). 
+(9) Do the operationel test of the waste water ice-protection (Refer to AMM 30-71-00, P. Block 501). 
+(IO) Do the BITE test of the potable water ice-protection (Refer to AMM 30-73-00, P. Block 501). 
+(II) Do the operationel test of manual mask release (Refer to AMM 35-23-00, P. Block 501). 
+(12) Do the operationel test of emergency lights'by TEST EMER LIGHT SYS pushbutton (Refer to AMM 33-51-00, P. Block 501). 
+(13) Do the operationel test of the general illumination (Refer to AMM 33-21-00, P. Block 501). 
+(14) Do the operationel test of the FWD and AFT cargo compartment lighting (Refer to AMM 33-34-00, P.'Block 501). 
+(15) Do the operationel test of the passenger reading light-system (Refer to ANN 33-25-00, P. Block 501). 
+(16) Do the operationel test of the cabin attendant work-light (Refer to AMM 33-27-00, P. Block 501).
+(1) Remove the safety clips and the tags and close the circuit breakers you opened in Para. 2-A.(l)(e). 
+(2) Do an operational test of the pressure control and monitoring system (Refer to AMM 21-31-00, P. Block 501).
+(I) Close all of the circuit breakers Listed in Para. Z.A.Cl).(h). 
+(2) Do the operational test of the AFT cargo compartment heating system (Ref. AMM 21-43-00, P, Block 501).

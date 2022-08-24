@@ -631,3 +631,171 @@ In accordance with operators experience.
 5) Interchangeability/MixabiLity 
 Interchangeability (See Para. 
 Mixability not applicable.
+
+Cl> History 
+One operator has experienced water accumulation in the air conditioning distribution system on several aircraft operating in hot and humid 
+condition. 
+(2) Objective/Action 
+This Service Bulletin introduces drain holes in the mid and aft cabin 
+distribution ducts and a drain hose between frames 50 and 51 RH. 
+(3) Advantages 
+This modification avoids the water accumulation in the distribution 
+ducts under hot and humid conditions and prevents the possibility of 
+water dripping onto passengers and aircraft equipment. 
+(41 Accomplishment Timescale 
+This optional Service Bulletin can be accomplished at the convenience 
+of the operator.
+( 1 ) History
+Operators hâve reported cases o£ skin air inlet valve opening
+during icing conditions. Thé conséquence of this can be ice
+build—up in thé valve which subsequently cannot close. This
+causes an AVNCS SYS ECAM fault waming and in some cases a
+delay.
+On ground, thé skin air valve position is associated with thé
+skin température read by thé skin température sensor.
+Some tests perfonned on aircraft revealed that when thé System is in closed configuration, thé air going through thé skinheat exchanger increases thé température of thé skin and
+affects thé skin température sensor reading with conséquent
+System re-opening.
+( 2 ) Objective/Action In order to avoid spurious System openings, this Service
+Bulletin recommends to relocate thé skin température sensor
+from trames 11/12 to frames 9/10 and to perform a hole in thé
+lower part of thé skin air inlet valve to avoid water
+accumulation which could result in ice build-up during icing
+conditions.
+( 3 ) Advantages
+Accomplishment of this Service Bulletin enables thé
+measurement of thé real outer température even in icing
+conditions, avoids unwanted System openings and AVNCS SYS ECAM
+fault warnings, and consequently provides more regularity.
+( 4 ) Opérâtional/Maintenance Conséquences
+None
+( 5 ) Accomplishment Timescale
+Accomplishment at thé earliest opportunity where manpower and
+facilities are available.
+
+(I) 
+I 
+(2) 
+(3) 
+(4) 
+(5) 
+History 
+During a routine check of the pack-outlet door area, some operators 
+have found that some of the outlet door attachment bolts were 
+loose. 
+Objective/Action 
+This Service Bulletin introduces the modification of the ram-air 
+outlet flap with threaded inserts to avoid Loosening of the bolts, 
+and also the installation of a new improved lever. 
+Advantages 
+The accomplishment of this Service Bulletin will ensure correct 
+operation of the ram-air outlet components. 
+Operational/Maintenance Consequences 
+None 
+Accomplishment Timescale 
+In accordance with the operators maintenance planning.
+
+(1) History 
+Operators have reported electrical connector damage in the forward 
+galley area due to water condensation ingress between FR21 and 
+FR24. 
+(2) Objective/Action 
+To overcome this phenomenon this Service Bulletin proposes : 
+- at ceiling; FR24, installation of a water protection shield 
+between the insulation blanket and the connectors and 
+modification of wire installation at connector backshell to 
+provide a-drip loop, 
+- at R passenger/crew door 1, FR21, modification of the wire 
+attachment to provide a drip loop by adding a bracket. 
+(3) Advantages 
+Protection of electrical connectors from water ingress will permit 
+efficient functioning of the concerned systems.
+(4) Operational/Maintenance Consequences 
+None. 
+(5) Accomplishment Timescale 
+It is recommended to accomplish this Service Bulletin at the 
+earliest opportunity where manpower and facilities are available
+
+(1) History 
+It has been found that the identification Labels fixed on the structure 
+adjacent to the outflow valve was incorrect and Led in some cases to 
+inappropriate maintenance actions. 
+(2) Objective/Action 
+This Service BuLletin introduces modified labels with a correct 
+identification of both eLectronic boxes which are instaLLed on 
+the outflow valve. 
+(3) Advantages 
+The accompLishment of this Service Bulletin wit.1 make sure that the 
+correct eLectronics box is removed. 
+(4) Operational/Plaintenance Consequences 
+None 
+(5) Accomplishment Timescale 
+In accordance with the operator’s maintenance planning.
+(I) History 
+This Service Bulletin is published to advise operators of the 
+issue of the NORD-MICRO Service Bulletin No. 15702-21-005. 
+(2) Objective/Action 
+This Service Bulletin describes the procedure to modify the 
+Pressure Controller, from P/N 9022-15702-8 to the P/N 
+9022-15702-9, and introduce the following Software and Hardware 
+changes: 
+Software Changes: 
+- Increased confirmation time (from 4 sec. to 8 sec.) for the 
+"High Cabin Rate Test" to avoid system failures during in-flight 
+leak checks. This test is prevented .for 30 sec. after system 
+transfer to give the CPC more time to recover an abnormal 
+situation after taking over control. 
+- Improved EIU test logic to avoid spurious class 3 failure 
+messages during touch down due to flickering LGCIU signals (the 
+signals will be filtered by the CPC .for 4 set,1. 
+- Improved Outflow Valve control algorithm for more robustness 
+against distlirbances Like pack switching, take off bumps and 
+, pressure bumps in general. 
+- Improved passenger comfort during take-off by reducing the 
+scheduled cabin rate in take-off mode from 600 sea level feet 
+per minute (slfpm) to 400 slfpm. 
+- Improved software logics which generate the "EX CAB ALT" warning 
+and the "pax sign" to prevent them indicating during high 
+airfield operation. 
+Hardware Change: 
+- Introduction of a pull-up resistor to avoid
+This Service Bulletin also modifies the Pressure Controller to 
+include the neccessary software changes for the External Mode. 
+This feature optimizes the cabin pressure during climb and decent 
+by using time and flight altitude information from the Flight 
+Management System (FMS).
+(I) 
+(2) 
+(3) 
+(4) 
+(5) 
+History 
+One operator has reported livestock, uhich was being transported 
+in the AFT cargo compartment, becoming distressed due to low 
+temperatures in the compartment. 
+Objective/Action 
+This Service Bulletin describes the work to be done to install 
+additional heating ducts and outlets under the floor of the AFT 
+and bulk cargo compartments. 
+Advantages 
+Accomplishment of this Service Bulletin will improve the 
+temperature in the AFT and bulk cargo compartments for the 
+transportation of livestock 
+Operational/Maintenance Consequences 
+None 
+Accomplishment Timescale 
+in accordance with the operator's maintenance planning
+
+Cl) History 
+In-service experience has shown that when an additional heating system 
+is installed it can be accidently left switched on. 
+(2) Objective/Action 
+This Service Bulletin introduces an improved logic control for the 
+additional heating system. 
+(3) Advantages 
+The improved Logic control will aLLow the. Re-circulation Fans to 
+automatically switch-off the heaters when no airflow is available. 
+(41 Operational/Maintenance Consequences 
+None 
+(5) Accomplishment Timescale 
+In accordance with the operator’s maintenance planning.

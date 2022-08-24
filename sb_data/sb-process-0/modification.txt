@@ -1004,7 +1004,7 @@ Check the duct connections for air leaks
 Cl) Remove the pack controLLer 7HH and 27HH (Refer to AMM 21-61-34,  P. BLock 401). 
 (2) Do the modification to the pack controLLer as given in LIEBHERR ABC-SEMCA  Service BuLLetin 759-24-04. 
 (3) InstaLL the modified pack controLLer 7HH and 27HH (Refer to AMM 21-61-34,  P. Block 401).
-(1) Disconnect and remove the temperature zone controller 8HK 775AOOOO-05 from the rack in the avionics compartment (Refer to’AMM 21-63-34, P. Block 401). 
+(1) Disconnect and remove the temperature zone controller 8HK 775AOOOO-05 from the rack in the avionics compartment (Refer to'AMM 21-63-34, P. Block 401). 
 (2) Do the modification to the temperature zone controller 775AOOOO-05 as given in the LIEBHERR ABG-SEMCA Service Bulletin 775A-21-02. 
 (3) Install and connect the temperature zone controller 8HK 775AOOOO-6 
 in the rack in the avionics compartment (Refer to AMM 21-63-34, P. Block 401).
@@ -1183,3 +1183,254 @@ In avionics compartment, modify the two avionics ventilation ducts.  Refer to Fi
 In cockpit, modify a ventilation duct.
 In cockpit, modify a ventilation duct.
 Re-identify the following component :
+Transfer the dimensions to the duct insulation, item 5 and 12, of the duct assys,item (2) and (3) as shown in detail E and section C-C.
+2 Mark the existing duct assy position for easy and correct reinstallation. 
+3 Remove and retain the clamps from the duct assys to be removed. 
+4 Move the flexible sleeves on the duct assys to disengage the duct assys, item (I), (21, (3) and (4). 
+5 Remove the duct assys, item Cl), (21, (3) and (4) for modification on bench. good condition. Replace, if necessary. 
+2 Put these duct assys in the installation position as shown in detail A
+3 Move the flexible sleeves to engage the duct assys, item 1, 2,  3 and 4 and install the retained clamps. 
+4 Do not tighten the clamps at this stage. 
+5 Make sure that the duct assys, item 1, 2, 3 and 4 are correctly aligned, than tighten the clamps to the torque value which is indicated on the clamp.
+(a) Transfer dimension for fastening holes as shown in section B-B. 
+(b) At FR 50 drill and deburr fastening holes 5.2mm (0.205in.1 dia.to dimensions as given in section B-B. 
+(c) Apply primer (Mat. No. 16-006) and top coat (Mat. No. 16-002) to the fastening holes. 
+(d) Install the drainage tube NSA3629-12-17, item 7, with the clamp ASNA0032-022, item 6, to the nipple D2127115920000, item 10. 
+(e) Install the drainage tube, item 7, with mounts NSA935513-05, 
+item 8, and ties NSA935401-03, item 9, to the fastening holes at FR50 as shown in section B-B. 
+(f> Put the end of the drainage tube under the insulation mat as shown in section B-B.
+ Remove the duct insulation, item 5, from the duct, item 2, as necessary for modification. 
+(b) Install the nipple D2127115920000, item 10, with adhesive Mat. No. 08-OIOA onto the duct,' item (2) to dimension as shown in section A-A. 
+Remove thé skin température sensor 28HQ (Refer to AMM 21-26-13, P. Block 401). 
+Do not remove thé lower half-box and thé flange ; retain ail other parts.
+Replace thé wires
+Remove thé wires shown on lines 1 thru 3 (Refer to Figure 5) . 
+2. Install thé wires shown on lines 6 thru 8 (Refer to Figure 5) , supplied in :
+Cut thé wires to thé necessary length, crimp thé terminais and connect them. 
+Attach thé wires with
+ Do a continuity test of thé new wires.
+(c) Put Adhesive Tape KB6 on thé hole in thé insulation blanket.
+(d) Drill one hole in thé panel between frames 9 and 10 (Refer to Figure 1) .
+( e ) Install thé lower half-box and thé flange
+2. Put thé half-box in position. 
+3. Matchdrill thé rivet holes and deburr.
+8, Fill thé three holes without rivets on thé half-box with Polysulphide Sealant Dichromate Cured (Mat. No. 09-016).
+(f) Cut-out thé insulation blanket as necessary to enable thé passage of thé sensor and apply Adhesive Tape KB6.
+(g) Install thé skin température sensor 28HQ (Refer to AMM 21-26-13, P. Block 401).
+Use thé parts that you retained at Para. 2.B.(1)(a).
+(h) Close to 28HQ, on thé insulation blanket, bond thé placard supplied in :
+Drill one hole in thé air inlet valve
+Drill one hole in thé duct and in thé collar as shown on view C (Refer to Figure 4).
+(c) Re-identify thé duct assy Item 7 :
+1 Remove the ram-air outlet (Refer to AMM 21-61-52, P. Block 401). 
+2 Remove the ram-air outlet flap (Refer to AMM 21-61-52, P. Block 401). Refer to drawing D21571037002, sheet 3. 
+3 Install the 4 inserts MS21209Fl-20, item 32 with sealant Mat. No. 09-013. 
+4 Re-identify the ram-air outlet flap in accordance with para. 3-D. of this Service Bulletin. 
+5 Install the ram-air outlet flap (Refer to AMM 21-61-52,  P. Block 401) and adjust the ram air outlet flap (Refer to  AMM 29-22-00, P. Block 501) with the new lever  D2157104600400, item 0 as shown in drawing D21571037000,  sheet 1 and 2.
+Install the ram-air outlet (Refer to AMM 21-61-52, P. Block 401).
+(a) Remove the components which prevent the removal of the insulation blanket, 
+(b) Remove the insulation blanket between FR20 and FR21 (Refer to AMM 25-80-00, P. Block 201).
+Apply sealant Mat. No. 09-018 between the brackets Item 1 and the stop 1.
+(e) Cut out the insulation blanket for the passage of the new bracket and apply the adhesive material KB6 on the cut section, 
+(f) Install the insulation blanket between FRPO and FR21 (Refer to AHH 25-80-00, P, Block 201). 
+(g) Install the components removed for the removal of the insulation blanket.
+(h) Cut the cable tie Item (IO). 
+(i) Put in position the routing and the two electrical bondings and attach with :
+Install a drip pan between FR23 and FR24 on the cabin ceiling.
+Disconnect and remove from the plate assy Item (3) :
+Install and connect on the new plate assy Item 3 :
+Install and connect on the new plate assy'Item 3 :
+InstaLl modif ied FIN placards adjacent to the OutfLow valves. 
+Ca) Remove and discard this item:
+(I) 
+(2) 
+(3) 
+Remove the two cabin pressure controllers (IIHL and 12HL), 9022-15702-8, (Refer to AMM 21-31-34, P. Block 401). 
+Modify the pressure controllers as detailed in the NORD-MICRO Service Bulletin No. 15702-21-005. 
+Install the'modified cabin pressure controllers (IIHL and 12HL), P/N 9022-15702-9, (Refer to AMM 21-31-34, P. Block 401). 
+(a) Remove and retain the screws which attach the floor panels, items (16C0, (1611, (1621, (1631, (164), (1651, (1661, (1671, (155) and (1561, to the aircraft structure. 
+(b) Remove and discard the floor paneIs, items (1601, (1611, (1621, (1631, (1641, (1651, (1661, (1671, (155) and (156).
+Remove the floor paneLs in the AFT and Bulk cargo compartments.
+Remove and modify the ball mats in the AFT cargo compartment door area.
+Remove the ball mats items (1701, (171) and (1721, (Ref.  AMM 25-52-22, P. Block 401).
+Remove and discard the heat insulation from the underside of the ball mats, items (1701, (171) and (172).
+Remove and modify the ball mats in the AFT cargo compartment door area.
+1 Disconnect the wires from the ground points 6829VN/B2, 6830VN/AC2 and 6831VN/DC2 on the bracket, item (3) : a Remove and discard the three screws, item (141, washers, item (151, and nuts, item (161, as shown in Figure 2, Sheet 2, Detail B 'BEFORE'. 
+2 Remove and discard the bracket, item (31, as shown in Figure 2, Sheet 2, Detail B 'BEFORE'. 
+3 Put the new bracket D9249177020400, item 3, in position, as shown in Figure 2, Sheet 2, Detail C. 
+4 Transfer-drill the holes for the 6 rivets, item 4, from the bracket, item 3, through the frame, 
+5 Attach the bracket, item 3, to the frame, with six rivets, item 4, as shown in Figure 2, Sheet 2, Detail B 'AFTER'. 
+6 Attach the placards '6829VN/B2, 6830VN/AC2 and 6831VN/DC2' which are part of the placard set D9289189920000, item 40, to the bracket, item 3. 
+1 Connect the wires to the ground points 6829VN, 6830VN and 6831VN as marked on the wires, with :
+1 Disconnect the wires from the ground points 6823VN/DC2, 
+6824VN/AC2 and 6825VN/B2 on the bracket, item (3) : 
+a Remove and discard the three screws, item (141, washers, item (151, and nuts, item (161, as shown in Figure 2, Sheet 3, Detail D 'BEFORE'. 
+2 Remove and discard the bracket, item (31, as shown in Figure 2, Sheet 3, Detail D 'BEFORE'. 
+3 Put the new bracket D9249177020400, item 3, in position, as shown in Figure 2, Sheet 3, Detail E. 
+& Transfer-drill the holes for the 6 rivets, item 4, from the bracket, item 3, through the frame. 
+5 Attach the bracket, item 3, to the frame, with six rivets, item 4, as shown in Figure 2, Sheet 3, Detail D 'AFTER'. 
+Attach the placards '6823VNlDC2, 6824VN/AC2 and 6825VN/B2 which are part of the placard set D9289189920000, item 40, to the bracket, item 3. 
+1 Connect the wires to the ground points 6823VN/DC2, 6824VN/AC2 and 6825VN/B2 on the bracket, item 3, as marked on the wires, with :
+1 Disconnect the wires from the ground points 7123VN/B2 and 
+7118VN/AC2 on the bracket, item 300 : 
+a Remove and discard the two screws, item (141, washers, item (15) and nuts, item (161, as shown in Figure 2, Sheet 4, Detail F 'BEFORE'. 
+2 Disconnect the electrical connector 7585VC-A from the electrical receptacle 7585VC.
+3 Remove the electrical receptacle 7585VC from the bracket, item (6). 
+Remove and retain the two screws, item 17, washers, item 18, and nuts, item 19, as shown in Figure 2, Sheet 4, Detail F 'BEFORE'. 
+Remove and discard the cable ties, item (281, which attach the wires from the brackets, item 20, 
+5 Remove and retain these items :
+Remove and discard the brackets, items (5) and (61, as shown in Figure 2, Sheet 4; Detail F 'BEFORE'.
+Remove and retain the bracket, item 300, as shown in Figure 2, Sheet 4, Detail F 'BEFORE'.
+Put the new bracket D9249172721000, item 7, in position, as shown in Figure 2, Sheet 4, Detail G, 
+10 Transfer-drill the hoLes for the 6 rivets, item 4, from the bracket, item 7, through the frame. 
+11 Attach the bracket, item 7, to the frame, with six rivets, item 4, as shown in Figure 2, Sheet 4, Detail F 'AFTER'. 
+12 Attach the placards '7123VN/B2 and 7118VN/AC2' which are part of the placard set D9289189920000, item 40, to the  bracket, item 7.
+Connect the wires from the ground points 7123VN/B2 and 7118VN/AC2 on the bracket, item 7, as marked on the  wires, with :
+Attach the electrical receptacle 7585VC to the bracket, item 7 with these retained items :
+Attach the wires to the brackets, item 20, with three cable ties NSA935401-03, item 28, as shown in Figure 2, Sheet 4, Detail F 'AFTER'.
+Disconnect the wires from the ground points 6822VN/B2, 6820VN/AC2, 6821VN/DC2, 6836VN/B2, 6837VN/AC2 and 6838VN/DC2 on the two .brackets, item (3) : 
+Remove and discard the six screws, item (141, washers, item (15) and nuts, item (161, as shown in Figure 2, Sheet 5, Detail H 'BEFORE'. 
+2 Remove and discard the two brackets, item (31, as shown in Detai1 H 'BEFORE'. 
+3 Put the two new brackets D9249177020400, item 3, in position, as shown in Figure 2, Sheet 5, Detail J. 
+4 Transfer-drill the holes for the 6 rivets, item 4, from one bracket, item 3, through the frame and the bracket, item 3, on the other side of the frame.
+1 Disconnect the wires from the ground points 6852VN/DC2, 6818VN/AC2 and 6817VN/B2 on the bracket, item (3) : 
+2 Remove and discard the three screws, item (141, washers, item (151, and nuts, item (161, as shown in Figure 2, Sheet 7, Detail L 'BEFORE'. 
+2 Remove and discard the bracket, item (31, as shown in Figure 2, Sheet 7, Detail L 'BEFORE'. 
+3 Remove and discard the cable ties, item (281, which attach the cable bundles to the two brackets, item (371, as shown in Figure 2, Sheet 7, Detail L 'BEFORE'. 
+4 Remove and discard the bracket, item (371, as shown in Figure 2, Sheet 7, Detail L 'BEFORE'. 
+5 At STGR43, remove these items which attach the cable bundle 4602VB to the aircraft structure, as shown in Figure 2
+Connect the wires to the ground points 6852VN/DC2, 6818VN/AC2 and 6817VN/B2 on the bracket, item 3, as marked on the wires, with
+Put the new bracket D9249177020400, item 3, in position, as shown in Figure 2, Sheet 7, Detail N
+Transfer-drill the holes for the 6 rivets, item 4, from the bracket, item 3, through the frame.
+Connect the wires to the ground points 6852VN/DC2, 6818VN/AC2 and 6817VN/B2 on the bracket, item 3, as marked on the wires, with
+Install the bracket D9249179320000, item 8, as shown in Figure 2, Sheet 7, Detail L 'AFTER', with:
+On the bracket, item 8, install these items as shown in Figure 2, Sheet 7, Detail L 'AFTER'
+On the bracket, item 33, attach the cable bundles with two cable ties NSA935401-03, item 28.
+Disconnect the wires from the ground points 7121VN/B2 and 7119VN/AC2 on the bracket, item (12) :
+Remove and discard the bracket, item (121, as shown in Figure 2, Sheet 8, Detail P 'BEFORE'.
+Remove and discard the cable tie, item (281, which attaches the cable bundle to the bracket, item 20, as  shown in Figure 2, Sheet 1, Detail 'BEFORE'.
+Remove these items as shown in Figure 2, Sheet 1, Detail 'BEFORE' :
+Attach the cable bundle to the aircraft structure with these items as shown in Figure 2, Sheet 1, Detail 'AFTER' and Sheet 8, Detail P 'AFTER', :
+Do the routing of the cable bundle which is connected to 50DU and attach it to the aircraft structure with these items as shown in Figure 2, Sheet 1, Detail 'AFTER':
+Put the retained bracket (from FR53) D9249177520000, item 300, in position, as shown in Figure 2, Sheet 8, Detail Q.
+Transfer-drill the holes for the 6 rivets LN9198-32OOBF, item 4, from the bracket, item 300, through the frame. 1 Attach the bracket, item 300, to the frame, with six rivets, item 4. 
+8 Attach the placards '7121VN/B2 and 7119VN/AC2' which are part of the placard set D9289189920000, item 40, to the bracket, item.300. 
+9 Connect the wires to the ground points 7121VN/B2 and 7119VN/AC2 on the bracket, item 300, as marked on the wires, with
+Remove and discard the cable tie which attaches the cable bundle 4604VB to the bracket, item 20. 
+2 Remove these items as shown in Figure 2, Sheet 9, Detail R 'BEFORE' :
+Remove and retain the bracket, item 8, as shown in Figure 2, Sheet 9, Detail R 'BEFORE'.
+Remove and discard the cable tie which attaches the cable bundle to the brackets, item 20.
+Attach the cable bundle to the aircraft structure with these items :
+5 Put the retained bracket A9249635720200, item 8, in position, as shown in Figure 2, Sheet 9, Detail S, 
+ Transfer-drill the holes for the 6 rivets LN9198-32OOBF. item 4, from the bracket, item 8, through the frame, 
+1 Attach the bracket, item 8, to the frame, with two rivets, item 4, as shown in Figure 2, Sheet 9, Detail R 'AFTER'. 
+3 Attach the cable bundle 4604~8 to the bracket, item (81, as shown in Figure 2, Sheet 9, Detail R 'AFTER', with these items :
+Install the heating duct mounting brackets
+1 Put the brackets D2147103600600, item 50, in position as shown. 
+2 Transfer-drill the holes for the rivets NAS1097AD4-10, item 51, from the brackets, item 50, through the frames. 
+3 Attach the brackets, item 50, to the frames with four rivets, item 51. 
+4 Attach the brackets D2147104220000, item 52, to the brackets, item 51, with :
+1 Put the brackets D2147103600600, item 50, and D2147103600400, item 63, in position as shown. 
+2 Transfer-dri 11 the holes for the rivets NAS1097AD4-10, item 
+51, from the bracket, item 50, through the frame and the bracket, item 63. 
+3 Attach the brackets, item 50 and 63, to the frames with four rivets, item 51. 
+4 Attach the bracket D2147104220000, item 52, to the bracket, item 50, and the bracket D2147104220200, item 64, to the bracket, item 63 with
+1 Put the bracket D2147103600600, item 50, and the bracket D2147103600400, item 63 in position as shown. 
+2 Transfer-drill the holes for the rivets NAS1097AD4-10, item 51, from the bracket, item 50, through the frame and the bracket, item 63. 
+3 Attach the brackets, item 50 and 63, to the frames with four rivets, item 51. 
+4 Attach the bracket D2147104220000, item 52, to the bracket, item 50, and the bracket D2147104220200, item 64, to the bracket, item 63 with :
+1 Put the brackets D2147103600600, item 50, in position as shown. 
+2 Transfer-drill the holes for the rivets NAS1097AD4-10, item 51, from the brackets, item 50, through the frames. 
+3 Attach the brackets, item 50, to the frames with four rivets, item 51. 
+4 Attach the brackets D2147104220000, item 52, to the brackets, item 51, with :2 Screws NAS1096-3-7, item 53 
+2 Washers AN960C10, item 54
+1 Put the two brackets D2127246000400, item 56, in position as shown. 
+2 Transfer-drill the holes for the rivets NAS1097AD4-10, item 51, from the brackets, item 56, through the frame. 
+3 Attach the brackets, item 56, to the frame with four rivets, item 51.
+Attach the brackets D2147104220400, item 57, to the brackets, item 56, with :2 Screws NAS1096-3-7, item 53 
+2 Washers AN960C10, item 54
+1 Put the two brackets D2127246000400, item 56, in position as shown. 
+2 Transfer-drill the holes for the rivets NAS1097AD4-10, item 51, from the brackets, item 56, through the frame. 
+3 Attach the brackets, item 56, to the frames with four rivets, item 51. 
+4 Attach the brackets D2147104220400, item 57, to the brackets, item 56, with :2 Screws NASl096-3-7, item 53 
+2 Washers AN960C10, item 54 
+1 Put the two brackets D2127246000200, item 55, in position as shown. 
+2 Transfer-drilL the holes for the rivets NAS1097AD4-10, item 51, from the brackets, item 55, through the frame. 
+3 Attach the brackets, item 55, to the frame with four rivets, item 51. 
+4 Attach the bracket D2147104220400, item 57, to the bracket, item 56, with :2 Screws NAS1096-3-7, item 53 
+2 Washers AN960C10, item 54
+1 Put the two brackets A2127928701800, item 58, in position as shown. 
+2 Transfer-drill the holes for the rivets NAS1097AD4-10, item 51, from the brackets, item 58, through the frame. 
+3 Attach the brackets, item 58, to the frames with four rivets, item 51. 
+4 Attach the rail D2147103724200, item 59, to the brackets, item 58, with : 2 Screws NAS1096-3-7, item 53
+Put the bracket 02147103720000, item 61, in position as 
+shown. 
+Transfer-drill the holes for the rivets LN9198-4000BF. 
+item 145, from the bracket, item 61, through the bracket on the stringer. 
+Attach the bracket, item 61, to the bracket on the stringer with five rivets, item 145.
+a Put the bracket D2147103720400, item 62, in position as shown. 
+Transfer-drill the holes for the rivets LN9198-4OOOBF. 
+item 145, from the bracket, item 62, through the bracket on the stringer. 
+Attach the bracket, item 62, to the bracket on the stringer with five rivets, item 145.
+1 Remove and discard the venturi assembly, item (100).
+2 Install the duct assembly D2147103900000, item 100, with two O-rings NSA8206-225, item 101, and the retained attaching parts.
+1 Between FR49 and FR50, remove and discard the insulation boot, item (1041, (refer to Figure 3, Sheet 4, Detail F). 
+2 Between FR49 and FR50, remove and retain the sleeve, item 105, and the clamp, item 106, and remove and discard the two packings, item (1071, (refer to Figure 3, Sheet 4, Detail F). 
+3 Between FR49 and FR50, remove and retain these items which attach the heating duct, item (102), to the support struts as shown in Figure 3, Sheet 4, Detail G : 2 Screws, item 108 2 Washers, item 109 2 Nuts, item 111
+Between FR49 and FR50, remove and discard these items which attach the bonding strap to the heating duct, item (1021, as shown in Figure 3, Sheet 5, Details H and L : 1 Screw, item (53) 1 Washer, item (54) 1 Nut, item (Ill) 
+5 At FR52, remove and discard these items which attach the heating duct , item (1021, to the support struts as shown in Figure 3, Sheet 5, Details J and K : 3 screws, item (108) 3 Washers, item (109) 3 Nuts, item (Ill) 
+4 At FR54, remove and discard these items which attach the bonding strap to the heating duct, item (1021, as shown in Figure 3, Sheet 5, Details H and L : 1 Screw, item (53) 1 Washer, item (54) 1 Nut, item (Ill) 
+z Between FR54 and FR55, remove and retain the clamp, Item 114, as shown in Figure 3, Sheet 4, Detail C. 
+Remove and discard the heating duct, item (102). 
+(c) Between FR49 and FR55, install the heating ducts.
+2 Join the duct assembly D2147101300200, item 103, to the duct which is in the aircraft, as shown in Figure 3, Sheet 4, Detail F, with : 2 Packings S2L-224, item 107 1 Sleeve GC1066-28, item 105 (retained) 1 Clamp GC1060-28, item 106 (retained) 
+b Between FR49 and FR50, attach the duct assembly, item 103, to the support struts as shown in Figure 3, Sheet 4, Details F and 6, with : 2 Screws NAS1303-8, item 108 (retained) 2 Washers AN960C10, item 54 (retained) 2 Nuts MS21042-3, item 111 .Cretained)
+c At FR50, attach the duct assembly, item 103, to the 
+support struts as shown in Figure 3, Sheet 4, Detai 1s 
+F and G, with : 
+2 Screws NASl303-8, item 108 
+2 Washers AN960C10, item 54 
+2 Nuts MS21042-3, item 111 
+At FR50 attach the bonding strap to the duct assembly, item 103, as shown in Figure 3, Sheet 5, Detai 1s H and L, with : I Screw NAS1096-3-7, item 53 1 Washer AN960C10, item 54 1 Nut MS21042-3, item 111 
+e At FR52, attach the duct assembly, item 103, to the support struts as shown in Figure 3, Sheet 5, Details J and K, with : 3 Screws NAS1303-8, item 108 3 Washers AN96OC10, item 54 3 Nuts MS21042-3, item 111 
+f At FR52 attach the bonding strap to the duct assembly, item 103, as shown in Figure 3, Sheet 5, Detai 1s J and L,with : I Screw NAS1096-3-7, item 53 1 Washer AN96OC10, item 54 1 Nut MS21042-3, item 111
+Join the duct assembly, item 113, to the Duct assembly, item 103, with the clamp NSA8601-04, item 114, as shown in Figure 3, Sheet 4, Detail E.
+D2147101300400, item 115 between the duct assembly, item 113, and the duct in the aircraft, as shown in Figure 3, Sheet 4, Detail D, with : 2 CLamps NSA8601-04, item 114 Cl retained) 1 Restrictor D2147100525600, item 116
+Between FR53 and FR54, install these duct assemblies and distributor : 02147101300800, item 117, between STGR27 and STGR30 Left D2147101301600, item 118, between STGR29 and STGR36 Left D2147101301800, item 119, between STGR35 and STGR41 Left D2147100501200, item 120, between STGROI and STGR43 Left 
+a Join the duct assembly, item 117, to the duct assembly, item 113, as shown in Figure 3, Sheet 4, Detail E, with : 1 Clamp NSA8601-04, item 114 
+b Join the duct assembly, item 118, to the duct assembly, item 117, as shown in Figure 3, Sheet 5, Detail N, with : 2 Packings S2L-224, item 107 1 Coupler GC1060-28, item 121 1 Sleeve GC1066-28, item 122 
+E Attach the duct assembly, item 118, to the aircraft structure at STGR31 as shown in Figure 3, Sheet 6, Detail P, with : 1 Clamp ABS0396C32FC, item 124 2 Spacers D2147103820000, item 123 2 Bolts NAS1303-5, item 125 4 Washers AN960C10, item 54 2 Nuts MS21042-3, item 111 
+Attach the duct assembly, item 118, to the aircraft structure at STGR33 as shown in Figure 3, Sheet 6, Detai 1 Q, with : 1 Clamp MS2191 9WCH28, item 126 1 Bolt NAS1303-5, item 125 1 Washer AN96OC10, item 54 1 Clipnut NSA5067-3-1, item 127 
+2 Join the duct assembly, item 119, to the duct assembly, item 118, as shown in Figure 3, Sheet 5, Detail N, with : 2 Packings S2L-224, item 107 1 Coupler GC1060-28, item 121 1 Sleeve GC1066-28, item 122
+Attach the duct assembly, item 119, to the aircraft structure at STGR37 as shown in Figure 3, Sheet 6, Detail R, with : 1 Clamp ABS0396C32FC, item 124 2 Spacers D2147103820000, item 123 2 Bolts NAS1303-5, item 125 4 Washers AN960C10, item 54 2 Nuts MS21042-3, item 111 
+g Join the distributor, item 120, to the duct assembly, item 119, as shown in Figure 3, Sheet 4, Detail E, with : 1 Clamp NSA8601-04, item 114 
+h Attach the distributor, item 120, to the aircraft structure as shown in Figure 3, Sheet 7, Detail S, with : 2 Bolts NAS1303-11, item 128 1 Clamp ABS0396C32FC, item 124 4 Washers AN960C10, item 54 2 Nuts MS21042-3, item 111
+Between FR53 and FR54, install the nozzle D2147100501600, item 130-
+a Join the nozzle, item 130, to the distributor, item 120, as shown in Figure 3, Sheet 7, Detail V, with : 1 Clamp NSA8601-07, item 131 
+b Attach the nozzle, item 130, to the bracket, item 64, as shown in Figure 3, Sheet 8, Detail X, with : 1 Clamp NSA5528-060, item 132
+Attach the heating duct, item 133, to the brackets, item 52, at FR53 and FR52, as shown in Figure 3, Sheet 8, Details X and Y, with : 2 Clamps NSA5528-070, item 134
+Between FR52 and FR49, install the heating duct assembly D2147105500000, item 135.
+Attach the heating duct, item 135, to the brackets, item 52, at FR51 and FR50, as shown in Figure 3, Sheet 8, Detai 1 Y, with : 2 Clamps NSA5528-070, i tern 134
+2 Join the nozzle, item 137, to the distributor, item 120, as shown in Figure 3, Sheet 7, Detai 1 V, with : 1 Clamp NSA8601-07, item 131 
+b Attach the nozzle, item 137, to the bracket, item 64, at FR55 as shown in Figure 3, Sheet 9, Detail 2, with 1 Clamp NSA5528-060, item 132
+a Join the heating duct, item 139, to the heating duct, item 138, as shown in Figure 3, Sheet 7, Detai 1 U, with : 1 Bellow A2121024021000, item 140 
+2 Clamps NSA5528-070, item 134 b Attach the heating duct, item 139, to the bracket, item 52, at FR57, as shown in Figure 3, Sheet 9, Detail Aa, with : 1 Clamp NSA5528-070, item 134
+Join the heating duct assembly, item 141, to the heating duct, item 139, as shown in Figure 3, Sheet 7, Detail U, with : 1 Bellow A2121024021000, item 140 2 Clamps NSA5528-070, item 134
+a Join the heating duct assembly, item 142, to the heating duct assembly, item 141, as shown in Figure 3, Sheet 7, Detai 1 U, with : 1 Bellow A2121024021000, item 140 2 Clamps NSA5528-070, item 134 
+b Attach the heating duct assembly, item 142, to the brackets, item 57, at FR59 and FR60 as shown in Figure 3, Sheet 10, Details Ba and Ca, with : 2 Clamps NSA5528-070, i tern 134
+
+a Join the heating duct assembly, item 143, to the heating duct assembly, item 142, as shown in Figure 3, Sheet 7, Detai 1 T, with : 1 Bellow A2101039621100, item 136 2 Clamps NSA5528-070, item 134 
+b Attach the heating duct assembly, item 143, to the brackets, item 57, at FR61 and FR62 as shown in Figure 3, Sheet 10, Detail Ca, with : 2 Clamps NSA5528-070, item 134
+2 Join the heating duct assembly, item 144, to the heating duct assembly, item 143, as shown in Figure 3, Sheet 8, Detail X, with : 1 Bellow A2101039621100, item 136 2 Clamps NSA5528-070, item 134 
+a Attach the heating duct assembly, item 144, to the brackets, item 57, at FR63 and FR64 as shown in Figure 3, Sheet 10, Detail Ca and Sheet 11, Detai 1 Da, with : 2 Clamps NSA5528-070, item 134
+(d) Tighten all of the clamps which join the various sections of the heating duct system
+Install these floor panels with the retained screws, as shown in Figure 1, Detail A.
+Install these floor panels with the retained screws, as shown in Figure 1, Detail A.
+(a) Electrically ground the aircraft (Ref. AMM X2-34-24, P. Block 301). 
+(b) De-energize the aircraft electrical circuits (Ref. AMM 24-41-00, P. Block 201). 
+(cl Put access pLatforms in position at a passenger/crew door and the FWD avionics door 811. 
+cd) Open the passenger/crew door <Ref. AMM 52-10-00, P. BLock 201). 
+<e) Open the FWD avionics door 811 (Ref. AMM 52-41-00, P. Block 201)
+Cf) In the cockpit, remove and retain the ceiLing panels 21lHC, 212FC, 221BC and 221AC (Ref - AMM 06-41-53, P. Block I). 
+Cg) In cockpit, remove and retain the sidewall panels 212HW, 212JW, 212KW and 212KC (Ref. AMM 06-41-53, P. Block I).
+(a) After the installation or modification of electrical wires do a continuity test.

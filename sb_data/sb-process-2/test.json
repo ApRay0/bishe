@@ -2,86 +2,1651 @@
     {
         "triples": [
             [
-                "test stage",
-                "clean",
-                "work area"
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "put",
+                "access panel"
             ]
         ],
-        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other i terns.\n",
-        "target_txt": "test stage, make sure that the work area is clean and clear of tools and other i terns.\n",
+        "target": "STAGE_1, put the correct FACILITY_1 at FACILITY_2 191kb and 192kb.",
+        "target_txt": "general stage, put the correct access platform at access panels 191kb and 192kb.",
         "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "work area"
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform",
+            "FACILITY_2": "access panel"
         }
     },
     {
         "triples": [
             [
-                "test stage",
+                "general stage",
                 "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
                 "access platform"
             ]
         ],
-        "target": "STAGE_1, put the correct FACILITY_1 at the fwd passenger/crew door.\n",
-        "target_txt": "test stage, put the correct access platform at the fwd passenger/crew door.\n",
+        "target": "STAGE_1, put the FACILITY_1 in position.",
+        "target_txt": "general stage, put the access platforms in position.",
         "ner2ent": {
-            "STAGE_1": "test stage",
+            "STAGE_1": "general stage",
             "FACILITY_1": "access platform"
         }
     },
     {
         "triples": [
             [
-                "test stage",
-                "remove",
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.",
+        "target_txt": "general stage, put the access platforms in position.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the correct FACILITY_1 at the fwd passengcr/crem door.",
+        "target_txt": "general stage, put the correct access platform at the fwd passengcr/crem door.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ]
+        ],
+        "target": "STAGE_1, put the correct platform at the aft DOOR_1 826.",
+        "target_txt": "general stage, put the correct platform at the aft cargo compartment door 826.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.",
+        "target_txt": "general stage, put the access platforms in position.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position.",
+        "target_txt": "general stage, put the access platform in position.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "cargo compartment door"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_2 in position at the pud DOOR_1.",
+        "target_txt": "general stage, put the access platform in position at the pud cargo compartment door.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "DOOR_1": "cargo compartment door",
+            "FACILITY_2": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "access platform"
+            ],
+            [
+                "general stage",
+                "position",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1 in position at the fwd passenger/crew door.",
+        "target_txt": "general stage, put the access platform in position at the fwd passenger/crew door.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
                 "circuit breaker"
             ]
         ],
-        "target": "STAGE_1, remove safety clips and tags and close FACILITY_1. \n",
-        "target_txt": "test stage, remove safety clips and tags and close circuit breakers. \n",
+        "target": "STAGE_1, open, safety and tag the following FACILITY_1 :",
+        "target_txt": "general stage, open, safety and tag the following circuit breakers :",
         "ner2ent": {
-            "STAGE_1": "test stage",
+            "STAGE_1": "general stage",
             "FACILITY_1": "circuit breaker"
         }
     },
     {
         "triples": [
             [
-                "test stage",
-                "open",
-                "circuit breaker"
-            ],
+                "general stage",
+                "apply",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to apply MATERIAL_1 no. 09-013 (refer to cml) to interfaces of structure.",
+        "target_txt": "general stage, to apply material no. 09-013 (refer to cml) to interfaces of structure.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
             [
-                "test stage",
+                "general stage",
                 "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 162dw and 162cw.",
+        "target_txt": "general stage, remove the access panels 162dw and 162cw.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "shorten",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, to shorten the standard FACILITY_1 as required.",
+        "target_txt": "general stage, to shorten the standard rivet as required.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the FACILITY_1.",
+        "target_txt": "general stage, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the fwd cargo compartment.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
                 "circuit breaker"
             ]
         ],
-        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened in para. 2. a . (4) .\n",
-        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened in para. 2. a . (4) .\n",
+        "target": "STAGE_1, open, safety and tag the FACILITY_1 as given in amm 21-63-34, p. block 401. ",
+        "target_txt": "general stage, open, safety and tag the circuit breakers as given in amm 21-63-34, p. block 401. ",
         "ner2ent": {
-            "STAGE_1": "test stage",
+            "STAGE_1": "general stage",
             "FACILITY_1": "circuit breaker"
         }
     },
     {
         "triples": [
             [
-                "test stage",
-                "open",
-                "circuit breaker"
-            ],
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p . block 201).",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p . block 201).",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
             [
-                "test stage",
-                "remove",
+                "general stage",
+                "open",
                 "circuit breaker"
             ]
         ],
-        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened.\n",
-        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened.\n",
+        "target": "STAGE_1, open, safety and tag these FACILITY_1:",
+        "target_txt": "general stage, open, safety and tag these circuit breakers:",
         "ner2ent": {
-            "STAGE_1": "test stage",
+            "STAGE_1": "general stage",
             "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "surface"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, clean FACILITY_1 with solvent MATERIAL_2 no. 11-003.",
+        "target_txt": "general stage, clean surfaces with solvent material no. 11-003.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "surface",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, put a FACILITY_1 in the cockpit to tell persons not to operate the air cooling system (refer to ahm 21-52-00, p. block 501).",
+        "target_txt": "general stage, put a warning notice in the cockpit to tell persons not to operate the air cooling system (refer to ahm 21-52-00, p. block 501).",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p.block 2011. ",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p.block 2011. ",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, electrically ground the AIRCRAFT_1 (refer to amm 12-34-24, p. block 201). ",
+        "target_txt": "general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201). ",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "work area"
+            ],
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, clean the FACILITY_1 with solvent, methylethylketone cmek)  MATERIAL_2 no. 11-003.",
+        "target_txt": "general stage, clean the work area with solvent, methylethylketone cmek)  material no. 11-003.",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "work area",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "torque",
+                "threaded component"
+            ]
+        ],
+        "target": "STAGE_1, to torque FACILITY_1 refer to amm 20-21-12. ",
+        "target_txt": "general stage, to torque threaded components refer to amm 20-21-12. ",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "threaded component"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 162dv and 162cv (refer to amm 06-41-53, p. block 1) .",
+        "target_txt": "general stage, remove the access panels 162dv and 162cv (refer to amm 06-41-53, p. block 1) .",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "put",
+                "warning notice"
+            ]
+        ],
+        "target": "STAGE_1, put a FACILITY_1 in the cockpit to tell persons not to  operate the air cooling system (refer to amm 21-52-00,  p. block 501). ",
+        "target_txt": "general stage, put a warning notice in the cockpit to tell persons not to  operate the air cooling system (refer to amm 21-52-00,  p. block 501). ",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "warning notice"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "open",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, open, safety and tag these FACILITY_1 :",
+        "target_txt": "general stage, open, safety and tag these circuit breakers :",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "general stage",
+                "clean",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, to clean using MATERIAL_1 no. ii-003 (refer to cml). ",
+        "target_txt": "general stage, to clean using material no. ii-003 (refer to cml). ",
+        "ner2ent": {
+            "STAGE_1": "general stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "install",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, install in the right side and in the left side of the hot trim FACILITY_1 (y-FACILITY_1), item 21 and the removed FACILITY_1, items 10 and 11 : 4 0-rings nsa8206-145 items 18.",
+        "target_txt": "modification stage, install in the right side and in the left side of the hot trim duct (y-duct), item 21 and the removed ducts, items 10 and 11 : 4 0-rings nsa8206-145 items 18.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "removal"
+            ]
+        ],
+        "target": "STAGE_1, at the right side and the left side of the hot trim FACILITY_1 (y-FACILITY_1) install: 2 trim air check valves 745aoooo-01 items 17 (retained on FACILITY_2).",
+        "target_txt": "modification stage, at the right side and the left side of the hot trim duct (y-duct) install: 2 trim air check valves 745aoooo-01 items 17 (retained on removal).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct",
+            "FACILITY_2": "removal"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "clamp"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, install the -stained FACILITY_1, item 4, and 1 new FACILITY_1 nsa5516-13nj, item 5, to the new installed hoses, use the retained hardware.",
+        "target_txt": "modification stage, install the -stained clamps, item 4, and 1 new clamp nsa5516-13nj, item 5, to the new installed hoses, use the retained hardware.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, remove  8 FACILITY_1 item (16) (re-used) ",
+        "target_txt": "modification stage, remove  8 clamps item (16) (re-used) ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "washer"
+            ]
+        ],
+        "target": "STAGE_1, remove 18 FACILITY_1 item (14) (re-used) ",
+        "target_txt": "modification stage, remove 18 washers item (14) (re-used) ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "washer"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, remove 1 FACILITY_1 item (10) (re-used and re-identified) ",
+        "target_txt": "modification stage, remove 1 duct item (10) (re-used and re-identified) ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, remove 1 FACILITY_1 item (7) (re-used and re-identified)",
+        "target_txt": "modification stage, remove 1 duct item (7) (re-used and re-identified)",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, install using bonding compound MATERIAL_1 no. 09-005 (refer to amm 20-31-00).",
+        "target_txt": "modification stage, install using bonding compound material no. 09-005 (refer to amm 20-31-00).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "MATERIAL_1": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, install 1 diaphragm d2121054520200 item 4 with 3 FACILITY_1 l21217024008dcj item 11",
+        "target_txt": "modification stage, install 1 diaphragm d2121054520200 item 4 with 3 rivets l21217024008dcj item 11",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "identify",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, re-identify FACILITY_1 d2121022700000 becomes d2121022700200",
+        "target_txt": "modification stage, re-identify duct d2121022700000 becomes d2121022700200",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 162dw.",
+        "target_txt": "modification stage, remove the access panel 162dw.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "screw"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "screw"
+            ]
+        ],
+        "target": "STAGE_1, remove and retain the FACILITY_1, item 4.",
+        "target_txt": "modification stage, remove and retain the screw, item 4.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "screw"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, remove the flow control valves 8hb (lh) , item (1 ) and 11hb (rh) , item (8) in accordance with amm 21-51-51, p. block 401. retain the FACILITY_1.",
+        "target_txt": "modification stage, remove the flow control valves 8hb (lh) , item (1 ) and 11hb (rh) , item (8) in accordance with amm 21-51-51, p. block 401. retain the ducts.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "pipe"
+            ]
+        ],
+        "target": "STAGE_1, disconnect and remove FACILITY_1 item (36) , (37) not re-used",
+        "target_txt": "modification stage, disconnect and remove pipe item (36) , (37) not re-used",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "pipe"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "washer"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "washer"
+            ]
+        ],
+        "target": "STAGE_1, install the new and retained lockFACILITY_1 din137a5st item 72",
+        "target_txt": "modification stage, install the new and retained lockwasher din137a5st item 72",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "washer"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "rivet"
+            ],
+            [
+                "modification stage",
+                "seal",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, install the support brackets d9249178620000, item 63 with FACILITY_1 ms20470ad4-6, item 64. use sealant MATERIAL_2 no. 09-013.",
+        "target_txt": "modification stage, install the support brackets d9249178620000, item 63 with rivets ms20470ad4-6, item 64. use sealant material no. 09-013.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "rivet",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "washer"
+            ],
+            [
+                "modification stage",
+                "install",
+                "washer"
+            ]
+        ],
+        "target": "STAGE_1, modify the cable fastening and remove and install FACILITY_1 pin960c8l item 120 re-used",
+        "target_txt": "modification stage, modify the cable fastening and remove and install washer pin960c8l item 120 re-used",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "washer"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, remove from the inside 1 blowing FACILITY_1 item (1) (discard)",
+        "target_txt": "modification stage, remove from the inside 1 blowing duct item (1) (discard)",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "screw"
+            ]
+        ],
+        "target": "STAGE_1, install on the support strut between fr55 and the floor structure  3 FACILITY_1 nas1096-3-8, item 8",
+        "target_txt": "modification stage, install on the support strut between fr55 and the floor structure  3 screws nas1096-3-8, item 8",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "screw"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "fwd cargo compartment"
+            ]
+        ],
+        "target": "STAGE_1, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the FACILITY_1.",
+        "target_txt": "modification stage, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the fwd cargo compartment.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "fwd cargo compartment"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the lower FACILITY_1 between fr43 and fr60, lh and rh (refer to amm 25-23-44, p. block 401). ",
+        "target_txt": "modification stage, remove the lower sidewall panels between fr43 and fr60, lh and rh (refer to amm 25-23-44, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "restrictor"
+            ]
+        ],
+        "target": "STAGE_1, install these new FACILITY_1 with silicon compound",
+        "target_txt": "modification stage, install these new restrictors with silicon compound",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "restrictor"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the lower FACILITY_1, lh and rh between fr60 and fr64 (refer to amm 25-23-44, p. block 401). ",
+        "target_txt": "modification stage, remove the lower sidewall panels, lh and rh between fr60 and fr64 (refer to amm 25-23-44, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "lavatory"
+            ]
+        ],
+        "target": "STAGE_1, install the aft FACILITY_1, lh and rh (refer to amm 25-43-43, p. block 401). ",
+        "target_txt": "modification stage, install the aft lavatory, lh and rh (refer to amm 25-43-43, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "lavatory"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, install the lower FACILITY_1 (refer to amm 25-23-44, p. block 401).",
+        "target_txt": "modification stage, install the lower sidewall panels (refer to amm 25-23-44, p. block 401).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "put",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, put the AIRCRAFT_1 in pre-flight condition.",
+        "target_txt": "modification stage, put the aircraft in pre-flight condition.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "identify",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, identify the modified FACILITY_1 to d2121090700100, item 72 (refer to para. 3.d.) . ",
+        "target_txt": "modification stage, identify the modified duct to d2121090700100, item 72 (refer to para. 3.d.) . ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, disconnect and remove the distribution FACILITY_1, lh, item (116) , (117) , (118) , (119 ) and (120) for modification on bench and modify in accordance with para.f.(8 ) thru (12) . retain the connecting parts. ",
+        "target_txt": "modification stage, disconnect and remove the distribution ducts, lh, item (116) , (117) , (118) , (119 ) and (120) for modification on bench and modify in accordance with para.f.(8 ) thru (12) . retain the connecting parts. ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the lower FACILITY_1 (refer to amm 25-23-44, p. block 401).",
+        "target_txt": "modification stage, remove the lower sidewall panels (refer to amm 25-23-44, p. block 401).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "ceiling panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 (refer to amm 25-23-41, p. block 401). ",
+        "target_txt": "modification stage, remove the ceiling panels (refer to amm 25-23-41, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "ceiling panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, 4 remove the lower FACILITY_1 (refer to amm 25-23-44, p. block 401).",
+        "target_txt": "modification stage, 4 remove the lower sidewall panels (refer to amm 25-23-44, p. block 401).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, install these new FACILITY_1, lower air outlets and upper air out\u0002lets with the retained connecting parts:",
+        "target_txt": "modification stage, install these new ducts, lower air outlets and upper air out\u0002lets with the retained connecting parts:",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, install the lower FACILITY_1 (refer to amm 25-23-44, p. block 401). ",
+        "target_txt": "modification stage, install the lower sidewall panels (refer to amm 25-23-44, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "washer"
+            ],
+            [
+                "modification stage",
+                "install",
+                "screw"
+            ]
+        ],
+        "target": "STAGE_1, - install the new adapter d2127112100000, item 15 and d2127112100100, item 16 at bracket 28 with FACILITY_1 asna0113-48adl, item 29 and FACILITY_2, item 30.",
+        "target_txt": "modification stage, - install the new adapter d2127112100000, item 15 and d2127112100100, item 16 at bracket 28 with washer asna0113-48adl, item 29 and screw, item 30.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "washer",
+            "FACILITY_2": "screw"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "rivet"
+            ],
+            [
+                "modification stage",
+                "drill",
+                "rivet"
+            ]
+        ],
+        "target": "STAGE_1, on fr40 drill out the FACILITY_1 and remove and do not re-use the bracket (27).",
+        "target_txt": "modification stage, on fr40 drill out the rivets and remove and do not re-use the bracket (27).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "rivet"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, install the lower FACILITY_1 (refer to amm 25-23-44, p. block 401). ",
+        "target_txt": "modification stage, install the lower sidewall panels (refer to amm 25-23-44, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "put",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, put the AIRCRAFT_1 in pro-flight condition.",
+        "target_txt": "modification stage, put the aircraft in pro-flight condition.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "ceiling panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1 (refer to amm 25-23-41, p. block 401). ",
+        "target_txt": "modification stage, remove the ceiling panels (refer to amm 25-23-41, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "ceiling panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, disconnect, remove and do not re-use the FACILITY_1 (9), (10), (31), (32), (33) and (34) and the lower air outlets (17), (18), (19) and (20). retain the connecting parts.",
+        "target_txt": "modification stage, disconnect, remove and do not re-use the ducts (9), (10), (31), (32), (33) and (34) and the lower air outlets (17), (18), (19) and (20). retain the connecting parts.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, remove : 1 blowing FACILITY_1 item (2) (retained) with 2 sleeves item (3) (retained) ",
+        "target_txt": "modification stage, remove : 1 blowing duct item (2) (retained) with 2 sleeves item (3) (retained) ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "clamp"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, remove : 1 blowing FACILITY_2 item (2) (retained) with 1 FACILITY_1 item (6) (retained)",
+        "target_txt": "modification stage, remove : 1 blowing duct item (2) (retained) with 1 clamp item (6) (retained)",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "clamp",
+            "FACILITY_2": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "position",
+                "box"
+            ]
+        ],
+        "target": "STAGE_1, after up half FACILITY_1 item 4. position with respect to right lateral stringer sta 605/fr12 and existing flange.",
+        "target_txt": "modification stage, after up half box item 4. position with respect to right lateral stringer sta 605/fr12 and existing flange.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "box"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "position",
+                "hole"
+            ],
+            [
+                "modification stage",
+                "drill",
+                "hole"
+            ]
+        ],
+        "target": "STAGE_1, respecting the required dimensions, position, match drill FACILITY_1 between 3.2 mm (0.126 in. ) min. and 3.3 mm (0.130 in. ) max . in accordance with : 1 bracket assembly d5391543000000 item 4",
+        "target_txt": "modification stage, respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 mm (0.130 in. ) max . in accordance with : 1 bracket assembly d5391543000000 item 4",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "hole"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "clamp"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, remove from the tube, item 10: 1 FACILITY_1 item 5 (retain) .",
+        "target_txt": "modification stage, remove from the tube, item 10: 1 clamp item 5 (retain) .",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "washer"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "screw"
+            ]
+        ],
+        "target": "STAGE_1, install on the support strut between fr55 and the floor structure: - 1 retained bracket, item 6 , - 1 bracket d2127349720000, item 7, - 3 retained FACILITY_1, item 3, - 3 FACILITY_2 nas1096-3-8, item 8, as shown in detail d .",
+        "target_txt": "modification stage, install on the support strut between fr55 and the floor structure: - 1 retained bracket, item 6 , - 1 bracket d2127349720000, item 7, - 3 retained washers, item 3, - 3 screws nas1096-3-8, item 8, as shown in detail d .",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "washer",
+            "FACILITY_2": "screw"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "clamp"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, install the inlet funnel, item 2, on the brackets, items 6 and 7, with the 2 retained FACILITY_1, item 5 .",
+        "target_txt": "modification stage, install the inlet funnel, item 2, on the brackets, items 6 and 7, with the 2 retained clamps, item 5 .",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, install the new silenced FACILITY_1",
+        "target_txt": "modification stage, install the new silenced duct",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "removal"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "removal"
+            ]
+        ],
+        "target": "STAGE_1, install the left lateral panel 131hw between the frames 27 to 30 (retained at FACILITY_1).",
+        "target_txt": "modification stage, install the left lateral panel 131hw between the frames 27 to 30 (retained at removal).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "removal"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "clamp"
+            ],
+            [
+                "modification stage",
+                "loosen",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, loosen and do not remove the FACILITY_1, item 65 and 66. ",
+        "target_txt": "modification stage, loosen and do not remove the clamps, item 65 and 66. ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the upper FACILITY_1 251bx (252bx) (refer to amm 25-23-43, p. block 401). ",
+        "target_txt": "modification stage, remove the upper sidewall panels 251bx (252bx) (refer to amm 25-23-43, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "sidewall panel"
+            ]
+        ],
+        "target": "STAGE_1, remove the lower FACILITY_1, lh and rh between fr60 and fr64 (refer to amm 25-23-44, p. block 401).",
+        "target_txt": "modification stage, remove the lower sidewall panels, lh and rh between fr60 and fr64 (refer to amm 25-23-44, p. block 401).",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "sidewall panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "restrictor"
+            ],
+            [
+                "modification stage",
+                "install",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, install these new FACILITY_1 with silicon compound, MATERIAL_2 no. 08-004a as shown in section a-a:",
+        "target_txt": "modification stage, install these new restrictors with silicon compound, material no. 08-004a as shown in section a-a:",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "restrictor",
+            "MATERIAL_2": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "remove",
+                "restrictor"
+            ],
+            [
+                "modification stage",
+                "remove",
+                "material"
+            ]
+        ],
+        "target": "STAGE_1, remove the existing FACILITY_2 d2127111320000, item 41 from the lower riser FACILITY_1 at fr65 and replace the FACILITY_2 with silicon compound, MATERIAL_3 no. 08-004a.",
+        "target_txt": "modification stage, remove the existing restrictor d2127111320000, item 41 from the lower riser duct at fr65 and replace the restrictor with silicon compound, material no. 08-004a.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct",
+            "FACILITY_2": "restrictor",
+            "MATERIAL_3": "material"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "lavatory"
+            ]
+        ],
+        "target": "STAGE_1, install the aft FACILITY_1, lh and rh (refer to amm 25-43-43, p. block 401). ",
+        "target_txt": "modification stage, install the aft lavatory, lh and rh (refer to amm 25-43-43, p. block 401). ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "lavatory"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "identify",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, 5 identify the modified FACILITY_1 to d2121090700100, item 72 (refer to para. 3.d.) . ",
+        "target_txt": "modification stage, 5 identify the modified duct to d2121090700100, item 72 (refer to para. 3.d.) . ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, disconnect and remove the distribution FACILITY_1, rh, item (112) , (113) , (114) and (115 ) for modification on bench and modify in accordance with para.f.(4 ) thru (7) .",
+        "target_txt": "modification stage, disconnect and remove the distribution ducts, rh, item (112) , (113) , (114) and (115 ) for modification on bench and modify in accordance with para.f.(4 ) thru (7) .",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "duct"
+            ],
+            [
+                "modification stage",
+                "retain",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, remove the distribution FACILITY_1, item (121) and (122) for modifi\u0002cation on bench and modify in accordance with para.f.(13) and (14) . retain the connecting parts. ",
+        "target_txt": "modification stage, remove the distribution ducts, item (121) and (122) for modifi\u0002cation on bench and modify in accordance with para.f.(13) and (14) . retain the connecting parts. ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "put",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, 9 close the avionic compartment door 824. 10 put the AIRCRAFT_1 in pre-flight condition.",
+        "target_txt": "modification stage, 9 close the avionic compartment door 824. 10 put the aircraft in pre-flight condition.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "rivet"
+            ],
+            [
+                "modification stage",
+                "drill",
+                "restrictor"
+            ]
+        ],
+        "target": "STAGE_1, drill out the FACILITY_1 and remove and do not re-use the FACILITY_2, item (5) .",
+        "target_txt": "modification stage, drill out the rivets and remove and do not re-use the restrictor, item (5) .",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "rivet",
+            "FACILITY_2": "restrictor"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "installation"
+            ],
+            [
+                "modification stage",
+                "install",
+                "installation"
+            ],
+            [
+                "modification stage",
+                "seal",
+                "installation"
+            ]
+        ],
+        "target": "STAGE_1, remove the remaining sealant from the FACILITY_1 area.",
+        "target_txt": "modification stage, remove the remaining sealant from the installation area.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "installation"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "identify",
+                "restrictor"
+            ]
+        ],
+        "target": "STAGE_1, re-identify the modified FACILITY_1 to d2121096420300, item 108.",
+        "target_txt": "modification stage, re-identify the modified restrictor to d2121096420300, item 108.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "restrictor"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "identify",
+                "duct"
+            ]
+        ],
+        "target": "STAGE_1, re-identify the FACILITY_1 to d2121030600400, item 118.",
+        "target_txt": "modification stage, re-identify the duct to d2121030600400, item 118.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "duct"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "remove",
+                "rivet"
+            ],
+            [
+                "modification stage",
+                "drill",
+                "restrictor"
+            ]
+        ],
+        "target": "STAGE_1, drill out the FACILITY_1, item (111 ) and remove and do not re-use the FACILITY_2, item (106) .",
+        "target_txt": "modification stage, drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (106) .",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "rivet",
+            "FACILITY_2": "restrictor"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.",
+        "target_txt": "modification stage, make sure that the work area is clean and clear of tools and other items.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "install",
+                "removal"
+            ],
+            [
+                "modification stage",
+                "install",
+                "installation"
+            ]
+        ],
+        "target": "STAGE_1, FACILITY_1 and FACILITY_2 of the pack ram air inlets.",
+        "target_txt": "modification stage, removal and installation of the pack ram air inlets.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "removal",
+            "FACILITY_2": "installation"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "put",
+                "clamp"
+            ],
+            [
+                "modification stage",
+                "position",
+                "clamp"
+            ]
+        ],
+        "target": "STAGE_1, put the FACILITY_1, item 5 in position and connect the assembly to the  bellows, item 9. ",
+        "target_txt": "modification stage, put the clamp, item 5 in position and connect the assembly to the  bellows, item 9. ",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "clamp"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "position",
+                "hole"
+            ],
+            [
+                "modification stage",
+                "drill",
+                "hole"
+            ]
+        ],
+        "target": "STAGE_1, in accordance with the required dimensions, position and drill  to match existing FACILITY_1 on the structure",
+        "target_txt": "modification stage, in accordance with the required dimensions, position and drill  to match existing holes on the structure",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "hole"
+        }
+    },
+    {
+        "triples": [
+            [
+                "modification stage",
+                "position",
+                "hole"
+            ],
+            [
+                "modification stage",
+                "drill",
+                "hole"
+            ]
+        ],
+        "target": "STAGE_1, in accordance to the required dimensions, position and drill to  match existing FACILITY_1 on the structure.",
+        "target_txt": "modification stage, in accordance to the required dimensions, position and drill to  match existing holes on the structure.",
+        "ner2ent": {
+            "STAGE_1": "modification stage",
+            "FACILITY_1": "hole"
         }
     },
     {
@@ -92,8 +1657,8 @@
                 "installation"
             ]
         ],
-        "target": "STAGE_1, oxygen storage cylinder (5750 hm) FACILITY_1 (refer to amm 35-11-41, p. block 401).\n",
-        "target_txt": "test stage, oxygen storage cylinder (5750 hm) installation (refer to amm 35-11-41, p. block 401).\n",
+        "target": "STAGE_1, oxygen storage cylinder (5750 hm) FACILITY_1 (refer to amm 35-11-41, p. block 401).",
+        "target_txt": "test stage, oxygen storage cylinder (5750 hm) installation (refer to amm 35-11-41, p. block 401).",
         "ner2ent": {
             "STAGE_1": "test stage",
             "FACILITY_1": "installation"
@@ -107,61 +1672,11 @@
                 "access platform"
             ]
         ],
-        "target": "STAGE_1, remove the FACILITY_1 from the aft cargo compartment.\n",
-        "target_txt": "test stage, remove the access platform from the aft cargo compartment.\n",
+        "target": "STAGE_1, remove the FACILITY_1 from the aft cargo compartment.",
+        "target_txt": "test stage, remove the access platform from the aft cargo compartment.",
         "ner2ent": {
             "STAGE_1": "test stage",
             "FACILITY_1": "access platform"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
-                "remove",
-                "circuit breaker"
-            ]
-        ],
-        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
-        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "circuit breaker"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
-                "remove",
-                "access platform"
-            ]
-        ],
-        "target": "STAGE_1, remove the FACILITY_1 from the fud passenger/crew door.\n",
-        "target_txt": "test stage, remove the access platform from the fud passenger/crew door.\n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "access platform"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
-                "open",
-                "circuit breaker"
-            ],
-            [
-                "test stage",
-                "remove",
-                "circuit breaker"
-            ]
-        ],
-        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened  in para. 2.a.(4). \n",
-        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened  in para. 2.a.(4). \n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "circuit breaker"
         }
     },
     {
@@ -177,62 +1692,12 @@
                 "installation"
             ]
         ],
-        "target": "STAGE_1, test after the FACILITY_1/FACILITY_2 of the adirus. (refer to amm 34-12-34, p. block 401)\n",
-        "target_txt": "test stage, test after the removal/installation of the adirus. (refer to amm 34-12-34, p. block 401)\n",
+        "target": "STAGE_1, test after the FACILITY_1/FACILITY_2 of the adirus. (refer to amm 34-12-34, p. block 401)",
+        "target_txt": "test stage, test after the removal/installation of the adirus. (refer to amm 34-12-34, p. block 401)",
         "ner2ent": {
             "STAGE_1": "test stage",
             "FACILITY_1": "removal",
             "FACILITY_2": "installation"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
-                "install",
-                "installation"
-            ]
-        ],
-        "target": "STAGE_1, after the FACILITY_1 of the skin temperature sensor, do an operational test (refer to amm 21-26-13, p. block 501).\n",
-        "target_txt": "test stage, after the installation of the skin temperature sensor, do an operational test (refer to amm 21-26-13, p. block 501).\n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "installation"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
-                "install",
-                "box"
-            ],
-            [
-                "test stage",
-                "mask",
-                "box"
-            ]
-        ],
-        "target": "STAGE_1, install the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212, the mask FACILITY_1 and the stowage FACILITY_1.\n",
-        "target_txt": "test stage, install the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212, the mask boxes and the stowage boxes.\n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "box"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
-                "mask",
-                "oxygen mask"
-            ]
-        ],
-        "target": "STAGE_1, do the operational test of the FACILITY_1 and the mike (refer to amm 35-12-41, p. block 501).\n",
-        "target_txt": "test stage, do the operational test of the oxygen mask and the mike (refer to amm 35-12-41, p. block 501).\n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "oxygen mask"
         }
     },
     {
@@ -248,8 +1713,8 @@
                 "circuit breaker"
             ]
         ],
-        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened in para. 2.a.(4) .\n",
-        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened in para. 2.a.(4) .\n",
+        "target": "STAGE_1, remove the safety clips and tags and close the FACILITY_1 opened in para. 2.a.(4) .",
+        "target_txt": "test stage, remove the safety clips and tags and close the circuit breakers opened in para. 2.a.(4) .",
         "ner2ent": {
             "STAGE_1": "test stage",
             "FACILITY_1": "circuit breaker"
@@ -263,8 +1728,8 @@
                 "circuit breaker"
             ]
         ],
-        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
-        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
+        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:",
+        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:",
         "ner2ent": {
             "STAGE_1": "test stage",
             "FACILITY_1": "circuit breaker"
@@ -274,117 +1739,231 @@
         "triples": [
             [
                 "test stage",
+                "remove",
+                "circuit breaker"
+            ]
+        ],
+        "target": "STAGE_1, remove the safety clip and tag and close this FACILITY_1:",
+        "target_txt": "test stage, remove the safety clip and tag and close this circuit breaker:",
+        "ner2ent": {
+            "STAGE_1": "test stage",
+            "FACILITY_1": "circuit breaker"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear o-f tools and other i terns.",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear o-f tools and other i terns.",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
                 "install",
-                "screw"
+                "access panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 191kb and 192kb.",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb.",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "clean",
+                "work area"
+            ]
+        ],
+        "target": "STAGE_1, make sure that the FACILITY_1 is clean and clear of tools and other items.",
+        "target_txt": "closeup stage, make sure that the work area is clean and clear of tools and other items.",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "put",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, put the systems and the AIRCRAFT_1 back to the serviceable condition.",
+        "target_txt": "closeup stage, put the systems and the aircraft back to the serviceable condition.",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.",
+        "target_txt": "closeup stage, remove the access platforms.",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "ground",
+                "aircraft"
+            ]
+        ],
+        "target": "STAGE_1, disconnect the AIRCRAFT_1 electrical ground connection (refer to amm 12-34-24, p. block 201).",
+        "target_txt": "closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "AIRCRAFT_1": "aircraft"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "install",
+                "floor panel"
+            ]
+        ],
+        "target": "STAGE_1, install the FACILITY_1 151hf and 151jf (refer to amm 53-43-14, p . block 401) .",
+        "target_txt": "closeup stage, install the floor panels 151hf and 151jf (refer to amm 53-43-14, p . block 401) .",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "floor panel"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "access platform"
+            ]
+        ],
+        "target": "STAGE_1, remove the FACILITY_1.",
+        "target_txt": "closeup stage, remove the access platforms.",
+        "ner2ent": {
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
+        }
+    },
+    {
+        "triples": [
+            [
+                "closeup stage",
+                "remove",
+                "warning notice"
             ],
             [
-                "test stage",
+                "closeup stage",
                 "install",
-                "material"
+                "access panel"
             ]
         ],
-        "target": "STAGE_1, install FACILITY_1 with anti-corrosion compound, MATERIAL_2 no. 05-002. \n",
-        "target_txt": "test stage, install screws with anti-corrosion compound, material no. 05-002. \n",
+        "target": "STAGE_1, install the FACILITY_2 191kb and 192kb (refer to amm 53-35-13, p. block 401). remove the FACILITY_1. from the cockpit. ",
+        "target_txt": "closeup stage, install the access panels 191kb and 192kb (refer to amm 53-35-13, p. block 401). remove the warning notice. from the cockpit. ",
         "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "screw",
-            "MATERIAL_2": "material"
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "warning notice",
+            "FACILITY_2": "access panel"
         }
     },
     {
         "triples": [
             [
-                "test stage",
-                "torque",
-                "threaded component"
+                "closeup stage",
+                "clean",
+                "work area"
             ]
         ],
-        "target": "STAGE_1, to torque FACILITY_1 refer to amm 20-21-12. \n",
-        "target_txt": "test stage, to torque threaded components refer to amm 20-21-12. \n",
+        "target": "STAGE_1, make certain that the FACILITY_1 are clean and clear of tools  and miscellaneous items of equipment.",
+        "target_txt": "closeup stage, make certain that the work areas are clean and clear of tools  and miscellaneous items of equipment.",
         "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "threaded component"
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
         }
     },
     {
         "triples": [
             [
-                "test stage",
-                "renew",
-                "protective finish"
-            ],
-            [
-                "test stage",
-                "renew",
-                "material"
-            ]
-        ],
-        "target": "STAGE_1, renew FACILITY_1 with wash primer, MATERIAL_2 no. 16-005, poly\u0002urethane primer, MATERIAL_2 no. 16-001 and polyrurethane top coat,  MATERIAL_2 no. 16-002.\n",
-        "target_txt": "test stage, renew protective finish with wash primer, material no. 16-005, poly\u0002urethane primer, material no. 16-001 and polyrurethane top coat,  material no. 16-002.\n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "protective finish",
-            "MATERIAL_2": "material"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
+                "closeup stage",
                 "remove",
-                "circuit breaker"
+                "access platform"
             ]
         ],
-        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
-        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
+        "target": "STAGE_1, remove the warning placard and the FACILITY_1.",
+        "target_txt": "closeup stage, remove the warning placard and the access platform.",
         "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "circuit breaker"
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
         }
     },
     {
         "triples": [
             [
-                "test stage",
-                "remove",
-                "circuit breaker"
+                "closeup stage",
+                "clean",
+                "work area"
             ]
         ],
-        "target": "STAGE_1, remove the safety clips and tags and close these FACILITY_1:\n",
-        "target_txt": "test stage, remove the safety clips and tags and close these circuit breakers:\n",
+        "target": "STAGE_1, make certain that the FACILITY_1 is clean and clear of tools and mis\u0002cellaneous items of equipment.",
+        "target_txt": "closeup stage, make certain that the work area is clean and clear of tools and mis\u0002cellaneous items of equipment.",
         "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "circuit breaker"
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "work area"
         }
     },
     {
         "triples": [
             [
-                "test stage",
+                "closeup stage",
                 "remove",
-                "circuit breaker"
+                "access platform"
             ]
         ],
-        "target": "STAGE_1, remove the safety clips and the tags and close the FACILITY_1 given in amm 21-61-34, p. block 401 and amm 21-51-11, p . block 401.\n",
-        "target_txt": "test stage, remove the safety clips and the tags and close the circuit breakers given in amm 21-61-34, p. block 401 and amm 21-51-11, p . block 401.\n",
+        "target": "STAGE_1, remove the warning placard and the FACILITY_1.",
+        "target_txt": "closeup stage, remove the warning placard and the access platform.",
         "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "circuit breaker"
-        }
-    },
-    {
-        "triples": [
-            [
-                "test stage",
-                "remove",
-                "circuit breaker"
-            ]
-        ],
-        "target": "STAGE_1, remove the safety clip and tag and close this FACILITY_1:\n",
-        "target_txt": "test stage, remove the safety clip and tag and close this circuit breaker:\n",
-        "ner2ent": {
-            "STAGE_1": "test stage",
-            "FACILITY_1": "circuit breaker"
+            "STAGE_1": "closeup stage",
+            "FACILITY_1": "access platform"
         }
     }
 ]
