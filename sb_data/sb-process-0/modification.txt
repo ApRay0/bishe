@@ -1549,17 +1549,17 @@ If necessary, put the ducts in position again.
 Tighten again all the sleeve clamps and the duct support clamps.
 Tighten the fitting bolt of the two rods.
 Tighten the clamp Item (8).
-- Loosen the clamps Items (24) and (25). Move the coupling sleeve Item (2)
+Loosen the clamps Items (24) and (25). Move the coupling sleeve Item (2)
 on the duct. Move the coupling sleeve Item (7) on the duct.
-- Start the installation of the PALL filter with the connecting flange on the
+Start the installation of the PALL filter with the connecting flange on the
 duct of the air inlet valve. Put the clamp Item (8) in position. Do not tighten
 the clamp to make the rotation possible around the connecting flange.
-- Connect the vertical and horizontal rods. Do not tighten the fitting bolt nuts.
-- If necessary, loosen the sleeve clamp to put the duct in position.
-- Loosen the attachment clamp of the duct which comes from the exchanger.
-- If necessary, put the ducts in position again.
-- Tighten again all the sleeve clamps and the duct support clamps.
-- Tighten the fitting bolt of the two rods.
+Connect the vertical and horizontal rods. Do not tighten the fitting bolt nuts.
+If necessary, loosen the sleeve clamp to put the duct in position.
+Loosen the attachment clamp of the duct which comes from the exchanger.
+If necessary, put the ducts in position again.
+Tighten again all the sleeve clamps and the duct support clamps.
+Tighten the fitting bolt of the two rods.
 Remove the Zone Controller 8HK.
 (a) Remove the Zone Controller 8HK (Ref. AMM 21-63-34, P. Block 401). 
 (2) Install the new Zone Controller 8HK. 

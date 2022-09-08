@@ -1294,3 +1294,47 @@ at the first 4A-Check and repeated at intervals of 4A. For aircraft
 that have passed the first 4A-Check first accomplishment is
 recommended at the next convenient A Check after receipt of this
 Service Bulletin
+
+
+
+
+POST /hub/api/users/zhaoyang17/server HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+Connection: keep-alive
+Content-Length: 0
+Content-Type: application/json
+Cookie: jupyterhub-hub-login="2|1:0|10:1661925869|20:jupyterhub-hub-login|44:NzBhNmM1N2QxZWVhNGE0OWE0M2QyYWI3ZjQwOWQyZTc=|d2a0bec6c0ed8ec24cc4df0cea548099c9b296cc8b58d1b93073cf8dbc44b0c1"; apdid=4053686c-4a73-4b80-b666-5c0fe769892dc972d41c0a347b429269f8ec70d37511:1656403817:1; _did=web_3624306870D1726; ksCorpDeviceid=face3bfa-632c-4322-b1d8-324c5b4ad648; kooc-login-type=1; kooc-login-key=zhaoyang17; kooc-id=200000001149698; kooc-token=1b91faf26d71299371247afb0798e023cd5ea99f; _ga_KW797CK21K=GS1.1.1661752637.2.1.1661752781.0.0.0; _ga=GA1.2.407139243.1660045556; accessproxy_session=8669b949-07e4-4ae7-85d7-027b56c6f182; admin_corp_tk=cp_ZXBBticMafr5QmgjohtpB3WPmcffPiqr-9719502802; jupyterhub-session-id=da650358c130425997b1234127b5c4f3; _xsrf=2|30704d21|7eb378ab73bba99791f4f7f7cfa82a2a|1661925895
+Host: dp-jupyter-personal-sgp-set6-007.jupyter-sgp.corp.kuaishou.com
+Origin: https://dp-jupyter-personal-sgp-set6-007.jupyter-sgp.corp.kuaishou.com
+Referer: https://dp-jupyter-personal-sgp-set6-007.jupyter-sgp.corp.kuaishou.com/hub/admin
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+X-Requested-With: XMLHttpRequest
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+
+
+POST /hub/api/users/fuqihang/server HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+Connection: keep-alive
+Content-Length: 0
+Content-Type: application/json
+Cookie: jupyterhub-hub-login="2|1:0|10:1661925869|20:jupyterhub-hub-login|44:NzBhNmM1N2QxZWVhNGE0OWE0M2QyYWI3ZjQwOWQyZTc=|d2a0bec6c0ed8ec24cc4df0cea548099c9b296cc8b58d1b93073cf8dbc44b0c1"; apdid=4053686c-4a73-4b80-b666-5c0fe769892dc972d41c0a347b429269f8ec70d37511:1656403817:1; _did=web_3624306870D1726; ksCorpDeviceid=face3bfa-632c-4322-b1d8-324c5b4ad648; kooc-login-type=1; kooc-login-key=zhaoyang17; kooc-id=200000001149698; kooc-token=1b91faf26d71299371247afb0798e023cd5ea99f; _ga_KW797CK21K=GS1.1.1661752637.2.1.1661752781.0.0.0; _ga=GA1.2.407139243.1660045556; accessproxy_session=8669b949-07e4-4ae7-85d7-027b56c6f182; admin_corp_tk=cp_ZXBBticMafr5QmgjohtpB3WPmcffPiqr-9719502802; jupyterhub-session-id=da650358c130425997b1234127b5c4f3; _xsrf=2|30704d21|7eb378ab73bba99791f4f7f7cfa82a2a|1661925895
+Host: dp-jupyter-personal-sgp-set6-007.jupyter-sgp.corp.kuaishou.com
+Origin: https://dp-jupyter-personal-sgp-set6-007.jupyter-sgp.corp.kuaishou.com
+Referer: https://dp-jupyter-personal-sgp-set6-007.jupyter-sgp.corp.kuaishou.com/hub/admin
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+X-Requested-With: XMLHttpRequest
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
