@@ -799,3 +799,498 @@ automatically switch-off the heaters when no airflow is available.
 None 
 (5) Accomplishment Timescale 
 In accordance with the operator’s maintenance planning.
+(I) History 
+This Service Bulletin is published to advise operators of issue 
+of the LIEBHERR Service Bulletin No. 775A-21-05. 
+Several Zone Controllers of in-service A320 aircraft have given 
+spurious fault indications of the air-conditioning system. 
+Investigations have shown that the Zone Controller Software has to 
+be improved. 
+(2) Objective/Action 
+This Service Bulletin describes the procedure to modify the Zone 
+Controller from P/N 775AOOOO-07 to the Zone Controller P/N 
+775AOOOO-08. 
+This Service Bulletin gives further information about the improved 
+Zone Controller Software and is as follows: 
+- Wing Anti Ice mon 
+"LH WA1 FILTER OR 
+"RH WA1 FILTER OR 
+itoring fault messages changed from: 
+VALVE" 
+VALVE" 
+to: 
+"L/R WA1 VALVE" 
+"WAI: NO BLEED AIR ENG l/2 
+- Improvement of the Zone Controler secondary pack temperature 
+demand calculation. 
+- Introduction of new software for the Trim Air Valve (TAV) 
+monitoring by step counting - replacing the TAV 
+potentiometer monitoring
+- Improvement of the main controller for the duct overheat 
+monitoring. 
+- Data transmission from the mixer temperatures and pack 
+demand on Zone Temp. Controller main ARINC output bus to 
+SDAC/DMU. 
+- Improvement of the system reaction on the TAV failure. 
+- Improvement of the temperature sensor monitoring. 
+- Improvement of the sensor supply voltage message. 
+- In the event of a Trim Air Pressure Regulating Valve 
+"Failed Closed" message, in addition to the ECAM warning 
+"COND HOT AIR FAULT," the CFDS message "TRIM AIR PRESS 
+VALVE" will be transmitted. 
+- Improvement of the Ground Report Sub-Menu. 
+- ARINC transmission for selected temperature. 
+- In the event of both the recirculation fans 1 and 2 
+failing, in addition to the ECAM warnig "COND L AND R CAB 
+FAN FAULT", the CFDS message "RECIRC FAN 1 AND 2 OR 
+SUPPLY" is transmitted. 
+- Improved APU pack demand when 2nd pack is started. 
+- Improved CFDS Class II and Class III messages. 
+- Improvement of the Menu Mode. 
+- Change of the Trim Air-Valve Power Up-Test and 
+Initiated-Test. 
+- Output of the max. failure number at Ground Report. 
+- Lower out of range limit for the temperature sensors. 
+- Trim Air Pressure Reguiating Valve (TAPRV) pressure reduce 
+drive output. 
+- Failure message originated by the bleed temp. sensor. 
+(3) Advantages 
+The accomplishment of this Service BuLletin will improve the 
+monitoring reliability of the air-conditioning system.
+(4) Operational/Maintenance Consequences 
+None 
+(5) Accomplishment Timescale 
+In accordance with operators maintenance planning.
+Cl> History 
+Some A320 operators have reported excessive play in the ram-air 
+inlet door assembly. In some cases, excessive play of the ram-air 
+inlet has resulted in Loud noises and vibrations audible in the 
+aircraft during flight. Furthermore, pack overheat has resulted from 
+mechanism disconnection. 
+This Service Bulletin has been validated on A320 aircraft MSN 0239. 
+(2) Objective/Action 
+This Service Bulletin introduces a modified ram air inlet to 
+prevent the build up of wear and its consequences: 
+Excessive play, noise and mechanism disconnection. 
+(31 Advantages 
+The accomplishment of this Service Bulletin ensures the correct 
+operation of the ram-air inlet componen,ts and prevents wear and 
+damag
+(4) Operational/Maintenance Consequences 
+None 
+(5) Accomplishment Timescale 
+In accordance with the operator's maintenance planning.
+(I) 
+(2) 
+(3) 
+(4) 
+(5) 
+History 
+This Service BuLLetin is issued to advise the operators of 3201321 
+aircraft of the issue of Liebherr Aero Technik GmbH Service BuLLetin 
+No. 746A-21-03. This aLso enabLes the operators to report the 
+accompLishment of this Service BuLLetin to AIRBUS INDUSTRIE for 
+updating of the associated technicaL publications. 
+Objective/Action 
+This Service BuLLetin deaLs with the repLacement or modification of 
+the Trim-Air Pressure ReguLating VaLve CTAPRV) for the cockpit and 
+cabin temperature-control system. 
+Advantages 
+The accomplishment of this Service BuLLetin wiLL improve the vaLve reLiabiLty 
+of the cockpit and cabin Trim-Air VaLve <TAV) upstream pressure control. 
+OperationaL/Maintenance Consequences 
+None 
+AccompLishment TimescaLe 
+In accordance with the operators maintenance planning.
+
+Cl) History 
+The purpose of this Service BuLLetin is to enable operators to report 
+the accompLishment to the Airbus Industrie and aLLow updating of the 
+associated Airbus Industrie technical publications. - 
+(2) Objective/Action 
+This Service BuLLetin deaLs with the replacement or modification of 
+the trim air vaLves in the FWD or the AFT cargo compartment heatingsys terns. 
+(3) Advantages 
+The accompLishment of this Service BuLLetin wiLL improve the operation 
+of the trim air valves and reduce the number of Low-time removals. 
+(4) OperationaL/Maintenatice Consequences 
+None 
+(5) AccompLishment Timescale 
+In accordance with the operators maintenance planning.
+(I) History 
+Some A320 operators have experienced abnormal play in the ram air inlet flap assembly leading to stronger wear of ram air inlet components. This causes the air flow to be interrupted during specific operating conditions, resulting in higher loads and increased vibration. 
+(2) Objective/Action 
+I 
+This Service Bulletin introduces swing levers to the ram air flap assembly to replace the existing ball bearing guidances of the rear 
+flap. The modification ensures free movement of the flap and eliminates abnorma I play. 
+It is recommended to continue with the inspections in accordance with 
+Service Bulletin A320-21-1062 for the present of backlash
+(3) Advantages 
+To avoid wear of ram air inlet components and subsequent damages. 
+(4) Opera t i ona 1 /Ma i ntenance Consequences 
+(5) Accomplishment Timescale 
+In accordance with operator’s experience.
+
+(1) History
+Further to a specific operator’s request, an alternate supplier for the LE BOZEC filter
+located in the ventilation system of the avionics compartment has been investigated.
+(2) Objective/Action
+This Service Bulletin replaces the LE BOZEC filter by a mechanically interchangeable
+PALL filter.
+(3) Advantages
+Accomplishment of this Service Bulletin will improve filtration rating from 400 to 5 microns.
+Accomplishment of this Service Bulletin will cancel the requirements of Service Bulletin No.
+A320-21-1110 (Mod. No. 26739P5104).
+Accomplishment of this Service Bulletin will satisfy the operator’s request.
+(4) Operational/Maintenance Consequences
+The operational/maintenance consequences of this Service Bulletin are covered by the
+update of the affected publications detailed in PLANNING INFORMATION paragraph K.
+Also, the maintenance consequence of this Service Bulletin is the reduction of consumable
+items from 2 to 1.
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+History 
+Due to technical 
+different types 
+requirements at the time of A320 design, two 
+of Zone Controller CZC) were generated - 775AOOO0 
+and 775BOOOb. With the introduction of the A321 aircraft, a 
+further derivative of the ZC was developed - 775COOoO. To ease 
+handling of ZCs for operators with a mixed A32O/A321 fleet, the 
+775C-03 ZC was designed to accommodate the requirements of the 
+775A and the 7758. This common standard ZC is now available and 
+is being installed on all A320 and A321 aircraft which are on 
+the production line. 
+Objective/Action 
+This Service Bulletin describes the work to be done to replace 
+the ZC. 
+Advantages 
+Handling of ZCs for operators with mixed A32O/A321 fleets is 
+eased by fleet standardisation. For operators with 775A and 775B 
+ZCs, the 775C offers suppression of the unjustified message "L/R 
+WA1 FILTER OR VALVE". Additionally, some minor improvements have 
+been introduced. 
+Operational/Maintenance Consequences 
+None 
+Accomplishment Timescale 
+According to the operators' maintenance planning.
+(1) History
+Due to the larger cargo compartment in the A321 aircraft,
+difficulties with temperature stability have been experienced in
+the FWD and AFT cargo compartments during the flight test phase.
+(2) Objective/Action
+This Service Bulletin details the procedure to install the improved
+cargo compartment heating-controllers 1HC and 10HC in common with
+A321 aircraft.
+(3) Advantages
+The subsequent modifications will make sure of the correct function
+of the FWD and AFT cargo compartment heating-controllers:
+- new temperature-control law to improve temperature stability.
+- change of TAPRV auto close output-monitoring resistor to avoid
+unjustified failure messages (code 713).
+NOTE : The unjustified failure code (713) which was stored in CHC
+memory had no adverse effect on the system operation.
+- installation of a reverse current protection diode at all
+discrete inputs
+- the new controllers are fitted with an alternative housing.
+Equipment commonality between A320 aircraft and A321 aircraft.
+(4) Operational/Maintenance Consequences
+None
+(5) Accomplishment Timescale
+In accordance with the operators maintenance planning.
+(I) 
+(2) 
+(3) 
+(4) 
+Hi story 
+If the auto-motor of one of the two cabin pressurization AUTO systems 
+has a defective brake, control of the pressurization through the second AUTO system and manual control may become impossible, with the 
+outflow valve forced to the fully closed position. 
+Objective/Action 
+This Service Bulletin is published to advise the affected operators of 
+the issue of NORD MICRO Service Bulletin Nos. 15703-21-005 and 
+16917-21-001. This publication deals with replacing of the outf Lou 
+valve PN 9023-15703-4 or PN 9023-15703-6 or PN 9023-15703-7 with pos - 
+sible defective automotor brakes. 
+Advantages 
+The accomplishment of this Service Bulletin ensures the proper 
+function of the outflow valve. 
+Accomplishment Timescale 
+This recommended Service Bulletin should be accomplished at the 
+earliest convenience of the operator.
+(1) History 
+This Service Bulletin is issued to advise operators of the issue 
+of LIEBHERR / ABG-SEMCA Service Bulletin No. 759A-21-06. 
+(2) Objective/Action 
+The LIEBHERR / ABG-SEMCA Service Bulletin deals with a 
+modification of the pack temperature controllers that covers the 
+introduction of software changes to: 
+- Change to change the Ram-Air Inlet-Actuator control-logic during 
+temperature control phases. This reduces the stress on the Air 
+Cycle Machine fan. 
+- Define a common pack temperature controller standard for use 
+with the two different flow sensors. 
+- Reduce the stress of the Ram Air Door potentiometers. 
+- Stop unjustified failure detections on the Ram Air Door, Bypass 
+Valve and Flow Control Valve. 
+- Improve the ECAM flow indication to prevent unjustified removal 
+_ of the Flow Control Valve and Flow Sensor 
+(3) Advantages 
+These modifications improve the function and reliability of the 
+A320 Pack Temperature Controllers, Pack Components, Flow Control 
+Valve and Ram Door Actuators.
+History 
+Operators have experienced heating faults in the AFT cargo 
+compartment. 
+Objective/Action 
+This Service Bulletin, in conjunction with BAVARIA AVIONIK 
+TECHNOLOGIE Service Bulletin 600700-21-004, details the procedure 
+to install the improved Trim Air Valve 12HC. 
+Advantages 
+The improved Trim Air Valve 12HC will improve the reliability of 
+the system in the AFT cargo compartment. 
+Operational/Maintenance Consequences 
+None 
+Accomplishment Timescale 
+In accordance with the operator's maintenance planning.
+
+1) History 
+Operators have experienced heating faults in the FWD cargo 
+compartment. 
+6 DATE : MAR 15/94 SERVICE BULLETIN No. : A320-21-1079 
+REVISION No. : 
+Prirued in France 
+PAGE :lof 7 
+S A32O/A321 
+(2) 
+(3) 
+(4) 
+(5) 
+SERVICE BULLETIN 
+Objective/Action 
+This Service Bulletin, in conjunction with BAVARIA AVIONIK 
+TECHNOLOGIE Service Bulletin 600700-21-004, details the procedure 
+to install the improved Trim Air Valve (2HC). 
+
+The improved Trim Air Valve 2HC will improve the reliability of 
+the system in the FWD cargo compartment. 
+Operational/Maintenance Consequences 
+Accomplishment Timescale 
+In accordance with the operator's maintenance planning
+
+(1) History 
+Revision No. 07 is issued to inform the affected customers that 
+subject Service Bulletin is superseded by Service Bulletin 
+No. A320-21-1113 (Mod. No. 27296P5350). 
+All the tests carried under the most representative A/C conditions 
+allowed to show a water separation efficiency of the Bozec demister 
+filter ranging from the 95.6 to 99.9 %. 
+It should be noted however that in every case, a quantity of water 
+flows through the filter and migrates into the system downstream of 
+the blower fan. 
+(2) Objective/Action 
+To improve the protection against water infiltration through the 
+filter by adding an additional drainage. 
+(3) Advantages 
+Accomplishment of this Service Bulletin reduces the possibility of 
+failure of the computers. 
+(4) Accomplishment Timescale 
+In accordance with operators experience. 
+(5) Interchangeability/Mixability 
+Interchangeability : (See Para. 3.,'MATERIAL INFORMATION) 
+Mixability : Not applicable. 
+NOTE : - Old and new equipment are mechanically and electrically 
+interchangeable but not functionally (code 01). 
+- Only the interchangeability configurations and conditions 
+expressly mentioned in this Service Bulletin are approved 
+by Airbus Industrie. 
+Should airlines wish to install any other configuration, 
+they must contact Airbus Industrie beforehand.
+(1) History 
+To avoid temperature difference between the front part and the rear part 
+of the AFT/Bulk cargo compartment it is proposed to instaLl additional 
+buLk cargo-compartment heating for the ,combined Loading of containers 
+in the AFT cargo-compartment and live animals in the bulk cargocompartment.
+(2) Objective/Action 
+This modification consists of the installation of a bilge heating pipe 
+under the AFT cargo compartment in addition to the standard option “AFT 
+cargo-compartment heating (Mod 20084)“. Therefore an additional trim 
+air valve must be installed near FR49, left side. 
+The existing heating controller must be repLaced by a modified heating 
+controller to control two trim air valves. 
+To increase the efficiency of the heating system, the insulation at 
+the lower side of the cargo.compartment floor-panels has to be replaced 
+by a bilge insulation. The insulation consists of PE-foam to avoid 
+water absorption. 
+In the cockpit the circuit breaker 31HN on the panel 128VU must be 
+replaced. 
+NOTE: This Evaluation Service BuLLetin covers a prototype solution 
+for in-service evaluation in a Canadian Airlines aircraft. 
+(3) Advantages 
+Improved heating in the AFT cargo-compartment and buLk cargo-compartment. 
+(4) Operational/Maintenance Consequences 
+None 
+(5) Accomplishment Timescale 
+In accordance with the operator’s experience.
+(I) History 
+Some operators have reported damage and nuisance due to 
+nater ; several locations have been identified mainly on 
+window frame, on the sliding window casings on the cockp 
+ceiling visible structures between frame 14 and frame 23 
+lower and upper L and R windshield front sections. 
+condensed 
+the front 
+it, on the 
+and at the 
+(2) Objective/Action 
+This Service Bulletin proposes to improve the protection 
+the condensation phenomenon
+The modification consists in : 
+- Adding a trough under the lower post of the front window frame at 
+301VU and SOOVU. 
+- Adding a seal on the lower part of the sliding window easings. 
+- Insulating the ceiling visible fittings between frame 14 and 
+frame 23. 
+- Blanking off the holes for the passage of frames 8 and 11 at the 
+upper and lower windshield front sections. 
+(3) Advantages 
+To prevent water condensation in the cockpit. 
+(4) Accomplishment Timescale 
+In accordance with operator experienc
+This Service Bulletin is issued to advise operators of A320 aircraft 
+of the issue of the BAVARIA AVIONIK TECHNOLOGIE GMBH, SERVICE BULLETIN 
+No. 600611-21-003. 
+This modification introduces an improved cargo heat controller CIHC) 
+for the FWD cargo compartment. The improvements concern the software 
+(EPROM change>. The improvements of the cargo heat controller CIHC) 
+consist of: 
+- Software failure for "Ground Report" operation corrected. 
+- Monitoring time for Trim Air Valve spring operation during power-up 
+test increased to max. 8s to ensure proper monitoring of closing 
+of the Trim Air Valve down to temperature of -55' C. 
+- An additional time delay of 60s for power-up test. Wait-time for 
+"Ground information" if CFDS is in the power-up test phase.
+ Within the waiting time for ARINC data from CFDS, failures are not 
+stored into the BITE-memory. 
+- Increased validation times and tolerances to avoid failure 
+indication of transient failures. 
+- The S/W step counter of the stepper motor wi LI be used for TAV 
+movement monitoring and TAV position indication on ECAM. 
+Objective/Action 
+To enable such improvements, the cargo heat controller IHC has to 
+equipped with a new EPROM in accordance with the BAVARIA AVIONIK 
+TECHNOLOGIE GMBH Service Bulletin No. 600611-21-003. 
+Advantages 
+The accomplishment of this Service Bulletin ensures the correct 
+function of the cargo heat controller (IHC). 
+Accomplishment Timescale 
+This desirable S
+(1) History 
+This Service BuLLetin is issued to advise operators of A320 aircraft 
+of the issue of the BAVARIA AVIONIK TECHNOLOGIE GMBH, SERVICE BULLETIN 
+No. 600611-21-003. 
+This modification introduces an improved cargo heating controller 
+CIOHC) for the AFT cargo compartment. The improvements concern the 
+software (EPROM change). The improvements of the cargo heating controller CIOHC) consist of: 
+- Software failure for "Ground Report" operation corrected. 
+- Monitoring time for Trim Air Valve spring operation during power-up 
+test increased to max. 8s to ensure proper monitoring of closing 
+of the Trim Air Valve down to temperature of -55' C. 
+- An additional time delay of 60s for power-up test. Wait-time for 
+"Ground information" if CFDS is in the power-up test phase. 
+- Within the waiting time for ARINC data from CFDS, failures are not 
+stored into the BITE-memory. 
+- Increased validation times and tolerances to avoid failure 
+indication of transient failures. 
+- The S/W step counter of the stepper motor will be used for TAV 
+movement monitoring and TAV position indication on ECAM. 
+(21 Objective/Action 
+To enable such improvements, the cargo heat controller IOHC has to 
+equipped with a new EPROM in accordance with the BAVARIA AVIONIK 
+TECHNOLOGIE GMBH Service Bulletin No. 600611-21-003.
+(3) Advantages 
+The accomplishment of this Service Bulletin ensures the correct 
+function of the cargo heat controller CIOHC). 
+(4) Accomplishment Timescale 
+This desirable Service Bulletin can be accomplished at the convenience 
+of the operator.
+(1) History 
+Operators have reported that inadvertent operation and 
+unintentional selections of landing field elevation have occurred. 
+(2) Objective/Action 
+This Service Bulletin proposes replacing, on the panel 25VU, the 
+existing LDG ELEV AUTO potentiometer by an electrically and 
+mechanically interchangeable potentiometer and the associated 
+control knob by a knob with a different shape. The new 
+potentiometer includes the following characteristics : 
+- a travel reduced from 360" to 300" 
+- a depressed position allowing no rotation and corresponding to 
+the AUTO mode. 
+(3) Advantages 
+Separate AUTO mode from 14,000 ft position to prevent confusion 
+between AUTO and MANUAL modes. 
+(4) Accomplishment Timescale 
+In accordance with operators experience.
+(1) History
+The existing anti-icing valve of the conditioning pack (standard-08)
+does not include some technical improvements that would increase the
+equipment efficiency and reliability.
+( 2) Objective/Action
+This Service Bulletin is published to advise the affected operators of
+the issue of LIEBHERR ABG SEMCA Service Bulletin No. 748A-21-02. This
+publication deals with the modification of the anti-icing valve.
+( 3) Advantages
+The accomplishment of this Service Bulletin increases the equipment
+efficiency and reliability of the anti-icing valve.
+(4) Accomplishment TimescaLe
+This optional Service Bulletin can be accomplished at the convenience
+of the operator.
+( 1 ) History
+The existing air cycle machine of the conditioning pack (standard-08)
+does not include some technical, improvements that would increase the
+equipment efficiency and reliability.
+(2) Objective/Action
+This Service Bulletin is published to advise the affected operators of
+the issue of LIEBHERR ABG SEMCA Service Bulletin No. 757A-21-05. This
+publication deals with the modification of the air cycle machine.
+(3) Advantages
+The accomplishment of this Service Bulletin increases the equipment
+efficiency and reliability of the air cycle machine.
+(4) AccoapListwent TimescaLe
+This optional Service Bulletin can be accomplished at the convenience of the operator.
+(I) 
+(2) 
+(3) 
+(4) 
+History 
+Operators have reported cold areas between the emergency exit doors. 
+Objective/Action 
+This Service BuLletin introduces an improved three Layer insulation 
+in the area between the emergency exit doors. 
+Advantages 
+Improved primary insulation wiLL prevent cooLing of the passenger 
+cabin, in the Emergency Exit area. 
+AccompLishment Timescale 
+In accordance with the operators maintenance planning.
+(1) History
+Several operators have reported excessive wear of the inlet flap
+linkage components which could lead to disconnection of the flap
+mechanism and subsequent pack overheat.
+(2) Objective/Action
+This Service Bulletin introduces an inspection of the actuation
+mechanism between the electrical actuator and the inlet flap for
+play and an inspection of the gap between the intake nose and
+diffusor ramp.
+(3) Advantages
+To ensure sufficient air flow over the ACM fan and maintain ACM reliability.
+(4) Operational/Maintenance Consequences
+None
+(5) Accomplishment Timescale
+This Inspection Service Bulletin is recommended to be accomplished
+at the first 4A-Check and repeated at intervals of 4A. For aircraft
+that have passed the first 4A-Check first accomplishment is
+recommended at the next convenient A Check after receipt of this
+Service Bulletin

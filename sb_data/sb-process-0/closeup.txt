@@ -229,3 +229,89 @@ Cl) Between FR47 and FR50, install the retained access panel 19788 (Ref. AMM 53-
 (4) Close the Bulk cargo compartment door (Ref. AMM 52-33-00, P. Block 201 
 (5) Close the AFT cargo compartment door (Ref. AMM 52-32-00, P. Block 201 
 (6) Remove the access platforms from the AFT and Bulk cargo compartment doors.
+(I) Make sure that the work areas are clean and clear of tools and other items of equipment. 
+C.2) In the cockpit, instaLl the ceiLing panels ZllHC, 212FC, 221BC and 221AC (Ref. ANN 06-41-53, P. BLock I). 
+(3) In the cockpit, install the sidewall panels 212HW, 212JW, 212KW and 212KC (Ref. AMM 06-41-53, P. Block 1). 
+(4) Restore the systems and the aircraft to a normal operating condition. 
+(5) Close the passenger/crew door (Ref. AMM 52-10-00, P. Block 201). 
+(6) Close the FWD avionics door 811 (Ref. AMM 52-41-00, P. BLock 201). 
+(7) Remove the access platforms from the passenger/crew door and the FWD avionics door 811. 
+(8) Disconnect the aircraft etectrical ground-connection.
+ Make sure that the working area is clean and clear of tools and other items of equipment. 
+(2) Close the access door 801.
+Cl) Make sure that the work areas are clean and clear of tools and other items of equipment. 
+(2) Install the retained belly fairing access panels 191BB, 191KB, 192FB and 192KB (Refer to AMM 06-41-53, P. Block I) and (Refer to AMM 53-35-15, P. Block 401).
+(3) Remove the warning notice from the cockpit. 
+(4) Close the FWD passenger/crew door (Refer to AMM 52-10-00, P. Block 2011. 
+(5) Remove the access platforms. 
+(6) Put the aircraft to a normal operating condition.
+Cl) Make sure the work areas are clean and clear of tools and other items of equipment
+(1) Make sure the work areas are clean and clear of tools and other items of equipment.
+Install the retained belly fairing access panels 191BB, 191KB, 192FB 
+and 192KB (Refer to AMM 06-41-53, P. Block 1 and 53-35-15, P, Block 401). 
+Remove‘ the warning notice in the cockpit. 
+Close the FWD passenger/crew door (Refer to AMM 52-10-00, P. Block 201). 
+Remove the access panel. 
+Restore the aircraft to normal operating condition.
+Do the close-up procedure as specified in the removal/installation of the avionics ventilation filter assembly, (Refer to AMM 21-26-43, Page block 401).
+(1) Make sure that the work area is clean and clear of tools and other items of equipment.
+(1) Make sure that the work area is clean and clear of tools and other items.
+(2) Close the access door 811.
+(3) Remove the access platform.
+Cl) Install the access panels 162DW and 162CW (Ref. AMM 06-41-53, c P. Block I>. 
+(2) Remove the warning placard and the access platform. 
+(3) Close the AFT cargo compartment door 826 (Ref. AMM 52-30-00, P. BLock 201).
+(I) Make certain that the work areas are clean and clear of.tooLs and miscellaneous items of equipment. 
+(2) Close the passenger/crew door, (Refer to AMM 52-10-00, P. Block 201). 
+(3) Remove the access platforms.
+(I) Make sure that the work area is clean and clear of tools and other items. 
+(2) Install the access panel 197BB.
+(I) Make sure that the work area is clean and clear of tools and other items. 
+(2) Install the access panels 131NW and 131PW. 
+(3) Close the FWD cargo access door 825.
+Make sure that the working areas are clean and clear of tools and other items of equipment. 
+Disconnect the aircraft electrical ground connection (Refet to AMM 12-34-24, P. Block 201). 
+Restore system and aircraft to normal operating conditions. 
+Close the passenger/crew door 831 (Refer to AMM 06-41-52). 
+Close the access door 824 (Refer to AMM 06-41-53). 
+Remove the access platform in position. 
+Write in the applicable aircraft record .that you have done all the work in this Service Bulletin.
+Cl) InstaLl the retained thermal and sound insuLation Ref. AMM 25-80-00, P. Block 001). 
+(2) Install the retained AFT cargo-compartment sidewall-panels <Ref. AMM 25-55-11, P. Block 401).
+(3) Install the bLue hydraulic reservoir (Ref. AMM 29-12-41, P. Block 401). 
+(4) InstaLl the retained belLy fairing access-panel 197BB (Ref. AMM 06-41-52, P. Block 001). 
+(5) Install the retained ball mats (Ref. AMM 25-52-22, P. Block 4001). 
+(6) Make sure that the modification area is clean and clear of tools and other items of equipment.
+(I) Make certain that the work areas are clean and clear of tools and miscellaneous items of equipment. 
+(2) InstaLl galley 6478MM and stowage 6576MM at location 2 (Ref. AMM 25-31-41, P. Block 401). 
+(3) Install forward utility area ceiling panels (Ref. AMM 25-23-42, P. Block 401). 
+(4) Install foot rest and sliding table assembly (Ref. AMM 25-13-14, P. Block 401). 
+(5) Install panels 21lAW, ZllBW, ZIIBZ, 211CW, ZllDW, 211EW, 211FW, 21lGW, 212AW, 212BW, 212BZ, 212CW, 212DW, 212EW, 212FW, 212GW, 212HW, 212JW and '212KW (Ref. AMM 06-41-53). 
+(6) Install Captain and First Officer seats if removed (Ref. AMM 25-11-51, P. Block 401). 
+(7) Close access doors 831 and 841 (Ref. AMM 06-41-52). 
+(8) Remove access platforms. 
+(9) Disconnect the aircraft electrical ground connection (Ref. AMM 12-34-24, P. Block 201). 
+(IO) Write in the applicable aircraft
+Cl> Make sure that the work area is clean and clear of tools and other items of equipment. 
+(2) Remove the safety clip and the tag and close the circuit breaker 2HN 
+(3) Close the access door 811.
+(4) Remove the access platform.
+Cl> Make sure that the work area is clean and clear of tools and other items of equipment. 
+(2) Remove the safety clip and the tag and close the circuit breaker 2HN 
+(3) Close the access door 811.
+(4) Remove the access platform.
+(I) Make sure that the work area is clean and clear of tools and 
+miscellaneous items of equipment. 
+(2) Restore system and aircraft to normal operating condition. 
+(3) Close the access door 841 (Ref. AMM 52-10-00). 
+(4) Remove the access platform. 
+(5) Write in the applicable aircraft record that you have done all the work in this Service Bu
+(1) Make certain that the work area is clean and clear of tools and miscellaneous items of equipment.
+(2) Install the access panel 191KB (for 10HM) 192KB (for 11HM)(Ref. AMM 53-35-13, P. Block 401).
+(1) Hake certain that the work area is clean and clear of tools and miscellaneous items of equipment.
+(2) Install the access panel 191KB (for 10HM), 192KB (for 11HH)(Ref. ANN 53-35-13, P. Block 401).
+(3) On the ECAM control panel 11VU set the Lower display and the upperdisplay knobs to the OFF position.
+(4) De-energize the electrical circuits (Ref. AW 24-41-00, P. Block 201).
+(1) Close the access panels 191KB and 192KB (Refer to AMM: 53-35-13, P. Block 401 ).
+(2) Restore the aircraft to normal operating condition.
+(3) Remove the warning notices.

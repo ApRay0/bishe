@@ -1434,3 +1434,228 @@ cd) Open the passenger/crew door <Ref. AMM 52-10-00, P. BLock 201).
 Cf) In the cockpit, remove and retain the ceiLing panels 21lHC, 212FC, 221BC and 221AC (Ref - AMM 06-41-53, P. Block I). 
 Cg) In cockpit, remove and retain the sidewall panels 212HW, 212JW, 212KW and 212KC (Ref. AMM 06-41-53, P. Block I).
 (a) After the installation or modification of electrical wires do a continuity test.
+Do a Modification to the wiring between zones 120 and 210.
+<a) Do a modification to the wires as shown on lines 1 thru 4 (Refer to Figure 5).
+Cut the wires to the nescessary length, crimp the terminals and connect them.
+Do a continuity test of the new electrical wires.
+Attach the wires with: Cable ties
+Modify the wiring between zones 210 and 223.
+Install the wires as shown on lines 11, 12, 14, 15, 16 and I7 (Refer to Figure 5) supplied in: Bundle D9000095105195.
+Cut the wires to the necessary length, crimp the terminals and connect them.
+Do a continuity test of the new electrical wires.
+Install these iterns on the circuit breaker panel 2000VU:2 ReLays E024528AO item 1 2 Bases EO25OAOS item 2 4 Nuts MS21042L04 item 3 4 Washers AN960C4L item 4 1 Module NSA937901M20-11 item 8 1 Label NSA937901El item 9 1 Label NSA937901E4 item 10
+
+1 Attach the new wires to existing wires with cable ties NSA935401-03, item 7, as required. 
+1 Connect the new wires as shown in Hook-Up Chart, Figure 8, Lines 5 to 16.
+1 Re-route the wires as shown in Hook-Up Chart, Figure 8, lines 1 to 4. 
+4 Attach the reLated placards D92392451026, item 5, in a position that can be &early seen. 
+2 Attach the identification LabeLs D92392451026, item 5, to the new wires with cable ties NSA935401-03, item 7. 
+6 Do a continuity test of the new and re-routed electrical wires.
+(a) Remove and retain the Zone Controller 8Hk P/N 775AOOOO-07 from the Electronics Rack 93VU in the avionics compartment (Ref. AMM 21-63-34, P. Block 401).
+(b) Install the Zone Controller 8HK P/N 775AOOOO-08 modified as per LIEBHERR Service Bulletin No. 775A-21-05 in the Electronics Rack 93VU in the avionics compartment (Ref. AMM 21-63-34, P. Block 401).
+Disconnect the electrical connectors 8HH-A (LH) and 28HH-A (RH) and bonding leads, item (92) from theapplicable air inlet flap actuator and remove these items:
+(b) Remove and discard the identification sleeves 8HH (LH) and 28HH CRH), item (106).
+Cc) Remove and retain the ram-air inlet flap-actuators 8HH and 28HH, item (81, (Refer to AMM 21-61-51, P. BLock 401). Discard the fastening parts, items (41, (51, (6), (71, (91, (IO) and (II) shown in detail B. 
+Cd) Remove and discard the ram air inlets, items (55) and (59) as shown in sections B-B and D-D, (Refer to AMM 21-61-51, P. Block 401). 
+Ce) Remove and discard the fastening parts, items (351, (361, (371, (381, (391, (401, (451, (461, shown in Sections A-A, B-B, D-D and E-E from the ram air inlets. 
+(f) Remove and discard the fastening parts, items Cl), (2) and (3) shown in Detail B. 
+Cg) Remove and retain the brackets, item (20) as shown in detail B. 
+Ch) Remove and retain the water injectors, item (17) with washer, item (2) and bolt, item (161, (Refer to AMM 21-52-42, P. Block 401). 
+(i) Remove and retain the gills, item (15) and (19) with washers, item (121, nuts, item (13) and bolts, item (14) as shown in detail B.
+Equip the new ram air inlets RH D2157110006000, item 55 and the ram air inlet LH D2157110106000, item 59.
+Install the retained brackets, item (20) with these items:
+Install the retained gills, items (15) and (19) as shown in Detail B with these items:
+ Do the electrical modification (with Kit A041 on the ram air inlets, items 55 and 59. Refer to Para. 2.F.C2)(j) and Figure 9. 
+6 Adjust the ram air inlets. Refer to Para. 2.B.C7)(a) thru tel.
+Install the modified ram air inlet, item 59 CLH) and item 55 (RH), (Refer to AMM 21-61-25, P. Block 401) and Sections A-A, B-B, D-D and E-E with
+(b) Re-identify the plugs 8HH-A CLH) and 28HH-A (RH) with the 
+Labels, item 106, delivered with the electrical kits, items 85 
+and 86. 
+Plug 28HH-A is identified with the Label 7620VC-A 
+Plug 8HH-A is identified with the Label 7621VC-A 
+Cc) Connect the plugs 7620VC-A and 7621VC-A with the related receptacles 7620VC and 7621VC. 
+Cd) Install the new bonding Leads, item 92 on the Plugs 7620VC-A and 7621VC-A and on the receptacles 7620VC and 7621VC with these items:
+(b) Remove and discard the identification sleeves 8HH CLH) and 28HH (RH), item (106). Refer to Figure 9 and AMM 
+Cc) Disconnect the water hoses from the water injectors 2OHM and 21HM (Refer to AMM 21-52-42, P. Block 401). 
+Cd) Remove the ram air inlets, RH and LH, items (55) and (59) for modification on bench (Refer to AMM 21-61-51, P. Block 401). 
+(e> Modify the ram air inlets, RH and LH, items (55) and (59) on bench. Refer to Para. 2.F. 
+(f) Do the electrical modification (with kit A041 on the ram air inlets, items 55 and 59. Refer to Para. 2.F.C2)Cj) and Refer to Figure 9. 
+(g) Install the modified ram air inlets, RH and LH, items 55 and 59 after modification on bench (Refer to AMM 21-61-51, P. Block 401).
+Ch> Re-identify the plugs 8HH-A CLH) and 28HH-A CRH) with the labels, item 106, delivered with the electrical kits, items 85 and 86. Plug 28HH-A is identified with the label 7620VC-A Plug 8HH-A is identified with the label 7621VC-A 
+(i) Connect the plugs 7620VC-A and 7621VC-A with the related receptacles 7620VC and 7621VC.
+(j> Install the new bonding leads, item 92 on the Plugs 7620VC-A and 7621VC-A and on the receptacles 7620VC and 7621VC with these items:Screws NAS1096-3-8 Item 87 Nuts MS21042L3 Item 89 Clamps MS21919WCH8 Item 90 Strips ASNA0182-2DA Item 91 Washers NAS1149C0332R Item 181
+Ck) Connect the water hoses to the water injectors 20HM and 2lHM (Refer to AMM 21-52-42, P. Block 401).
+(a) Disconnect the electrical connector (Refer to AMM 25-61-51, P. Block I). 
+Cb) Put blanking caps on the disconnected electrical connectors. 
+(c) Initial measurement 
+Cd) Make a pencil mark a cross the center of the air-inlet flap hinge and measure the DIM 8, (Measured Distance "B"), as shown in Detail E.
+Ce) Make a mark of this measured distance "B" on the vertical scale of the graph.
+(f) With the aid of the graph find the required distance "A" on the bottom scale of the graph. 
+Cg) Measure the DIM A, (Measured Distance "A") between the surface of the flap actuator and the center-line of the rod-eye end. 
+(h) Compare the measured distance "A" with the required distance II A.
+1 Remove the blanking plugs from the disconnected electrical connectors. 
+2 Make sure that the electrical connectors are clean in the correct condition. 
+3 Connect the electrical connector. 
+Make sure that the work area is clean and clear of tool(s) and other items.
+(a> Hold the air inlet flap and remove the nut, the washer, the bolt, and the bush. 
+Cb) Lower the air flap and disconnect the Lever from the rod-eye. 
+Cc) Adjust the rod eye-end until the measured distance "A" is in tolerance.
+Hold the rod eye-end, the jack screw and tighten the nut. 
+Put rod eye-end in position in the lever and install the bush, the bolt, the washer and the nut. 
+Do the initial measurement and if necessary the adjustment steps again until the measurement distance "A" is as permitted. 
+Torque the nut to between 0.54 and 0.66 m.daN (47.78 and 58.40 lbf.in.1. 
+Torque the nut to between 0.63 and 0.77 m.daN (55.75 and 68.14 lbf.in.1. 
+Remove the blanking plugs from the disconnected electrical connectors. 
+Make sure that the electrical connectors are clean and in the correct condition. 
+Connect the electrical connector. 
+Make sure that the work area is clean and clear of tool(s) and other items.
+(1) Get access to the TAPRV (Ref. AMM 21-63-52, P. Block 401). 
+(2) Remove the TAPRV (Ref. AMM 21-63-52, P. Block 401). 
+(3) Do a modification to the TAPRV (Ref. Liebherr Aero Technik GmbH Service Bulletin No. 746A-21-03). 
+(4) InstaLL the TAPRV (Ref. AMM 21-63-52, P. Block 401). 
+(5) Re-identify the TAPRV with the P/N No. 746AOOOO-05.
+Cl) Get access to the trim air vaLves (Ref. AMM 21-43-51, P. BLock 401). 
+(2) Remove the trim air vaLve <Ref. AMM 21-43-51, P. BLock 401). 
+(3) Do a modification the trim air vaLve (Ref. BAT GmbH Service Bulletin No. 7530333,-21-002). 
+(4) InstaLL the trim air vaLve (Ref. AMM 21-43-51, P. BLock 401). 
+(5) Re-identify the trim air valve with the P/N 600700-00-500.
+(61 Get access to the trim air vaLve (Ref. AMM 21-43-53, P. BLock 401). 
+(7) Remove the trim air vaLve (Ref. AMM 21-43-53, P. BLock 401). 
+(8) Do a modification the trim air valve (Ref. BAT GmbH Service BuLLetin No. 7530333-21-002). 
+(9) InstaLL the trim air valve (Ref. AMM 21-43-53, P. Block 401). 
+Cl01 Re-identify the trim air vaive with the P/N 600700-00-500.
+Disconnect the water hoses from the water injectors 20 HM and 21HM (Ref. AMM 21-61-51, P. Block 401 and 21-52-42, P. Block 401). 
+Electrically disconnect the air inlet flap actuators 8HH and 28HH (Ref. ANH 21-61-51, P. Block 401). 
+Remove the pack ram air inlets, items 1 and 2 (Ref. AMM 21-61-51, P. Block 4011 from the aircraft for modification on bench. 
+Install the modified pack ram air inlets items 1 and 2 (Ref. AMM 21-61-51, P. ‘Block 401). 
+ELectricaLLy re-connect the air inlet flap actuators 8HH and 28HH (Ref. AMM 21-61-51, P. BLock 401). 
+Re-connect the water hoses to the water injectors 20 HM and 21HM (Ref. AMM 21-61-51, P. Block 401 and 21-52-42, P. Block- 401). 
+Check of the gap between intake nose and diffuser ramp,
+Cb) Measure the actual rod position 'A' of the electrical actuator, item 14, shown in detail B 
+Cc) Transfer the measured distance 'A' to the graph and determine the flap position 'B' (inlet gap) with the graph. 
+Cd) Measure the gap between the marked positions at the intake nose, item 37 and the diffuser ramp, item 3.
+Compare the determined inlet gap 'Bc 'with the actual diffuser ramp position 'B', shown in detail C
+(a) Disconnect the mechanism at the rod of the electrical actuator, item 34 in accordance with the AMM 21-61-51, P. Block 401.
+(b) Adjust flap position by rotating the rod end half a turn (half turn corresponds to 0.5mm (0.019in.I movement. 
+Cc) After the adjustment, connect the mechanism in accordance with the AMM 21-61-51, P. Block 401 and torque tighten the lock nut to 0.6 daNm (53.09 lb-in.1 and secure with the tap washer.
+Make sure that the work area is clean and clear of tools and other items.
+Loosen the clamps Items (1) and (6). Move the coupling sleeve Item (2) on the duct. Move the coupling sleeve Item (7) on the duct.
+Start the installation of the PALL filter with the connecting flange on the duct of the air inlet valve. Put the clamp Item (8) in position. Do not tighten the clamp to make the rotation possible around the connecting flange.
+Connect the vertical and horizontal rods. 
+Do not tighten the fitting bolt nuts.
+If necessary, loosen the sleeve clamp to put the duct in position.
+Loosen the attachment clamp of the duct which comes from the exchanger.
+If necessary, put the ducts in position again.
+Tighten again all the sleeve clamps and the duct support clamps.
+Tighten the fitting bolt of the two rods.
+Tighten the clamp Item (8).
+- Loosen the clamps Items (24) and (25). Move the coupling sleeve Item (2)
+on the duct. Move the coupling sleeve Item (7) on the duct.
+- Start the installation of the PALL filter with the connecting flange on the
+duct of the air inlet valve. Put the clamp Item (8) in position. Do not tighten
+the clamp to make the rotation possible around the connecting flange.
+- Connect the vertical and horizontal rods. Do not tighten the fitting bolt nuts.
+- If necessary, loosen the sleeve clamp to put the duct in position.
+- Loosen the attachment clamp of the duct which comes from the exchanger.
+- If necessary, put the ducts in position again.
+- Tighten again all the sleeve clamps and the duct support clamps.
+- Tighten the fitting bolt of the two rods.
+Remove the Zone Controller 8HK.
+(a) Remove the Zone Controller 8HK (Ref. AMM 21-63-34, P. Block 401). 
+(2) Install the new Zone Controller 8HK. 
+(a) Install the Zone Controller 775COOOO-03 (Ref. AMM 21-63-34, P. Block 401).
+ Replace the FWD/AFT cargo compartment heating-controllers 1HC and 10HC.
+Remove the FWD/AFT cargo compartment heating-controllers 1HC and 10HC.
+Remove and discard the cargo compartment heating controllers (Refer to AMM: 21-43-34, P. Block 401 .
+Install the new cargo compartment heating-controllers 600611-00-600, 1HC and 10HC
+Install and connect the improved cargo compartment heating-controllers. (Refer to AMM: 21-43-34, P. Block 401 .
+Replace the outflow valve in accordance with the AMM 21-31-51, P. Block 401 and NORD MICRO Service Bulletin Nos. 15703-21-005 and 16917-21-001.
+Remove the pack temperature controllers 7HH and 27HH. (Refer to AMM 21-61-34, P. Block 401).
+Do the modification to the pack temperature controllers 7HH and 27HH as given in Liebherr/ABG-Semca Service Bulletin No. 759A-21-06.
+install the modified pack temperature controllers 7HH and 27HH. (Refer to AMM 21-61-34, P. BLock 401).
+a If necessary (Refer to Paragraph 2.B.(l)(c)), remove and temporarily store the Pack Temperature Controllers 7HH and 27HH (Refer to AMM 21-61-34, P. Block 401). 
+b Remove and temporarily store the Cabin Pressure Controllers IIHL and 12HL (Refer to AMM 21-31-34, P. Block 401). 
+c Remove and temporarily store the Bleed Monitoring Controllers IHAI and lHA2 (Refer to AMM 36-11-34, P. Block 401). 
+Remove and temporarily store the Electrical Generation 
+Interface Units 22XUl and 22XU2 (Refer to AMM 24-22-33, P. Block 401). e Remove and temporarily store the Instrument Landing System (Refer to AMM 34-36-31, P. Block 401).
+Disconnect the shelves cut-off connectors and install protective caps. 
+3 Disconnect bonding strap and retain hardware, 
+4 Remove the shelves from the aircraft and retain the attachment hardware.
+Install the wires with:
+Cut the wires to length, crimp the terminals and connect as given in the Hook-up Chart, Figure 4. 
+Install the shelves removed for access with the retained attachment hardware, Refer to Paragraph 2.B.C2)(a)4. Install the equipment that you removed to get access to the modification area, Refer to Paragraph 2.B.C2)(a)
+2 Install the Pack Temperature Controllers 7HH and 27HH (Refer to AMM 21-61-34, P, Block 401). 
+a Install the Cabin Pressure Controllers IIHL and 12HL (Refer to AMM 21-31-34, P. Block 401). 
+c Install the Bleed Monitoring Controllers IHAI and lHA2 (Refer to AMM 36-11-34, P, Block 401). 
+d Install the Electrical Generation Interface Units 22XUl and 22XU2 (Refer to AMM 24-22-33, P. Block 401). 
+2 InstalL the Instrument Landing System (Refer to AMM 34-36-31, P. Block 401).
+Connect the shelf cut-off connectors.
+(a) Remove the Trim Air Valve 12HC. 
+1 Disconnect and remove the Trim Air Valve from the aircraft (Refer to AMM 21-43-51, P. Block 401). 
+(b) Install the improved Trim Air Valve 12HC. 
+1 Install and connect the improved Trim Air Valve (Refer AMM 21-43-51, P. Block 401)
+Remove the Trim Air Valve (ZHC). 
+1 Disconnect and remove the Trim Air Valve from the aircraft (Refer to AMM 21-43-53, P. Block 401). 
+(b) Install the improved Trim Air Valve (ZHC). 
+1 Install and connect the improved Trim Air Va’lve (Refer to AMM 21-43-53, P. Block 401)
+Replace the Trim Air Valve (2HC).
+Put in position the tee union and cut the drain tube to a length of :300 mm (12 in.).
+Install as shown in Detail A : I tee union 00003002400000 Item 2
+Put in position, cut to the necessary length and install : 1 tube NSA3629-12-17 Item 5 2 clamps ASNA0033-019 Item 6
+Drill : Refer to Figure 4, Detail B and Section D-D With respect to the dimensions, mark and drill 1 hole to IO mm (0.4 in.1 dia.
+Install : Refer to Figure 4, Detail B  1 union D2121163700000 Item 14
+Attach the tee union Item 17 with : 2 clamps ASNA0033-019 Item 24
+ Install : Refer to Figure 5, Detail A 1 tee union D0003002400000 Item 17
+Put in position the tee union Item I7 and cut the drain tube to a length of 300 mm (12 in.).
+Put in position the tee union Item 16 and cut the drain tube Item 26 to a length of 310 mm (12.4 in.). 
+(f) Attach the 2 tee unions Item 16 and Item 17 with : 5 clamps ASNA0033-019 Item 24
+Put in position, cut to the necessary length and install : 1 tube NSA3629-12-17 Item 26 2 clamps ASNA0033-019 Item 24
+Cl) Between FR48 and FR64, in the AFT cargo-compartment, remove the floor paneLs.
+(a) On the structure IOVU, left and right sides, refer to the specified dimensions, make marks and drill the 3.2 mm (0.126 in,) holes to the intermediate diameter. 
+(b) Put the trough assies Items 14 and 15 in position on the structure IOVU. Align the hole that is on the trough and on the sides of the structure IOVU. 
+(c) Temporarily, attach the trough assies and drill the 4 mm (0.157 in.) holes to the final diameters.
+ Cd) Remove the trough assies, clean and debur
+(a) On FR3 and FR4, left and right sides, refer to the specified dimensions, put in position and dr,ill the 3.2 mm (0.126 in.) dia. holes on the structure to match the holes on the bracket Item 16 (Details B and C). 
+(b) Apply sealant Mat. No. 09-016 (Ref. CML) and install : 2 + 2 brackets ASNA2328-3-4 Item 16 6 + 6 rivets ASNA205ODCJ3215 Item 27 
+Cc) Cut out the insulation blankets to install the brackets Item 16 and apply the adhesive material Kg6 on the cut sections- 
+(d) On the brackets Item 16, install : 2 + 2 screws NAS1096-3-10 Item 18 4 + 4 washers ASNA2397-IOL Item 22 2 + 2 clamps NSA5515-7 Item 25 
+(e) On the left and right sides, put in position and attach along the routing installed before : 1 + 1 pipe A2181060426800 Item 1
+Connect the pipe Item 1 to the trough assies Items 14 and 15 and attach with : I + 1 clamp ASNA0033-022
+(h) Identify the modified items : D21210698212 Item (35) becomes A2181060420200 Item 31 and D2121069821100 Item 32. 
+(i) Connect the pipes Items 1, 31 and 32 to the tee union, Item 2 and attach with : 3 + 3 clamps ASNA0033-022 Item 26
+(a) Remove on the Left and right sides (Ref. AMM 56-12-11, P. Block 401) : 1 carter assy
+(b) Refer to the specified dimensions and install : Silicone strip ABS5006-4D Item 29 
+Cc) Paint the specified area with Mat. No. 16-047 (Ref. CML).
+Identify the modified items : D2511105300200 Item (33) becomes D2511158400000 Item 33.
+(e> Install the carter assies Items 33 and 34 with the related components and with all the hardware retained at removal.
+(9) Installation of sealant on the structural holes at the lower and upper L and R windshield front sections 
+Refer to Figure 9, Sheets 1 of 3, 2 and 3 At the frames 8 and 11 intersection holes, install sealant Mat. No. 09-016. 
+(10) In the cockpit, installation of the instrument panel blanking plate Refer to Figure 4 
+(a) Install : 1 panel assy D2511157000000 Item 3 1 panel assy 02511157000100 Item 4 1 cover assy D2511158100000 Item 5 1 cover assy D2511158100100 Item 6 with all the hardware retained at removal and with all the related components. 
+(II) In the cockpit, installation of the coat room Refer to Figure 3 
+(a) Install : 1 tube Item 60 1 front panel Item 61 1 upper panel Item 62 I lower panel Item 63 1 side panel Item 64 with all the hardware retained at removal and with all the related components. 
+(12) In the cockpit, installation of the console
+(I> Remove the cargo heat controller (IHC), PN 600611-00-505 in accordance with the AMM 21-43-34, P. Block 401. 
+(2) Modify the cargo heat controller CIHC) as per Para. 2.F. 
+(3) Install the modified FWD cargo heat controller CIHC), PN 600611-00-506 in accordance with the AMM 21-43-34, P. Block 401
+(I) Remove the cargo heat controller (IOHC), PN 600611-00-505 in accordance with the AMM 21-43-34, P. Block401. 
+(2) Modify the cargo heat controller (IOHC) as per Para. 2.F. 
+ Install the modified cargo heat controller CIOHC), PN 600611-00-506 in accordance with the AMM 21-43-34, P. BLock 401.
+
+(a> Remove from the panel 25VU : 4 screws 1 integrally lighted plate IILF Item 5 (retain) Item (41 (discard) 
+(b) Pull the panel 25VU from its housing. Do not disconnect the electrical connectors from the rear plate. 
+(cl Remove : 2 screws Item (3) (discard) 1 control knob Item (2) (discard) 
+(d) Loosen the 2 lock screws Item 7 and disconnect the connector Item 6. 
+(e) Remove : 1 nut 1 selector 
+Cf) Install : 1 selector 9027-200 IO Item 1 1 nut Item 8
+(h) Install : 1 control knob ABS0078-01 2 screws DIN916M3X3AZ-70 
+Install the panel 25VU.
+(a) Remove sense Lines P/N 778A2900-02, 778A2800-02,778A2600-01 and 778A3000-02.
+(b) Remove the anti-icing valve (Ref. AMM 21-61-41, P. BLock 401) formodification as per LIEBHERR ABG SEMCA Service Bulletin No.748A-21-02.
+(c) Install the modified anti-icing valve P/N748AOOOO-08(Ref. AMM 21-61-41, P. Block 401).
+(d) Install new sense Lines P/N 778A3700-01,778A3900-02,778A4000-01and778A3800-01.
+Remove the anti-icing valve <Ref. AMM 21-61-41, P. Block 401) for modification as per LIEBHERR ABG SEMCA Service Bulletin No.748A-21-02.
+Install the modified air cycle machine (Ref. Am 21-52-21, P. Block 401)
+Replace the primary insulation between the emergency exit doors.
+(a) Between FR39 and FR40, remove and discard the insulation blankets items (1) and (21, (Ref. AMM 25-80-00, P. Block 401). 
+(b) Between FR39 and FR40, install the insulation blankets. D2587040600400, item I CLH) D2587050600400, ‘item 2 (RH)

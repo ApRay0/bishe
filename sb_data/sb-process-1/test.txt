@@ -1,192 +1,269 @@
-general stage, put the correct access platform at access panels 191kb and 192kb.
-general stage, put the access platforms in position.
-general stage, put the access platforms in position.
-general stage, put the correct access platform at the fwd passengcr/crem door.
-general stage, put the correct platform at the aft cargo compartment door 826.
-general stage, remove side wall panels 131 mm, 131 pw. (refer to amm 06-41-53).
-general stage, put the access platforms in position.
-general stage, put the access platform in position.
-general stage, to decrease the length of the standard rivets as required.
-general stage, put the access platform in position at the pud cargo compartment door.
-general stage, put the access platform in position at the fwd passenger/crew door.
-general stage, remove mcdu-3 (if installed) (refer to amm 22-82-12, p. block 401).
-general stage, open, safety and tag the following circuit breakers :
-general stage, to apply material no. 09-013 (refer to cml) to interfaces of structure.
-general stage, remove the access panels 162dw and 162cw.
-general stage, to shorten the standard rivet as required.
-general stage, it may be necessary to loosen the clamps and the supports on the next ducts to permit the removal/installation of the ducts and restrictors affected by this service bulletin.
-general stage, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the fwd cargo compartment.
-general stage, open, safety and tag the circuit breakers as given in amm 21-63-34, p. block 401. 
-general stage, electrically ground the aircraft (refer to amm 12-34-24, p . block 201).
-general stage, open, safety and tag these circuit breakers:
-general stage, clean surfaces with solvent material no. 11-003.
-general stage, put a warning notice in the cockpit to tell persons not to operate the air cooling system (refer to ahm 21-52-00, p. block 501).
-general stage, electrically ground the aircraft (refer to amm 12-34-24, p.block 2011. 
-general stage, electrically ground the aircraft (refer to amm 12-34-24, p. block 201). 
-general stage, clean the work area with solvent, methylethylketone cmek)  material no. 11-003.
-general stage, to torque threaded components refer to amm 20-21-12. 
-general stage, remove the access panels 162dv and 162cv (refer to amm 06-41-53, p. block 1) .
-general stage, put a warning notice in the cockpit to tell persons not to  operate the air cooling system (refer to amm 21-52-00,  p. block 501). 
-general stage, for the material specification (material no.) given in this service  bulletin, refer to the cml. 
-general stage, remove side stick controller assies (refer to amm 27-92”41,  p. block 401).
-general stage, open, safety and tag these circuit breakers :
-general stage, to clean using material no. ii-003 (refer to cml). 
-modification stage, replacement of the hot trim duct (y-duct) in the trim air system.
-modification stage, install in the right side and in the left side of the hot trim duct (y-duct), item 21 and the removed ducts, items 10 and 11 : 4 0-rings nsa8206-145 items 18.
-modification stage, at the right side and the left side of the hot trim duct (y-duct) install: 2 trim air check valves 745aoooo-01 items 17 (retained on removal).
-modification stage, make sure that the trim air ducts, items 10 and 11 , are correctly located and aligned then tighten all the nuts.
-modification stage, install the new or modified water-extractor temperature sensors 11fth and 31hh (refer to amm 21-61-13).
-modification stage, ins':al l the mater extractor temperature sensors "11h h (31hh) modified as '•efsrrsd to -in the l1e3herr abg-semca service 3ulletin no . 74aa-21-02 (refer to amm 21-6i-i3,  3 . 3lock 401) .
-modification stage, install the -stained clamps, item 4, and 1 new clamp nsa5516-13nj, item 5, to the new installed hoses, use the retained hardware.
-modification stage, remove  8 clamps item (16) (re-used) 
-modification stage, remove 18 washers item (14) (re-used) 
-modification stage, remove 1 duct item (10) (re-used and re-identified) 
-modification stage, remove 1 duct item (7) (re-used and re-identified)
-modification stage, install using bonding compound material no. 09-005 (refer to amm 20-31-00).
-modification stage, install 1 diaphragm d2121054520200 item 4 with 3 rivets l21217024008dcj item 11
-modification stage, re-identify duct d2121022700000 becomes d2121022700200
-modification stage, remove the access panel 162dw.
-modification stage, remove and retain the screw, item 4.
-modification stage, on shelf 83vu : remove elac-1 (2ce1) on shelf 83vu and remove elac-2 (2ce2)
-modification stage, disconnect the hose, item (40) from the tie-rod by removing nut, item 15, washer, item 16, screw, item 30 and two clamps, item 38 and 42.
-modification stage, remove the flow control valves 8hb (lh) , item (1 ) and 11hb (rh) , item (8) in accordance with amm 21-51-51, p. block 401. retain the ducts.
-modification stage, remove clip nut item (19 ) not re-used
-modification stage, disconnect and remove pipe item (36) , (37) not re-used
-modification stage, re-identify the heat shields in accordance with para. 3.d .
-modification stage, install the new and retained lockwasher din137a5st item 72
-modification stage, install the support brackets d9249178620000, item 63 with rivets ms20470ad4-6, item 64. use sealant material no. 09-013.
-modification stage, item 93. use sealant hat. no. 09-013.
-modification stage, modify the cable fastening and remove and install spacer item (117) not re-used
-modification stage, modify the cable fastening and remove and install washer pin960c8l item 120 re-used
-modification stage, connect the hose, item 40, lh and rh to the compressor outlet of the air conditioning pack
-modification stage, remove from the outside, on the fuselage (ret . amm 21-26-52, p. block 401) 1 0-ring item (2) (discard)
-modification stage, remove from the inside 1 nut item 7 (retain) 
-modification stage, remove from the inside 2 couplings item 8 (retain) 
-modification stage, remove from the inside 1 blowing duct item (1) (discard)
-modification stage, removal of the inlet funnel, item (1 )
-modification stage, install on the support strut between fr55 and the floor structure 1 retained bracket, item 6 ,
-modification stage, install on the support strut between fr55 and the floor structure  3 screws nas1096-3-8, item 8
-modification stage, in the forward cargo compartment, on the left side, between the frames 27 to 29
-modification stage, remove the partition panels 131nw, 131pw and 132pw from the aft partition wall in the fwd cargo compartment.
-modification stage, install the modified fans vd3900-03, item 8 (refer to amm 21-21-51, p. block 401). 
-modification stage, modification in the fwd cargo compartment between fr34 and fr36.
-modification stage, remove the lower sidewall panels between fr43 and fr60, lh and rh (refer to amm 25-23-44, p. block 401). 
-modification stage, install these new restrictors with silicon compound
-modification stage, remove the lower sidewall panels, lh and rh between fr60 and fr64 (refer to amm 25-23-44, p. block 401). 
-modification stage, install the aft lavatory, lh and rh (refer to amm 25-43-43, p. block 401). 
-modification stage, install the lower sidewall panels (refer to amm 25-23-44, p. block 401).
-modification stage, put the aircraft in pre-flight condition.
-modification stage, remove and do not re-use the rh outlet at fr36, item (46) . 
-modification stage, check the duct connections for air leaks.
-modification stage, identify the modified duct to d2121090700100, item 72 (refer to para. 3.d.) . 
-modification stage, disconnect and remove the distribution ducts, lh, item (116) , (117) , (118) , (119 ) and (120) for modification on bench and modify in accordance with para.f.(8 ) thru (12) . retain the connecting parts. 
-modification stage, close the fwd cargo compartment door (refer to amm 52-30-00, p. block 1) . 
-modification stage, remove the lower sidewall panels (refer to amm 25-23-44, p. block 401).
-modification stage, remove the ceiling panels (refer to amm 25-23-41, p. block 401). 
-modification stage, 4 remove the lower sidewall panels (refer to amm 25-23-44, p. block 401).
-modification stage, modification in the passenger compartment between fr21 and fr30, lh and rh.
-modification stage, install these new ducts, lower air outlets and upper air outlets with the retained connecting parts:
-modification stage, install the lower sidewall panels (refer to amm 25-23-44, p. block 401). 
-modification stage, modification in the passenger compartment between fr30 and fr36, lh and rh.
-modification stage, retain the connecting parts.
-modification stage, - install the new adapter d2127112100000, item 15 and d2127112100100, item 16 at bracket 28 with washer asna0113-48adl, item 29 and screw, item 30.
-modification stage, on fr40 drill out the rivets and remove and do not re-use the bracket (27).
-modification stage, install the lower sidewall panels (refer to amm 25-23-44, p. block 401). 
-modification stage, put the aircraft in pro-flight condition.
-modification stage, remove the ceiling panels (refer to amm 25-23-41, p. block 401). 
-modification stage, disconnect, remove and do not re-use the ducts (9), (10), (31), (32), (33) and (34) and the lower air outlets (17), (18), (19) and (20). retain the connecting parts.
-modification stage, modification in the passenger compartment between fr55 and fr64, lh and rh.
-modification stage, remove : 1 blowing duct item (2) (retained) with 2 sleeves item (3) (retained) 
-modification stage, remove : 1 blowing duct item (2) (retained) with 1 clamp item (6) (retained)
-modification stage, install : 1 modified slowing duct d2191017900200 item 2 with 8 clamps item (4) (retained at removal.)
-modification stage, install : 1 modified slowing duct d2191017900200 item 2 with 1 clamp item (6) (retained at removal)
-modification stage, write the new part  conditioning packs  number 744aoooo-08 on the-name plate of the air  as given in para. 3. d.
-modification stage, on half box item 4, mask and drill two 9 mm (0.354 in. ) dia. holes ensuring the passage of rivet heads.
-modification stage, after up half box item 4. position with respect to right lateral stringer sta 605/fr12 and existing flange.
-modification stage, cut the red thermofit sleeve, nsa937211-008d, item 1, to a length of 8 mm ±1 mm (0.31 in. ±0.04 in.) .
-modification stage, do the modification to the air cycle machines 10hm1 and 11hm1 757aoooo-07 as given in the liebherr abg-semca service bulletin no. 757a-21-04 rev 1.
-modification stage, install (refer to amm 21-26-43, p. block 401) : 1 demister filter 34800a200-2 item 13 1 tube assembly sf0090 item 14
-modification stage, respecting the required dimensions, position, match drill holes between 3.2 mm (0.126 in. ) min. and 3.3 mm (0.130 in. ) max . in accordance with : 1 bracket assembly d5391543000000 item 4
-modification stage, clean drilled areas.
-modification stage, put in position and attach with the screws item 4 : 1 blowing duct assy d5391268600295 her 1 (equipped with a check valve ct141)
-modification stage, attach item  1 and apply the sealant. material no. 09-005 (refer to cml) between the surfaces with : 10 rivets asna2051dcj3210 item 3, 1 plate item 11 (retained at removal), 4 screws ite« 10 (retained at removal), 1 bulkhead connector lien 9 (retained at renoval), 2 couplings ite« 8 (retained at reioval), 1 nut i tea 7 (retained at reioval).
-modification stage, remove from the tube, item 10: 1 clamp item 5 (retain) .
-modification stage, install on the support strut between fr55 and the floor structure: - 1 retained bracket, item 6 , - 1 bracket d2127349720000, item 7, - 3 retained washers, item 3, - 3 screws nas1096-3-8, item 8, as shown in detail d .
-modification stage, install the inlet funnel, item 2, on the brackets, items 6 and 7, with the 2 retained clamps, item 5 .
-modification stage, install the new silenced duct
-modification stage, install the left lateral panel 131hw between the frames 27 to 30 (retained at removal).
-modification stage, for modification on bench and modify in accordance with para. f. (1 ) and (2) . retain the connecting parts.
-modification stage, loosen and do not remove the clamps, item 65 and 66. 
-modification stage, remove the upper sidewall panels 251bx (252bx) (refer to amm 25-23-43, p. block 401). 
-modification stage, remove the lower sidewall panels, lh and rh between fr60 and fr64 (refer to amm 25-23-44, p. block 401).
-modification stage, install these new restrictors with silicon compound, material no. 08-004a as shown in section a-a:
-modification stage, remove the existing restrictor d2127111320000, item 41 from the lower riser duct at fr65 and replace the restrictor with silicon compound, material no. 08-004a.
-modification stage, install the aft lavatory, lh and rh (refer to amm 25-43-43, p. block 401). 
-modification stage, remove and do not re-use the lh outlet at fr36, item (45).
-modification stage, install the new outlet d2127107901000, item 47.
-modification stage, de-pressurize the yellow hydraulic system (refer to amm 29-10-00, p. block 201). 
-modification stage, 2 remove the ceiling moulds underneath the door actuators.
-modification stage, 5 identify the modified duct to d2121090700100, item 72 (refer to para. 3.d.) . 
-modification stage, disconnect and remove the distribution ducts, rh, item (112) , (113) , (114) and (115 ) for modification on bench and modify in accordance with para.f.(4 ) thru (7) .
-modification stage, retain the connecting parts. 
-modification stage, remove the distribution ducts, item (121) and (122) for modification on bench and modify in accordance with para.f.(13) and (14) . retain the connecting parts. 
-modification stage, 9 close the avionic compartment door 824. 10 put the aircraft in pre-flight condition.
-modification stage, drill out the rivets and remove and do not re-use the restrictor, item (5) .
-modification stage, remove the remaining sealant from the installation area.
-modification stage, re-identify the modified restrictor to d2121096420300, item 108.
-modification stage, re-identify the duct to d2121030600400, item 118.
-modification stage, drill out the rivets, item (111 ) and remove and do not re-use the restrictor, item (106) .
-modification stage, install the modified pack ram air inlet, lh d21571101008000, item
-modification stage, make sure that the work area is clean and clear of tools and other items.
-modification stage, removal and installation of the pack ram air inlets.
-modification stage, remove the wires shown on lines 14 thru 19 of figure 2 and line 4 of figure 3.
-modification stage, cut the wires to the necessary length, crimp the terminals and connect them.
-modification stage, put the clamp, item 5 in position and connect the assembly to the  bellows, item 9. 
-modification stage, disconnect the bonding lead, item io from the electrical actuator. 
-modification stage, remove and discard the lockwire, item (47). 
-modification stage, do the modification to the pack controller as given in liebherr abg-semca service bulletin no. 759a-21-05.
-modification stage, do the modification to the zone - controller 8hk, item 1, as given 
-modification stage, install the outflow valve 10hl in accordance with the amm 21-31-51, p. block 401.
-modification stage, in cockpit, removal and modification of consoles
-modification stage, in accordance with the required dimensions, position and drill  to match existing holes on the structure
-modification stage, in avionics compartment, modify geometry of ventilation ducts.
-modification stage, in accordance to the required dimensions, position and drill to  match existing holes on the structure.
-modification stage, in cockpit, modify a ventilation duct.
-test stage, energize the aircraft electical circuits (refer to amm 24-41-00,
-test stage, in the auto position.
-test stage, oxygen storage cylinder (5750 hm) installation (refer to amm 35-11-41, p. block 401).
-test stage, remove the access platform from the aft cargo compartment.
-test stage, do an operational test of the elac system as per amm 27-93-00, p.
-test stage, test after the removal/installation of the adirus. (refer to amm 34-12-34, p. block 401)
-test stage, remove the safety clips and tags and close the circuit breakers opened in para. 2.a.(4) .
-test stage, do an operational test of the pack controller (refer to amm 21-61-00, p. block 501).
-test stage, remove the safety clips and tags and close these circuit breakers:
-test stage, do an operational test of the cargo compartment heating system (refer to amm 21-43-00, p. block 501).
-test stage, do an operational test of the flow control and indicating (refer to amm 21-51-00,
-test stage, remove the safety clip and tag and close this circuit breaker:
-test stage, do the preparation for test in accordance with the relevant amm chapter.
-closeup stage, make sure that the work area is clean and clear o-f tools and other i terns.
-closeup stage, install the access panels 191kb and 192kb.
-closeup stage, make sure that the work area is clean and clear of tools and other items.
-closeup stage, close the aft cargo compartment door.
-closeup stage, put the systems and the aircraft back to the serviceable condition.
-closeup stage, make sure that the working area is clean and clear of tools and other items of equipment.
-closeup stage, install the side wall panels 151ew and 151hw
-closeup stage, close the forward cargo compartment door 825 (refer to amm 52-30-00, p. block 201).
-closeup stage, remove the access platforms.
-closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).
-closeup stage, disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).
-closeup stage, make sure that the working area is clean and clear of tools and other items of equipment.
-closeup stage, close the access door 824 (refer to amm 06-41-53).
-closeup stage, install the floor panels 151hf and 151jf (refer to amm 53-43-14, p . block 401) .
-closeup stage, remove the access platforms.
-closeup stage, make sure that the working area is clean and clear of tools and other items.
-closeup stage, close the access panels 191kb, 191bb, 192fb and 192kb (refer to amm 53-35-13, p. block 401).
-closeup stage, close the access door 811. 
-closeup stage, install the access panels 191kb and 192kb (refer to amm 53-35-13, p. block 401). remove the warning notice. from the cockpit. 
-closeup stage, make certain that the work areas are clean and clear of tools  and miscellaneous items of equipment.
-closeup stage, remove the warning placard and the access platform.
-closeup stage, make certain that the work area is clean and clear of tools and miscellaneous items of equipment.
-closeup stage, remove the warning placard and the access platform.
-closeup stage, close the access panels 191kb and 192kb (ref abm 53-35-13,  p. block 401). 
-closeup stage, de-energize the electrical circuits (refer to amm 24-41-00, p. block 201).
+general:put the correct access plat-form at the door of the fwd cargo compartment.
+general:position access platform.
+general:open the forward cargo compartment door 825 (refer to amm 52-30-00). 
+general:electrically ground the aircraft (ret . amm 12-34-24, p . block 201).
+general:open, safety and tag these circuit breakers:
+general:electrically ground the aircraft (refer to amm 12-34-24, p . block 201).
+general:clean applicable surfaces with solvent material no. 11-003.
+general:put the access platform in position below the door (824) of the rear avionics compartment.
+general:to shorten the standard rivet as required.
+general:open the passenger/crew.door. 
+general:open, safety and tag these circuit breakers:
+general:de-energize the aircraft electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).
+general:open the access doors 824 (ki t a01) and 822 (ki t a02) (refer to amm 52-41-00).
+general:put the access platform in position at the fwd passenger/crew door.
+general:electrically ground the aircraft (refer to amm 12-34-24, p. block 201).
+general:put the access platform in position at the passenger/crew door.
+general:de-energize the aircraft electrical circuits (refer to amm 24-41-00, p. block 201) and electrically ground the aircraft (refer to amm 12-34-24, p. block 201).
+general:remove the floors panels 151jf and 151hf (refer to amm 53-43-14, p . block 401) .
+general:electrically ground the aircraft (refer to amm 12-34-24, p. block 201). 
+general:open, safety and tag the circuit breakers as given in amm 21-63-34, p. block 401. 
+general:put a warning notice in the cockpit to tell persons not to operate the air cooling system (refer to amm 21-52-00, p. block 501).
+general:put access platforms in position. 
+general:open safety and tag these circuit breakers:
+general:for the station (sta) and frame (fr ) identification, refer to amm 06-31-53, p. block 001.
+general:open the access door 811 at the forward avionics compartment  (refer to amm 52-41-00, p. block 001). 
+general:open, safety and tag these circuit breakers:
+general:remove the access panels 162dv and 162cv (refer to amm 06-41-53, p. block 1) .
+general:for the material specification (material no.) given in this service  bulletin, refer to the cml. 
+general:remove galley unit at location 1 (refer to amm 25-31-41,  p. block 401). 
+general:remove panels 211pw and 212pw (refer to amm 56-12-12). 
+general:remove and retain the passenger seats as necessary  (refer to amm 25-21-41, p. block 401). 
+general:clean the area(s) with cleaning agent material no. ii-002 where you apply sealant or bond identification placards. 
+general:for rivet hole and drill data (refer to srm 51-44-00).
+general:before connections, remove the blanking caps and make sure that the electrical connectors are serviceable.
+general:make marks for the holes with a soft-lead pencil and do a check of the edge clearances before you drill the holes. 
+general:for the correct fastener hole diameters, refer to the srm 51-44-11. 
+general:electrical ground the aircraft (refer to amm 12-34-24, p. block 201). 
+general:open, safety and tag these circuit breakers:
+general:cal electrically ground the aircraft (refer to amm 24-00-00, p. block 301). 
+general:open, safety and tag these circuit breakers:
+general:put blanking caps on disconnected line ends.
+general:do the electrical bonding, (refer to amm 20-28-00, page block 201) with pure mineral vaseline or petrolatum (material no. 04-012) or electrical bonding coating(blue color) (material no. 07-001d).
+general:open, safety and tag these circuit breakers:
+general:open the aft cargo door (refer to amm 52-30-00 p. block 201). ' 
+general:make sure that the aircraft is in a maintenance condition (refer to arm 00-intro, p. block 001) i 
+general:de-energite the aircraft electrical circuits (refer to amm 24-41-00, p. block 201). 
+general:in the aft cargo compartment remove the ball mats to get access to the modification area .crefer to amm 25-52-22, p. block 401). 
+general:tag all parts during the removal to make the installation easier.
+general:apply polyurethane primer (material no. 16-001) and polyurethane top coat (material no. 16-002) to all new drilled holes and to the rivets. 
+general:open access door 811.
+general:de-energize the aircraft electrical circuits (refer to amm 24-41-00, p, block 201) and electrically ground the aircraft (ref- amm 12-34-24, p. block 201). 
+general:cdl-open, safety and tag the following circuit breakers :
+general:put blanking caps on disconnected plugs and blanking plugs on disconnected line ends.
+modification:remove: 1 duct (right side) item 10 (retain) 1 duct (left side) item 11 (retain)
+modification:put in position and support: 1 duct (right side) d2157125100200 item 10 (retained on removal) 1 duct (left side) d2157125200200 item 11 (retained on removal).
+modification:position the tie-rods, right side and left side, items 15 and 16 , at the support brackets on the ducts, items 10 and 11 and install: 4 bolts nas6704u9 items 14 (retained on removal) 4 washers an960c416 items 13 (retained on removal) 4 nuts ms21043-4 items 12 (retained on removal), but do not fully tighten them at this time.
+modification:disconnect only the plugs 20hq-a and 18hq-a on electric pan (refer to amm 21-26-51, p. block 401).
+modification:on extract fan 18hq 1 evt3454-600-02 item 2.
+modification:remove the water-extractor temperature sensors 11hh and 31hh (refer to amm 21-61-13).
+modification:remove the anti-icing valves 17hh (37hh) (refer to amm 21-61-1, p . 3lock 401) .
+modification:install to each anti-icing valve: 1 elbom, nsa855120-6c, item 6 .
+modification:install 1 duct item (13) (retained at removal)
+modification:remove 9 clamps item (18) (re-used) 
+modification:install grill on duct item (3).
+modification:on ducts items (3) and (4), install clamps and flexible sleeves retained during removal.
+modification:disconnect the electrical connections from the sensors and remove the clamp, item (106) and associated hardware as shown in figure 1 1 . do not re-use the fastening parts.
+modification:remove hose item (2 ) not re-used
+modification:remove hose item (7) not re-used
+modification:install the new and retained washer an960c10l item 16
+modification:install the new and retained stud nsa5159-32 item 83
+modification:drill out rivets accordingly, where the new support brackets, item 90, 91 and 92 have to be positioned.
+modification:install the retained sensors 763aoooo-03
+modification:modify the cable fastening and remove and install screw nas1096-2-14 item 119 re-used
+modification:secure the cable bundles to the structure with clamp nsa935807-12 item 131
+modification:on the -flow control valve 8hb (lh) install hose d2157147102800, item 40 refer to figure 8
+modification:on the flow control valve 11hb (rh ) install hose d2157147102600, item 50 refer to figure 10
+modification:drill to match to a dia . of 3.2 m (0.1260 in.) .
+modification:attach item 1 and apply the sealant. material no. 09-005 (refer to cml) between the surfaces with 1 nut  item 7 (retained at removal)
+modification:remove from the support strut between fr56 and the floor structure 3 washers item (3 ) (discard)
+modification:install the inlet funnel, item 2, on the brackets, items 6 and 7, with the 2 retained clamps, item 5 .
+modification:install on the support strut between fr55 and the floor structure 1 bracket d2127349720000, item 7
+modification:install on the support strut between fr55 and the floor structure  3 retained washers, item 3
+modification:remove 1 duct item (1 ) (refer to note)
+modification:install the retained temperature sensor 16hk and the overheat sensor 19hk on the new cross-feed duct d2127100000800, item 1.
+modification:install the partition panels 131nw, 131pw and 132pw of the aft partition wall in the fwd cargo compartment.
+modification:modification in the fwd cargo compartment between fr34 and fr36.
+modification:remove the ceiling panel 251cc between fr51 and fr53 (refer to amm 25-23-41, p. block 401).
+modification:remove the outer row of floor panels, lh and rh between fr43 and fr60 (refer to amm 53-23-12, p. block 401).
+modification:remove and retain the screws, item 62 and the washers, item 63. 
+modification:modification in the passenger compartment between fr60 and fr67.
+modification:fer to amm 25-23-43, p. block 401). 
+modification:remove the distribution ducts, item (121) and (122) for modification on bench and modify in accordance with para.f.(13) and (14) . 
+modification:install the upper sidewall panels (refer to amm 25-23-43, p. block 401). 
+modification:put the aircraft in pre-flight condition.
+modification:4 remove the lower sidewall panels (refer to amm 25-23-44, p. block 401).
+modification:4 remove the lower sidewall panels (refer to amm 25-23-44, p. block 401).
+modification:retain the connecting parts.
+modification:put the aircraft in pro-flight condition.
+modification:remove the passenger seats (refer to amm 25-21-41, p. block 401) and protect the floor covering. 
+modification:2 remove the ceiling panels (refer to amm 25-23-41, p. block 401). 
+modification:remove the upper sidewall panels (refer to amm 25-23-43, p. block 401). 
+modification:remove and do not re-use the adapter (15) and (16).
+modification:paint rivets with polyurethane primer. material no. 16-001 and polyurethane top coat. material no. 16-002. 
+modification:install the upper sidewall panels (refer to amm 25-23-43, p. block 401). 
+modification:disconnect, remove and do not re-use the ducts (9 ) and (10) , lower air outlets (19 ) and (20) and upper air outlets (11 ) and (12) . 
+modification:retain the connecting parts. 
+modification:install the lower sidewall panels (refer to amm 25-23-44, p. block 401).
+modification:install the ceiling panels (refer to amm 25-23-41, p. block 401). 
+modification:modification in the passenger compartment between fr55 and fr64, lh and rh.
+modification:_ put the aircraft in pre-flight condition.
+modification:remove : 1 blowing duct item (2) (retained) with 1 clamp item (6) (retained)
+modification:install : 1 modified slowing duct d2191017900200 item 2 with 8 clamps item (4) (retained at removal.)
+modification:install : 1 modified slowing duct d2191017900200 item 2 with 1 clamp item (6) (retained at removal)
+modification:clean the work area with material no. 11-003 (refer to clm).
+modification:in zone 126, between sta579/fr11 and sta605/fr12 above the right lateral stringer.
+modification:install a box and a thermal insulation on the temperature sensor 28hq.
+modification:drill 4 holes with a : minimum dia. of 4.05 mm (0.16 0 in. ) maximum dia. of 4.20 mm (0.16 5 in. ) in accordance with the half box item 4.
+modification:cut the red thermofit sleeve, nsa937211-008d, item 1, to a length of 8 mm ±1 mm (0.31 in. ±0.04 in.) .
+modification:removal of demister filter assembly (2080hm) with its drain system
+modification:on web of stringer 41, refer to fig. 2, sheets 1 of 4 and 3 (section e.e )
+modification:clean drilled area.
+modification:install the outflow valve 9023-15703-4.
+modification:remove from the brackets, item 6: 2 clamps item 5 (retain) .
+modification:remove from the support strut between fr55 and the floor structure 3 screws item (4 ) (discard) , 3 washers item 3 (retain) , - 1 bracket item 6 (retain) , as shown in detail b .
+modification:disconnect and remove the distribution ducts, item (14) and
+modification:for modification on bench and modify in accordance with para. f. (1 ) and (2) . retain the connecting parts.
+modification:install the partition panels 131nw, 131pw and 132pw of the aft partition wall in the fwd cargo compartment.
+modification:close the fwd cargo compartment door (refer to amm 52-30-00, p. block 1) . 4 install the floor panel 231yf (refer to amm 53-32-12, p. block 401) and replace the passenger seats (refer to amm 25-21-41, p. block 401).
+modification:remove the ceiling panel 251cc between fr51 and fr53 (refer to amm 25-23-41, p. block 401).
+modification:make sure that the work area is clean and clear of tools and other items. 
+modification:put the aircraft in pre-flight condition
+modification:remove the light cover panels 251cx (252cx) between fr63 and fr64. 
+modification:remove the aft lavatory, lh and rh (refer to amm 25-43-43, p. block 401).
+modification:remove and do not re-use the rh outlet at fr64, item (48). 
+modification:_ remove and do not re-use the restrictors, item (17) , (23) and (24) between fr60 and fr64, lh and rh. 
+modification:install these new restrictors with silicon compound, material no. 08-004a as shown in section a-a:
+modification:disconnect the ducts as shown in detail e and remove and do not re-use the restrictors, item (53) . 
+modification:remove the existing restrictor d2127111320000, item 41 from the lower riser duct at fr65 and replace the restrictor with silicon compound, material no. 08-004a.
+modification:install the upper sidewall panels 251bx (252bx) (refer to amm 25-23-43, p. block 401). 
+modification:2 install the new out let d2127107600400, item 45.
+modification:remove and do not re-use the rh outlet at fr42, item (48). 
+modification:check the duct conne.ctions for air leaks.
+modification:disconnect the passenger seats between fr24 and fr28, rh (refer to amm 25-21-41, p. block 401). 
+modification:seal the rivet holes with rivets ms20470ad3, item 16.
+modification:re-identify the duct to d2121020300400, item 122
+modification:do the modification to the pack controller as given in liebherr abc-semca  service bulletin 759-24-04. 
+modification:in the rack in the avionics compartment (refer to amm 21-63-34, p. block 401).
+modification:clean the work area with solvent, methylethylketone cmek)  material no. 11-003. removal of the ram air outlet assembly
+modification:make sure that the work area is clean and clear of tools and  other items. removal of the ram air outlet assembly
+modification:connect the electrical connector 9hh-a clh assy) and/or zbhh-a  crh assy). 
+modification:connect the bonding lead, item 10 at the electrical actuator 9hh  (29hh). 
+modification:disassembly of the ram air outlet
+modification:bond the profiles d2157103020200, item 65 to the flap guides with bonding compound material no. 08-010. 
+modification:manufacture two parts each of items 61 and 62; shown on sheet 2. 
+modification:weld the items 61 and 62 first to the flap guide channels at the lines named weld seam i. 
+modification:move the flap in and out and check the unlimited motion of the 
+modification:to figure 1, section a-a. 
+modification:connect the lever, item (35) with the retained fastening parts and  bushes, items 36 thru 38, at the electrical actuator.
+modification:torque-tighten all fastening parts. 
+modification:remove and send to stores the pressure regulating valve b17ca1041, and install the new pressure regulating valve b17ca1042 (refer to amm 21-43-52).
+modification:for the replacement of anti-icing valve refer to amm 21-61-41, p. block 401 and service bulletin a320-21-1065.
+modification:in avionics compartment, remove a duct for access.
+modification:install the 4 inserts ms21209fl-20, item 32 with sealant material no. 09-013. 
+modification:remove and discard this item:
+modification:remove the floor panels in the aft and bulk cargo compartments.
+modification:remove the ball mats items (1701, (171) and (1721, (refer to  amm 25-52-22, p. block 401).
+modification:put the new bracket d9249177020400, item 3, in position, as shown in figure 2, sheet 3, detail e. 
+modification:remove and discard the cable ties, item (281, which attach the wires from the brackets, item 20, 
+modification:disconnect the wires from the ground points 6822vn/b2, 6820vn/ac2, 6821vn/dc2, 6836vn/b2, 6837vn/ac2 and 6838vn/dc2 on the two .brackets, item (3) : 
+modification:remove and discard the bracket, item (31, as shown in figure 2, sheet 7, detail l 'before'. 
+modification:remove and discard the cable tie which attaches the cable bundle to the brackets, item 20.
+modification:1, from the bracket, item 50, through the frame and the bracket, item 63. 
+modification:attach the brackets, item 50 and 63, to the frames with four rivets, item 51. 
+modification:transfer-drill the holes for the rivets nas1097ad4-10, item 51, from the brackets, item 58, through the frame. 
+modification:at fr54, remove and discard these items which attach the bonding strap to the heating duct, item (1021, as shown in figure 3, sheet 5, details h and l : 1 screw, item (53) 1 washer, item (54) 1 nut, item (ill) 
+modification:f at fr52 attach the bonding strap to the duct assembly, item 103, as shown in figure 3, sheet 5, detai 1s j and l,with : i screw nas1096-3-7, item 53 1 washer an96oc10, item 54 1 nut ms21042-3, item 111
+modification:tighten all of the clamps which join the various sections of the heating duct system
+modification:install the zone controller 8hk p/n 775aoooo-08 modified as per liebherr service bulletin no. 775a-21-05 in the electronics rack 93vu in the avionics compartment (refer to amm 21-63-34, p. block 401).
+modification:remove and discard the fastening parts, items (351, (361, (371, (381, (391, (401, (451, (461, shown in sections a-a, b-b, d-d and e-e from the ram air inlets. 
+modification:do the electrical modification (with kit a041 on the ram air inlets, items 55 and 59. refer to para. 2.f.c2)(j) and figure 9. 
+modification:modify the ram air inlets, rh and lh, items (55) and (59) on bench. refer to para. 2.f. 
+modification:connect the water hoses to the water injectors 20hm and 2lhm (refer to amm 21-52-42, p. block 401).
+modification:compare the measured distance "a" with the required distance ii a.
+modification:connect the electrical connector. 
+modification:hold the rod eye-end, the jack screw and tighten the nut. 
+modification:torque the nut to between 0.63 and 0.77 m.dan (55.75 and 68.14 lbf.in.1. 
+modification:connect the electrical connector. 
+modification:make sure that the work area is clean and clear of tool(s) and other items.
+modification:get access to the taprv (refer to amm 21-63-52, p. block 401). 
+modification:install the modified pack ram air inlets items 1 and 2 (refer to amm 21-61-51, p. ‘block 401). 
+modification:if necessary, loosen the sleeve clamp to put the duct in position.
+modification:start the installation of the pall filter with the connecting flange on the
+modification:duct of the air inlet valve. put the clamp item (8) in position. do not tighten
+modification:remove the zone controller 8hk (refer to amm 21-63-34, p. block 401). 
+modification:replace the outflow valve in accordance with the amm 21-31-51, p. block 401 and nord micro service bulletin nos. 15703-21-005 and 16917-21-001.
+modification:do the modification to the pack temperature controllers 7hh and 27hh as given in liebherr/abg-semca service bulletin no. 759a-21-06.
+modification:a if necessary (refer to paragraph 2.b.(l)(c)), remove and temporarily store the pack temperature controllers 7hh and 27hh (refer to amm 21-61-34, p. block 401). 
+modification:drill : refer to figure 4, detail b and section d-d with respect to the dimensions, mark and drill 1 hole to io mm (0.4 in.1 dia.
+modification:put in position the tee union item 16 and cut the drain tube item 26 to a length of 310 mm (12.4 in.). 
+modification:attach the 2 tee unions item 16 and item 17 with : 5 clamps asna0033-019 item 24
+modification:remove on the left and right sides (refer to amm 56-12-11, p. block 401) : 1 carter assy
+modification:refer to the specified dimensions and install : silicone strip abs5006-4d item 29 
+modification:install the carter assies items 33 and 34 with the related components and with all the hardware retained at removal.
+modification:install : 1 selector 9027-200 io item 1 1 nut item 8
+modification:replace the primary insulation between the emergency exit doors.
+test:block 201) .
+test:energize the aircraft electical circuits (refer to amm 24-41-00,
+test:on the overhead panel 30vu make sure that the x-bleed selector is
+test:start and operate the apu (refer to amm 49-40-00, page block 501)
+test:on the overhead panel 30vu:  push the apu bleed pushbutton switch.
+test:on the overhead panel 30vu: push the pack 1 and 2 pushbutton switches.
+test:remove the safety clips and tags and close the circuit breakers opened.
+test:do an operational test of the elac system as per amm 27-93-00, p.
+test:remove the safety clips and tags and close the circuit breakers opened  in para. 2.a.(4). 
+test:do a leak check of the pipe assy connections (refer to ann 21-52-23,  p. block 4011. 
+test:close these circuit breakers :
+test:install the lining of the captain and first officer consoles 101vu and 700vu in zones 211 and 212, the mask boxes and the stowage boxes.
+test:do the operational test of the oxygen mask and the mike (refer to amm 35-12-41, p. block 501).
+test:install screws with anti-corrosion compound, material no. 05-002. 
+test:to torque threaded components refer to amm 20-21-12. 
+test:do the operational test of the pack temperature control system  (refer to amm 21-61-00, p. block 501).
+test:remove the safety clips and the tags and close the circuit breakers given in amm 21-61-34, p. block 401 and amm 21-51-11, p . block 401.
+test:do the operational test of the pressure control and monitoring system (refer to amm 21-31-00, p. block 501).
+test:do an operational test of the flow control and indicating system as given in amm 21-51-00, p. block 501.
+test:as an alternative procédure, you can do this operational test wihout thé cfds (refer to amm 21-26-13, p . block 501).
+test:energize the aircraft electrical circuits (refer to amm 24-41-00,  p. block 201). 
+test:do the following test only for the right doors : operational test of the warning system related to the emergency exits (refer to amm 52-73-00, p. block 501). 
+test:do the prerecorded announcement operation of the prerecorded announcement and boarding music (pram) reproducer (refer to amm 23-32-00, p. block 501). 
+test:close all of the circuit breakers listed in para. z.a.cl).(h). 
+test:remove the safety tags and close the circuit breakers that you opened in para. 2.a. (i) cc). 
+test:make certain that the work area is clean and clear of tools and miscellaneous items of equipment. 
+test:remove the safty clips and tags and close the circuit breakers given in amm 21-43-51, p. block 401. 
+test:do the operational test of the aft cargo heating system (refer amm 21-43-00, p. block 501)
+test:do an operational test of the avionics equipment ventilation system (refer to amm 21-26-00, p. block 501).
+test:do the test in accordance with the amm 21-61-00, p. block 501.
+test:remove the safety clips and tags and close the circuit breakers for the connector 8hh:
+closeup:disconnect the aircraft electrical ground connection (refer to amm 24-00-00, page block 301).
+closeup:make certain that working areas are clean and clear of tools and miscellaneous items of equipment.
+closeup:install panels 131bw, 131dw, 131gw (refer to amm 06-41-53)
+closeup:close doors 811, 812, 814 (refer to amm 52-41-00).
+closeup:remove access platforms.
+closeup:close the fwd passenger/crew door (refer to amm 52-10-00, page block 201).
+closeup:close the aft cargo compartment door.
+closeup:remove the access platform.
+closeup:disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).
+closeup:remove the safety clips and the tags and close these circuit breakers 1hg, 2hg, 3hg and 11hg.
+closeup:make certain that the work area is clear of tools and  miscellaneous items of equipments.
+closeup:disconnect the aircraft electrical ground connection (refer to amm 12-34-24, p. block 201).
+closeup:remove the access platform.
+closeup:close the forward avionics compartment door (refer to amm 52-41-11),
+closeup:close the access door 824 (refer to amm 06-41-53).
+closeup:remove the access platforms.
+closeup:remove the safety clips and the tags and close the circuit breakers  given in amm 21-61-34, p. block 401. 
+closeup:restore the aircraft to normal operating condition.
+closeup:de-energize the aircraft electrical circuits and disconnect electrical ground power unit.
+closeup:close access door 822 (refer to amm 06-41-53).
+closeup:remove access platforms.
+closeup:close the access panels 191kb and 192kb (refer to amm 53-35-13, p. block 401). 
+closeup:de-energize the aircraft electrical circuits (refer to amm 24-41-00, p . block 201).
+closeup:install the access panels 162dv and 162cv (refer to amm 06-41-53, p. block 1) .
+closeup:install the retained lower sidewall panels (refer to amm 25-23-44, p. block 401). 
+closeup:make sure that thé work areas are clean and clear of tools and other items of equipment.
+closeup:remove thé access platform(s).
+closeup:close the access door(s). 
+closeup:remove the access platforms.
+closeup:install the access panel 197bb.
+closeup:install the retained thermal and sound insulation refer to amm 25-80-00, p. block 001). 
+closeup:install foot rest and sliding table assembly (refer to amm 25-13-14, p. block 401). 
+closeup:make sure that the work area is clean and clear of tools and other items of equipment. 

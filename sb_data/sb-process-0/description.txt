@@ -349,3 +349,119 @@ in the avionics compartment.
 Cl) Modify the wiring between zones 120 and 210. 
 (2) Modify the wiring between zones 210 and 223. 
 (3) Modify the circuit breaker panel 2000VU.
+(I) Modify the Zone Controller 8HK P/N 775AOOOO-07.
+(a> Remove the ram air inlets, LH and RH. 
+(b) Assemble the new ram air inlets,. LH and RH with retained components. 
+(c) Install the modified ram air inlets, LH and RH. 
+(d) Adjust the ram-air inlet flap-assemblies. 
+Ce) Test the pack temperature control system. 
+Cf) Install the belly fairing access-panels.
+(a> Get access to the ram air inlets, LH and RH. 
+Cb> Remove the ram air inlets, LH and RH for modification on bench. 
+Cc) Install the modified ram air inlets, LH and RH. 
+(d> Test the pack temperature control-system. 
+(e) Install the belly fairing access-panels.
+(a) Connect the plugs 7620VC-A and 7621VC-A.
+(4) Modify the ram air inlets, LH and RH.
+(I) Remove the TAPRV 746AOOOO-04. 
+(2) Modify the TAPRV 746AOOOO-04 in accordance with Liebherr Aero Technik GmbH Service BuLLetin No..746A-21-03. 
+(3) InstaLL the TAPRV 746AOOOO-05, modified as per Liebherr Aero Technik GmbH Service BuLLetin No. 746A-21-03.
+To accompLish this Service BuLLetin it is necessary to: 
+(1) Remove the trim air valves 7530333. 
+(2) Modify the trim air valves 7530333 in accordance with BAT GmbH Service B(a) Remove the LE BOZEC filter
+(b) Install the PALL filteruLLetin No. 7530333-21-002. 
+(3) InstaLL the trim air vaLves 600700-00-500, modified as per BAT GmbH Service BuLLetin No. 7530333-21-002.
+Cl> Gain access to the pack ram air inlets, LH and RH. 
+(2) Remove the pack ram air inlets, LH and RH. 
+(3) Install the pack ram air inlets, LH and RH. 
+(4) Adjust the ram air inlet f Lap assemblies. 
+(5) Test the pack temperature control system. 
+(6) Install the belly fairing access panels.
+(7) Modify the pack ram air inlets
+(a) Remove the LE BOZEC filter
+(b) Install the PALL filter
+(a) Remove the LE BOZEC filter
+(b) Install the PALL filter
+(a) Remove the LE BOZEC filter
+(b) Install the PALL filter
+(a) Remove the LE BOZEC filter
+(b) Install the PALL filter
+(a) Remove the LE BOZEC filter
+(b) Install the PALL filter
+ Replace the filter cartridge
+(I) Remove the Zone Controller 8HK 
+(2) Install the New Zone Controller 8HK.
+To accomplish this Service Bulletin it is necessary to : 
+(1) Replace the cargo compartment heating-controllers 1HC and 10HC.
+Cl) Gain access. 
+(2) Replace the outflow valve in accordance with the NORD MICRO Service Bulletin No. 15703-21-005.
+(a) Remove the pack temperature controllers 7HH and 27HH. 
+(b) Do the modification to the pack temperature controllers 7HH and 27HH as given in Liebherr/ABG-Semca Service Bulletin No. 759A-21-06,
+Do the modification to the wiring in electronics rack 95VU and 96VU.
+(I) Replace the Trim Air Valve 12HC.
+1) Replace the Trim Air Valve CZHC)
+(1) Removal of the blowing duct in zones 127 and 128. 
+(2) Modification of the drain tube in zones 127 and 128. 
+(3) InstalLation of the blowing duct in zones 127 and 128. 
+(4) Installation of the drain tube in zones 127 and 128.
+(5) Removal of the blowing system in zones 127 and 128. 
+(6) Modification of the blowing duct on work shop. 
+(7) Modification of the cap on work shop. 
+(8) Installation of the blowing system in zones 127 and 128. 
+(9) Modification of the drain tube in zones 127 and 128. 
+(10) Installation of the drain tube in zones 127 and 128.
+Cl) Remove the fLoor panels between FR48 and FR64, in the AFT cargo-compartment. 
+(2) Install new insulation mats between FR47 and FR65. 
+(3) InstaLl a bracket, ducts and a trim air valve between FR48 and FR49. 
+(4) Install the heating ducts between FR48 and FR64.
+(5) Install new brackets between FRSO and FR58. 
+(6) Install the eLectricaL harness 4609VB between FR48 and FR49, left side, in the belly fairing area. 
+(71 Do the routing of electrical wires. 
+(8) Install the floor panels between FR48 and FR64, in the AFT cargo-compartment. 
+(9) Replace the heating controller IOHC in the FWD avionics compartment, on panel 96VU.
+(IO) Do the modification to the overhead circuit breaker pane L 49VU.
+Cl) Do the modification to the overhead circuit breaker panel 40VU. 
+(2) Replace the heating controLLer 10HC in the FWD avionics compartment, on panel 96VU. 
+(3) Remove the floor panels between FR48 and FR64, in the AFT cargo compartment. 
+(4) Do the rerouting of the electrical wires. 
+(5) Remove the electrical harness 4609VB between FR48 and FR49, left side, in the belLy fairing area. 
+Remove the brackets between FR50 and FR58. 
+(7) Remove the heating ducts between FR48 and FR64. 
+(8) Remove ducts and a-trim air valve between FR48 and FRSO. 
+(9) Remove the insuLation mats between FR47 and FR65. 
+(IO) Install the floor
+1) In the cockpit, removal of VU panels for access. 
+(2) In the cockpit, removal of console for access. 
+(3) In the cockpit, removal of coat stowage for access. 
+(4) In the cockpit, removal of the instrument panel blanking plate. 
+(5) Installation of a trough under the lower post of the front window frame at 3OlVU and SOOVU. 
+(6) Modification of drain line under L and R lower windshield front sections. 
+(7) Installation of the seal on the lower part of the sliding window easings. 
+(8) Installation of the insulation blankets on the visible structures. 
+(9) Installation of sealant on the structural holes at the lower and upper L and R windshield front sections.
+(IO) In the cockpit, installation of the instrument panel blanking plate. 
+(11) In the cockpit, installation of the coat stowage. 
+(12) In the cockpit, installation of the console. 
+(13) In the cockpit, instaLLation of the access VU panels.
+(I> Removing the cargo heat controller (IHC), PN 600611-00-505. 
+(2) Modifying the cargo heat controller as described in the BAVARIA AVIONIK TECHNOLOGIE GMBH Service Bulletin No. 600611-21-003. 
+(3) Installing the .improved cargo heat controller (IHC), PN 600611-00-506.
+(I) Removing the cargo heat controller (IOHC), PN 600611-00-505. 
+(2) Modifying the cargo heating controller as described in the BAVARIA 
+AVIONIK TECHNOLOGIE GMBH Service Bulletin No. 600611-21-003. 
+(3) Installing the improved cargo heat controller (IOHC), PN 600611-00-506.
+(1) Modify the equipment in the cockpit, on panel 25VU.
+(1) Gaining access.
+(2) Removal anti-icing valve.
+(3) Modification of anti-icing valve as per LIEBHERR AB6 SEMCA ServiceBulletin No. 748A-21-02.
+(4) Installation of anti-icing valve.
+Only an anti-icing valve PN748AOOOO-08 can be installedon an air conditioning pack PN744AOOOO-09.
+(2) ReMoval of air cycle Machine.
+0) Modification of air cycle Machine as per LIEBHERR ABG SEHCA ServiceBulletin No. 757A-21-05.
+(4) Installation of air cycle Machine.
+Only a aircraft cycle Machine PN757AOOOO-09 can be installedon a air conditioning pack PN744AOOOO-09.
+Cl) RepLacing the primary insuLation between FR39 and FR40.
+(1) Get access to the pack ram air inlets, LH and RH.
+(2) Check the play of the actuation mechanism of the ram air inlets. 
+(3) Check the gap between the intake nose and the diffusor ramp and adjust the gap if out of tolerance.
+(4) Perform an operational test of the pack temperature control system.

@@ -125,3 +125,61 @@ Cl) Remove the safety clips and tags and close the circuit breakers  IHH, 2HH, 3
 (2) Do an operational test of the pressure control and monitoring system (Refer to AMM 21-31-00, P. Block 501).
 (I) Close all of the circuit breakers Listed in Para. Z.A.Cl).(h). 
 (2) Do the operational test of the AFT cargo compartment heating system (Ref. AMM 21-43-00, P, Block 501).
+(I) Do a test of the lower door-area heating system <Ref. AMM 21-42-00, P. Block Sol)
+(1) Remove the safety tags and close the circuit breakers that you opened in para. 2.A. (I) cc). 
+(2) Do an operation test of the cockpit and cabin temperature control (Ref. AMM 21-63-00, P. Block 501).
+Cl) Remove the safety clips and tags and close the circuit breakers IHH, 2HH, 3HH, 4HH, 21HH, 22HH, 23HH and 24HH. 
+(2) Energize the aircraft electrical circuits (Refer to AMM 24-41-00, P. Block 201). 
+(3) Do the operational test of the pack-temperature control-system (Refer to AMM 21-61-00, P. Block 501).
+Cl) Energite the aircraft electrical circuits (Ref. AMM 24-41-00, P. Block 201). 
+(21 Remove the safety clips and tags and cLose the circuit breakers that you have opened in para. 2.A. (1) (b). 
+(3) Do a functional test of the temperature control system (Ref. AMM 21-63-60,. P. Block 501). 
+(4) De-energize the aircraft electrical circuits (Ref. AMM 24-41-00, P. Block 201)
+(1) Remove the tags and close the circuit breakers .you opened in Para. 2.A.(l)Cb). 
+(2) Do an operational test of the cargo heating system (Ref. AMM 21-43-00, P. Block 501)
+(I) Remove the safety clips and tags and close the circuit breakers opened in Para. 2-A. (l)(e). 
+(2) Energite the aircraft electrical circuits (Refer to AMM 24-41-00, P. Block 201).
+(3) Do the operational test of the pack temperature control system (Refer to AMM 21-61-00, P. Block 501).
+Do an operational test of the cockpit and cabin temperature control (Ref. AMM 21-63-34, P. BLock 501).
+Remove the safety clips and tags and close the circuit breakers that you opened in Refer to Paragraph 2.A.(1)(b) (Refer to AMM: 21-43-34, P. Block 401 ).
+(2) Do the operational test of the FWD and AFT cargo compartments heating-system (Refer to AMM: 21-43-00, P. Block 501 .
+Cl) Make certain that the work area is clean and clear of tools and miscellaneous items of equipment. 
+(2) Remove the safety clips and the tags. and close these circuit breakers: IHL, 2HL, 3HL, 6HU and 30HN.
+(3) Do the operational test of the pressure control and monitoring system in accordance with the AMM 21-31-00, P. Block 501.
+(I) Remove the safety clips and tags and close the circuit breakers opened in Refer to Paragraph 2.A.(l)(f), (Refer to AMM 21-61-34, P. Block 401) 
+(2) Do an operational test of the pack temperature control. (Refer to AMM 21-61-00, P. Block 501) 
+(3) Do an operational test of the pressure control and monitoring (Refer to AMM 21-31-00, P. Block 501) 
+(4) Do the BITE test of the ILS (Refer to AMM 34-36-00, P. Block 501) 
+must also do the Land CAT III capability test (Refer to AMM 22-97-00, P. Block 501). 
+(5) Do an operational test of the BMC CRefer.to AMM 36-11-00, P. Block 501). 
+(6) Do an operational test of the EGIU (Refer to AMM 24-22-33, P. Block 401).
+(I) Remove the safty clips and tags and close the circuit breakers given in AMM 21-43-51, P. Block 401. 
+(2) Do the operational test of the AFT cargo heating system (Refer AMM 21-43-00, P. Block 501)
+(I) Remove the safty clips and tags and close the circuit breakers as given in AMM 21-43-53, P. Block 401. 
+(2) Do the operational test of the FWD cargo heating system (Refer to AMM 21-43-00, P. Block 501).
+Do an operational test of the avionics equipment ventilation system (Refer to AMM 21-26-00, P. Block 501).
+(1) InstalL the bleed air ducts, which you removed in para. 2.A.(l)(e). 
+(2) InstalL the wastewater pipes, which you removed in para. 2.A.(llCf). 
+
+(3) Energize the aircraft electrical circuits (Ref. AMM 24-41-00, P. Block 201). 
+(4) Remove all safety clips and tags and close these circuit breakers:
+(5) Do these operational tests: Aft Cargo-Compartment-Heating System (Refer to AMM 21-43-00 P. Block 501). 
+(6) De-energize the aircraft electrical circuits (Ref, AMM 24-41-00, P. Block 2011.
+(I) For ZVU, 6VU, 301VU, 5OOVU, do an operational test of the audio management (Ref. AMM 23-51-00, P. Block 501) (Do only the part B of this procedure for the capt station). 
+(2) For 3OlVU and SOOVU, do an operational test of the GPWS ground self test function (Ref. AMM 34-48-00, P. Block 501). 
+(3) For 301VU and SOOVU, do an operational test of the EIS’ switching functions (Ref. AMM 31-60-00, P. Block 501, EFIS' part only) (Do not do parts 4C, 4D and 4E).
+(I) For ZVU, 6VU, 301VU, 5OOVU, do an operational test of the audio management (Ref. AMM 23-51-00, P. Block 501) (Do only the part B of this procedure for the capt station). 
+(2) For 3OlVU and SOOVU, do an operational test of the GPWS ground self test function (Ref. AMM 34-48-00, P. Block 501). 
+(3) For 301VU and SOOVU, do an operational test of the EIS’ switching functions (Ref. AMM 31-60-00, P. Block 501, EFIS' part only) (Do not do parts 4C, 4D and 4E)
+(4) For 130VU and 131VU, do an operational test of the FUC (Ref- AMM 31-50-00, P. Block 501) and the test below. 
+Test of the CHRONO function on the ND (Navigation Display) : Perform an EIS Start Procedure (Ref. AMM 31-60-00, P. Block 201)
+Cl> Do an operational test of the FWD cargo compartment heating system in accordance with the AMM 21-43-00, P. Block 501.
+Cl> Do an operational test of the AFT cargo compartment heating system in accordance with the AMM 21-43-00, P. Block 501.
+(1) Perform the operational test of the Manual Pressure Control and Monitoring (Ref. AMM 21-31-00, P. Block 5011.
+(1) Do the test in accordance with the AMM 21-61-00, P. Block 501.
+<1) Do the preparation for test in accordance with Am 21-52-21, P. Block 401.
+(2) Do the test in accordance with the AMM 21-52-21, P. Block 401
+(I) Make sure that the work area is clean and clear of tools and other equipment. 
+(2) Between FR39 and FR40 install the components you removed for access: passenger seats (Ref. AMM 25-21-00, P. Block 401), upper and lower sidewall panels (Ref. AMM 25-55-00, P. Block 401)
+Remove the safety clips and tags and close the circuit breakers for the connector 8HH:
+Remove the safety clips and tags and close the circuit breakers for the connector 28HH:

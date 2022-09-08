@@ -38,8 +38,8 @@ hidden_size: 1024
 eval_batch_size: 20
 
 # testing settings
-external_model: './ckpt/webnlg-all-399/external.bin'
-fine_tuned_plm_dir: './ckpt/webnlg-all-399'
+external_model: './ckpt/webnlg-all-40/external.bin'
+fine_tuned_plm_dir: './ckpt/webnlg-all-40'
 test_batch_size: 20
 max_seq_length: 100
-output_dir: './ckpt/webnlg-all-399'
+output_dir: './ckpt/prediction/'
